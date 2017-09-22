@@ -1,0 +1,70 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"$id": "https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences/master/.github/schema.json",
+	"type": "object",
+	"properties": {
+		"title": {
+			"type": "string"
+		},
+		"header_contributing": {
+			"type": "string"
+		},
+		"header": {
+			"type": "string"
+		},
+		"ios_app_link": {
+			"type": "string"
+		},
+		"year": {
+			"type": "array",
+			"uniqueItems": true
+		},
+		"conferences": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"title": "Conference Object",
+				"description": "An object that holds all the information for a specific conference.",
+				"properties": {
+					"title": {
+						"title": "Conference Title",
+						"description": "The official title of the conference.",
+						"type": "string"
+					},
+					"year": {
+						"title": "Conference Year",
+						"description": "The reference of the year of the conference.",
+						"type": "number"
+					},
+					"startdate": {
+						"title": "Conference Start date",
+						"description": "A brief 1 sentence summary of the project.",
+						"type": "string"
+					},
+					"enddate": {
+						"title": "Conference End date",
+						"description": "A brief 1 sentence summary of the project.",
+						"type": "string"
+					},
+					"homepage": {
+						"title": "Conference Homepage",
+						"description": "The URL for the project's homepage.",
+						"type": ["string", "null"],
+						"pattern": "^https?:\\/\\/.*?\\..*$",
+						"default": null
+					},
+					"where": {
+						"title": "Conference Address",
+						"description": "Contains a google maps address.",
+						"type": "string"
+					}
+
+				},
+				"required": ["title", "year", "homepage"],
+				"additionalProperties": false
+			}
+		}
+	},
+	"required": ["title", "year", "conferences"],
+	"additionalProperties": false
+}

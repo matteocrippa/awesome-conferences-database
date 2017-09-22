@@ -1,0 +1,40 @@
+{
+  "title": "Awesome Mobile Conferences",
+  "header": "# Awesome Mobile Conferences\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
+  "header_contributing": "Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/matteocrippa/awesome-mobile-conferences/graphs/contributors); you rock!",
+  "ios_app_link": "",
+  "years": [
+    2017,
+    2018
+  ],
+  "conferences": [
+    {
+        "title": "try! Swift Banagalore",
+        "year": 2017,
+        "startdate": "2017/11/17",
+        "enddate": "2017/11/18",
+        "where": "30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "homepage": "https://www.tryswift.co/events/2017/bangalore/",
+        "country": "India"
+    },
+    {
+        "title": "Mobile Era 2017",
+        "year": 2017,
+        "startdate": "2017/10/05",
+        "enddate": "2017/10/06",
+        "where": "Felix Conference Centre, Bryggetorget 3, 0250 Oslo",
+        "homepage": "https://mobileera.rocks",
+        "country": "Norway"
+
+    },
+    {
+        "title": "Pragma Conference",
+        "year": 2017,
+        "startdate": "2017/10/11",
+        "enddate": "2017/10/13",
+        "where": "Hotel San Marco, Via Baldassarre Longhena 42, Verona, Italy",
+        "homepage": "https://pragmaconference.com",
+        "country": "Italy"
+    }
+  ]
+}
