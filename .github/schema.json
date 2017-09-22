@@ -34,7 +34,7 @@
 					"year": {
 						"title": "Conference Year",
 						"description": "The reference of the year of the conference.",
-						"type": "number"
+						"type": "integer"
 					},
 					"startdate": {
 						"title": "Conference Start date",
