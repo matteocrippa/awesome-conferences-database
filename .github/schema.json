@@ -70,6 +70,6 @@
 			}
 		}
 	},
-	"required": ["title", "year", "conferences"],
+	"required": ["title", "years", "conferences"],
 	"additionalProperties": false
 }
