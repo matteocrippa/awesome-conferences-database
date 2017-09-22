@@ -15,7 +15,7 @@
 		"ios_app_link": {
 			"type": "string"
 		},
-		"year": {
+		"years": {
 			"type": "array",
 			"uniqueItems": true
 		},
@@ -56,6 +56,11 @@
 					"where": {
 						"title": "Conference Address",
 						"description": "Contains a google maps address.",
+						"type": "string"
+					},
+					"country": {
+						"title": "Conference Country",
+						"description": "Contains the country of the conference.",
 						"type": "string"
 					}
 
