@@ -13,7 +13,7 @@ git config user.name "READMEbot"
 git config user.email "readmebot@users.noreply.github.com"
 
 echo add readme
-git add README.md database.json
+git add README.md
 
 echo commit
 git commit -m "[auto] [ci skip] Generate README & Database.json"
