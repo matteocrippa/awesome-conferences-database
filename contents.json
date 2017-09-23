@@ -143,6 +143,15 @@
         "where": "Radisson Slavyanskaya, Europe Square 2, Moscow",
         "homepage": "https://mobiusconf.com/en/",
         "country": "Russia"
+    },
+    {
+        "title": "GOTO Berlin 2017",
+        "year": 2017,
+        "startdate": "2017/11/14",
+        "enddate": "2017/11/15",
+        "where": "bcc, Alexanderstraße 11, 10178 Berlin",
+        "homepage": "https://gotober.com",
+        "country": "Germany"
     }
   ]
 }
