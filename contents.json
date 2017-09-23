@@ -7,17 +7,6 @@
     2017,
     2018
   ],
-  "country": [
-    "India",
-    "Norway",
-    "Italy",
-    "Latvia",
-    "Poland",
-    "US",
-    "Denmark",
-    "UK",
-    "Switzerland"
-  ],
   "conferences": [
     {
         "title": "try! Swift Banagalore",
