@@ -95,10 +95,19 @@
     {
         "title": "Swift Alps 2017",
         "year": 2017,
-        "startdate": "2018/11/23",
-        "enddate": "2018/11/24",
+        "startdate": "2017/11/23",
+        "enddate": "2017/11/24",
         "where": "Crans-Montana, Switzerland",
         "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
+        "country": "Switzerland"
+    },
+    {
+        "title": "App Builder 2018",
+        "year": 2018,
+        "startdate": "2018/04/16",
+        "enddate": "2018/04/17",
+        "where": "Lugano, Switzerland",
+        "homepage": "https://appbuilders.ch",
         "country": "Switzerland"
     }
   ]
