@@ -179,6 +179,15 @@
         "where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
         "homepage": "https://droidkaigi.jp/2018/en/",
         "country": "Japan"
+    },
+    {
+        "title": "Droidcon Boston 2018",
+        "year": 2018,
+        "startdate": "2018/03/26",
+        "enddate": "2018/03/27",
+        "where": "Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States",
+        "homepage": "http://www.droidcon-boston.com",
+        "country": "USA"
     }
   ]
 }
