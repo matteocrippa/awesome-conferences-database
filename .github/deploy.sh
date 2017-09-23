@@ -16,7 +16,7 @@ echo add readme
 git add README.md
 
 echo commit
-git commit -m "[auto] [ci skip] Generate README & Database.json"
+git commit -m "[auto] [ci skip] Generate README"
 
 echo push
 git push --quiet "https://${GH_TOKEN_DK}@github.com/matteocrippa/awesome-mobile-conferences" master:master > /dev/null 2>&1
