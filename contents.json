@@ -116,6 +116,15 @@
         "where": "MULTIKINO, DOBREGO PASTERZA 128, Krakow",
         "homepage": "https://2017.mobiconf.org",
         "country": "Poland"
+    },
+    {
+        "title": "Devoxx 2017",
+        "year": 2017,
+        "startdate": "2017/11/06",
+        "enddate": "2017/11/10",
+        "where": "Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium",
+        "homepage": "https://devoxx.be",
+        "country": "Belgium"
     }
   ]
 }
