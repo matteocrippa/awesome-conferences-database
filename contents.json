@@ -61,7 +61,7 @@
         "enddate": "2017/11/03",
         "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
         "homepage": "https://kotlinconf.com",
-        "country": "US"
+        "country": "USA"
     },
     {
         "title": "Goto Cophenhagen",
@@ -79,7 +79,7 @@
         "enddate": "2018/03/23",
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
-        "country": "UK"
+        "country": "United Kingdom"
     },
     {
         "title": "Swift Alps 2017",
@@ -106,7 +106,7 @@
         "enddate": "2017/10/27",
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/8265-droidcon-london-2017",
-        "country": "UK"
+        "country": "United Kingdom"
     },
     {
         "title": "Mobiconf 2017",
