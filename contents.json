@@ -152,6 +152,15 @@
         "where": "bcc, Alexanderstraße 11, 10178 Berlin",
         "homepage": "https://gotober.com",
         "country": "Germany"
+    },
+    {
+        "title": "droidcon Beijing 2017",
+        "year": 2017,
+        "startdate": "2017/11/17",
+        "enddate": "2017/11/18",
+        "where": "bcc, Alexanderstraße 11, 10178 Berlin",
+        "homepage": "http://droidcon.cfict.com.cn",
+        "country": "China"
     }
   ]
 }
