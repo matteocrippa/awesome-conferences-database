@@ -39,20 +39,24 @@ def output_conferences(conferences, year)
   conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
-      where = gmapUrl(p['where'])
-      startDate = p['startdate'].gsub! "#{p['year']}/", ''
-      endDate = p['enddate'].gsub! "#{p['year']}/", ''
-      o << "* [#{p['title']}](#{p['homepage']}) (#{startDate}"
-      if startDate != endDate
-        o << " - #{endDate}"
+      # render only upcoming events
+      date = Date.parse p['startdate']
+      if date > Date.today
+        where = gmapUrl(p['where'])
+        startDate = p['startdate'].gsub! "#{p['year']}/", ''
+        endDate = p['enddate'].gsub! "#{p['year']}/", ''
+        o << "* [#{p['title']}](#{p['homepage']}) (#{startDate}"
+        if startDate != endDate
+          o << " - #{endDate}"
+        end
+        o << ") ~ "
+        c = ISO3166::Country.find_country_by_name(p['country'])
+        if !c.nil?
+          o << "#{c.emoji_flag} "
+        end
+        o << "[#{p['country']}](#{where})"
+        o << "\n"
       end
-      o << ") ~ "
-      c = ISO3166::Country.find_country_by_name(p['country'])
-      if !c.nil?
-        o << "#{c.emoji_flag} "
-      end
-      o << "[#{p['country']}](#{where})"
-      o << "\n"
     end
     o
 end
