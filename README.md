@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-12-orange.svg) | September 23, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-15-orange.svg) | September 23, 2017
 
 ### Contributing
 
@@ -31,6 +31,9 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 * [Mobilization 7](http://2017.mobilization.pl) (10/21) ~ 🇵🇱 [Poland](https://www.google.it/maps/%28Nowa%29+Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)
 * [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) (10/26 - 10/27) ~ 🇬🇧 [United Kingdom](https://www.google.it/maps/CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)
 * [KotlinConf](https://kotlinconf.com) (11/02 - 11/03) ~ [USA](https://www.google.it/maps/Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)
+* [.droidconSF](https://sf.droidcon.com) (11/05 - 11/06) ~ [USA](https://www.google.it/maps/Mission+Bay+Conference+Center%2C+San+Francisco)
+* [Devoxx 2017](https://devoxx.be) (11/06 - 11/10) ~ 🇧🇪 [Belgium](https://www.google.it/maps/Kinepolis+Antwerp%2C+Groenendaallaan+394%2C+2030+Antwerp%2C+Belgium)
+* [Mobius 2017](https://mobiusconf.com/en/) (11/11) ~ 🇷🇺 [Russia](https://www.google.it/maps/Radisson+Slavyanskaya%2C+Europe+Square+2%2C+Moscow)
 * [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/) (11/17 - 11/18) ~ 🇮🇳 [India](https://www.google.it/maps/30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)
 * [Swift Alps 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) (11/23 - 11/24) ~ 🇨🇭 [Switzerland](https://www.google.it/maps/Crans-Montana%2C+Switzerland)
 
