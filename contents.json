@@ -170,6 +170,15 @@
         "where": "WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków",
         "homepage": "http://droidcon.pl/#/",
         "country": "Poland"
+    },
+    {
+        "title": "DroidKaigi",
+        "year": 2018,
+        "startdate": "2018/02/08",
+        "enddate": "2018/02/09",
+        "where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
+        "homepage": "https://droidkaigi.jp/2018/en/",
+        "country": "Japan"
     }
   ]
 }
