@@ -18,6 +18,9 @@
 		"years": {
 			"type": "array",
 			"uniqueItems": true
+		},"country": {
+			"type": "array",
+			"uniqueItems": true
 		},
 		"conferences": {
 			"type": "array",

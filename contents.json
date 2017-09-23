@@ -12,7 +12,9 @@
     "Norway",
     "Italy",
     "Latvia",
-    "Poland"
+    "Poland",
+    "US",
+    "Denmark"
   ],
   "conferences": [
     {
@@ -64,11 +66,20 @@
     {
         "title": "KotlinConf",
         "year": 2017,
-        "startdate": "2017/10/02",
-        "enddate": "2017/10/03",
+        "startdate": "2017/11/02",
+        "enddate": "2017/11/03",
         "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
         "homepage": "https://kotlinconf.com",
         "country": "US"
+    },
+    {
+        "title": "Goto Cophenhagen",
+        "year": 2017,
+        "startdate": "2017/10/01",
+        "enddate": "2017/10/03",
+        "where": "Bella Center (Venue) Center Blvd. 5, 2300 Copenhagen S",
+        "homepage": "https://gotocph.com",
+        "country": "Denmark"
     }
   ]
 }
