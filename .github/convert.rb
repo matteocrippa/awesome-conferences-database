@@ -24,7 +24,7 @@ def output_content_category(c, indent)
 end
 
 def gmapUrl(where)
-  url = "https://www.google.it/maps/" + CGI.escape(where)
+  url = "https://www.google.it/maps/" + where.squeeze(" ").gsub(" ", "+")
   url
 end
 
