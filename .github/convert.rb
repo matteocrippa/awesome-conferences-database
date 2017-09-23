@@ -46,11 +46,12 @@ def output_conferences(conferences, year)
       if startDate != endDate
         o << " - #{endDate}"
       end
-      o << ") ~ [#{p['country']}](#{where})"
-      c = ISO3166::Country.find_country_by_name(p['country'])
+      o << ") ~ "
+      c = Country.find_country_by_name(p['country'])
       if c
-        o << c.emoji_flag
+        o << "#{c.emoji_flag} "
       end
+      o << "[#{p['country']}](#{where})"
       o << "\n"
     end
     o
