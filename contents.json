@@ -118,6 +118,15 @@
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/8265-droidcon-london-2017",
         "country": "UK"
+    },
+    {
+        "title": "Mobiconf 2017",
+        "year": 2017,
+        "startdate": "2017/10/05",
+        "enddate": "2017/10/06",
+        "where": "MULTIKINO, DOBREGO PASTERZA 128, Krakow",
+        "homepage": "https://2017.mobiconf.org",
+        "country": "Poland"
     }
   ]
 }
