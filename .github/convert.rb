@@ -87,6 +87,8 @@ def output_header(j)
   o << output_table(app, num_projects)
   o << "\n\n### Contributing\n\n"
   o << contributing
+  o << "\n\n### Legenda\n\n"
+  o << "- 📢  > Call for Paper open"
 
   o
 end
@@ -103,9 +105,6 @@ def output_table(ios_app_link, num_projects)
   o << '[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
   o << "![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg) | "
   o << date_display
-
-  o << "### Legenda"
-  o << "- 📢  > Call for Paper open"
 
   o
 end
