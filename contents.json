@@ -125,6 +125,15 @@
         "where": "Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium",
         "homepage": "https://devoxx.be",
         "country": "Belgium"
+    },
+    {
+        "title": ".droidconSF",
+        "year": 2017,
+        "startdate": "2017/11/05",
+        "enddate": "2017/11/06",
+        "where": "Mission Bay Conference Center, San Francisco",
+        "homepage": "https://sf.droidcon.com",
+        "country": "USA"
     }
   ]
 }
