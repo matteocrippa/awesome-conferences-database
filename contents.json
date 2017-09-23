@@ -61,7 +61,7 @@
         "enddate": "2017/11/03",
         "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
         "homepage": "https://kotlinconf.com",
-        "country": "USA"
+        "country": "United States"
     },
     {
         "title": "Goto Cophenhagen",
@@ -133,7 +133,7 @@
         "enddate": "2017/11/06",
         "where": "Mission Bay Conference Center, San Francisco",
         "homepage": "https://sf.droidcon.com",
-        "country": "USA"
+        "country": "United States"
     },
     {
         "title": "Mobius 2017",
@@ -187,7 +187,7 @@
         "enddate": "2018/03/27",
         "where": "Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States",
         "homepage": "http://www.droidcon-boston.com",
-        "country": "USA"
+        "country": "United States"
     }
   ]
 }
