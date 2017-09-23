@@ -104,8 +104,8 @@ def output_table(ios_app_link, num_projects)
   o << "![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg) | "
   o << date_display
 
-  o << "## Legenda"
-  o << "📢  > Call for Paper open"
+  o << "### Legenda"
+  o << "- 📢  > Call for Paper open"
 
   o
 end
