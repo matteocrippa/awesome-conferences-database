@@ -80,6 +80,15 @@
         "where": "Bella Center (Venue) Center Blvd. 5, 2300 Copenhagen S",
         "homepage": "https://gotocph.com",
         "country": "Denmark"
+    },
+    {
+        "title": "iOSCon 2018",
+        "year": 2018,
+        "startdate": "2018/03/22",
+        "enddate": "2018/03/23",
+        "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
+        "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
+        "country": "UK"
     }
   ]
 }
