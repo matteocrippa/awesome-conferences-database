@@ -7,6 +7,13 @@
     2017,
     2018
   ],
+  "country": [
+    "India",
+    "Norway",
+    "Italy",
+    "Latvia",
+    "Poland"
+  ],
   "conferences": [
     {
         "title": "try! Swift Banagalore",
@@ -44,6 +51,15 @@
         "where": "Ķīpsalas iela, Rīga, LV-1048, Latvija",
         "homepage": "https://devfest.gdg.lv/",
         "country": "Latvia"
+    },
+    {
+        "title": "Mobilization 7",
+        "year": 2017,
+        "startdate": "2017/10/21",
+        "enddate": "2017/10/21",
+        "where": "(Nowa) Hala Expo al. Politechniki 4 Łódź",
+        "homepage": "http://2017.mobilization.pl",
+        "country": "Poland"
     }
   ]
 }
