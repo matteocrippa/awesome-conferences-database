@@ -35,6 +35,15 @@
         "where": "Hotel San Marco, Via Baldassarre Longhena 42, Verona, Italy",
         "homepage": "https://pragmaconference.com",
         "country": "Italy"
+    },
+    {
+        "title": "DevFest Baltics 2017",
+        "year": 2017,
+        "startdate": "2017/10/17",
+        "enddate": "2017/10/17",
+        "where": "Ķīpsalas iela, Rīga, LV-1048, Latvija",
+        "homepage": "https://devfest.gdg.lv/",
+        "country": "Latvia"
     }
   ]
 }
