@@ -52,7 +52,7 @@ def output_conferences(conferences, year)
         o << ") ~ "
         if p['callforpaper'] == true
           o << " 📢  ~ "
-        endif
+        end
         c = ISO3166::Country.find_country_by_name(p['country'])
         if !c.nil?
           o << "#{c.emoji_flag} "
