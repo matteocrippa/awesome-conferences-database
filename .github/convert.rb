@@ -1,4 +1,5 @@
 require('cgi')
+require('countries')
 
 README = 'README.md'
 CONTENTS = 'contents.json'
