@@ -197,7 +197,7 @@
         "where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
         "homepage": "https://droidkaigi.jp/2018/en/",
         "country": "Japan",
-        "callforpaper": false
+        "callforpaper": true
     },
     {
         "title": "Droidcon Boston 2018",
