@@ -158,9 +158,18 @@
         "year": 2017,
         "startdate": "2017/11/17",
         "enddate": "2017/11/18",
-        "where": "bcc, Alexanderstraße 11, 10178 Berlin",
+        "where": "Beijing",
         "homepage": "http://droidcon.cfict.com.cn",
         "country": "China"
+    },
+    {
+        "title": "droidcon",
+        "year": 2017,
+        "startdate": "2017/12/01",
+        "enddate": "2017/12/02",
+        "where": "WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków",
+        "homepage": "http://droidcon.pl/#/",
+        "country": "Poland"
     }
   ]
 }
