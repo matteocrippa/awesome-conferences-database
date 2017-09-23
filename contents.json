@@ -14,7 +14,9 @@
     "Latvia",
     "Poland",
     "US",
-    "Denmark"
+    "Denmark",
+    "UK",
+    "Switzerland"
   ],
   "conferences": [
     {
@@ -89,6 +91,15 @@
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
         "country": "UK"
+    },
+    {
+        "title": "Swift Alps 2017",
+        "year": 2017,
+        "startdate": "2018/11/23",
+        "enddate": "2018/11/24",
+        "where": "Crans-Montana, Switzerland",
+        "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
+        "country": "Switzerland"
     }
   ]
 }
