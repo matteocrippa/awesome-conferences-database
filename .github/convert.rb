@@ -41,7 +41,10 @@ def output_conferences(conferences, year)
       where = gmapUrl(p['where'])
       startDate = p['startdate'].gsub! p['year']+'/', ''
       endDate = p['enddate'].gsub! p['year']+'/', ''
-      o << "* [#{p['title']}](#{p['homepage']}) (#{startDate} - #{endDate}) ~ [#{p['country']}](#{where})\n"
+      o << "* [#{p['title']}](#{p['homepage']}) (#{startDate}"
+      if startDate != endDate
+        o << " - #{endDate}"
+      o << ") ~ [#{p['country']}](#{where})\n"
     end
     o
 end
