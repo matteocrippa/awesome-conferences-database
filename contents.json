@@ -134,6 +134,15 @@
         "where": "Mission Bay Conference Center, San Francisco",
         "homepage": "https://sf.droidcon.com",
         "country": "USA"
+    },
+    {
+        "title": "Mobius 2017",
+        "year": 2017,
+        "startdate": "2017/11/11",
+        "enddate": "2017/11/11",
+        "where": "Radisson Slavyanskaya, Europe Square 2, Moscow",
+        "homepage": "https://mobiusconf.com/en/",
+        "country": "Russia"
     }
   ]
 }
