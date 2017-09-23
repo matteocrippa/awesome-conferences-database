@@ -27,11 +27,16 @@ def gmapUrl(where)
   url
 end
 
+def sort_by_date(dates, direction="ASC")
+  sorted = dates.sort
+  sorted.reverse! if direction == "DESC"
+  sorted
+end
+
 def output_conferences(conferences, year)
   o = ''
   conferences.select { |p| p['year'] == year }
-    .sort_by {|k,v| k['startdate']}
-    .sort_by {|k,v| k['title'].downcase }
+    .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
       where = gmapUrl(p['where'])
       o << "* [#{p['title']}](#{p['homepage']}) #{p['startdate']} - #{p['enddate']} @ [#{p['country']}](#{where})\n"
