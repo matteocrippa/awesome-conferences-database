@@ -42,7 +42,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 
 ## 2018
 
-* [DroidKaigi](https://droidkaigi.jp/2018/en/) (02/08 - 02/09) ~ 🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)
+* [DroidKaigi](https://droidkaigi.jp/2018/en/) (02/08 - 02/09) ~  📢  ~ 🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)
 * [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) (03/22 - 03/23) ~ 🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)
 * [Droidcon Boston 2018](http://www.droidcon-boston.com) (03/26 - 03/27) ~ 🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)
 * [App Builder 2018](https://appbuilders.ch) (04/16 - 04/17) ~ 🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)
