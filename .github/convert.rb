@@ -44,6 +44,7 @@ def output_conferences(conferences, year)
       o << "* [#{p['title']}](#{p['homepage']}) (#{startDate}"
       if startDate != endDate
         o << " - #{endDate}"
+      end
       o << ") ~ [#{p['country']}](#{where})\n"
     end
     o
