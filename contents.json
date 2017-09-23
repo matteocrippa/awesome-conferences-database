@@ -60,6 +60,15 @@
         "where": "(Nowa) Hala Expo al. Politechniki 4 Łódź",
         "homepage": "http://2017.mobilization.pl",
         "country": "Poland"
+    },
+    {
+        "title": "KotlinConf",
+        "year": 2017,
+        "startdate": "2017/10/02",
+        "enddate": "2017/10/03",
+        "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
+        "homepage": "https://kotlinconf.com",
+        "country": "US"
     }
   ]
 }
