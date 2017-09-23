@@ -15,7 +15,8 @@
         "enddate": "2017/11/18",
         "where": "30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
         "homepage": "https://www.tryswift.co/events/2017/bangalore/",
-        "country": "India"
+        "country": "India",
+        "callforpaper": false
     },
     {
         "title": "Mobile Era 2017",
@@ -24,7 +25,8 @@
         "enddate": "2017/10/06",
         "where": "Felix Conference Centre, Bryggetorget 3, 0250 Oslo",
         "homepage": "https://mobileera.rocks",
-        "country": "Norway"
+        "country": "Norway",
+        "callforpaper": false
 
     },
     {
@@ -34,7 +36,8 @@
         "enddate": "2017/10/13",
         "where": "Hotel San Marco, Via Baldassarre Longhena 42, Verona, Italy",
         "homepage": "https://pragmaconference.com",
-        "country": "Italy"
+        "country": "Italy",
+        "callforpaper": false
     },
     {
         "title": "DevFest Baltics 2017",
@@ -43,7 +46,8 @@
         "enddate": "2017/10/17",
         "where": "Ķīpsalas iela, Rīga, LV-1048, Latvija",
         "homepage": "https://devfest.gdg.lv/",
-        "country": "Latvia"
+        "country": "Latvia",
+        "callforpaper": false
     },
     {
         "title": "Mobilization 7",
@@ -52,7 +56,8 @@
         "enddate": "2017/10/21",
         "where": "(Nowa) Hala Expo al. Politechniki 4 Łódź",
         "homepage": "http://2017.mobilization.pl",
-        "country": "Poland"
+        "country": "Poland",
+        "callforpaper": false
     },
     {
         "title": "KotlinConf",
@@ -61,7 +66,8 @@
         "enddate": "2017/11/03",
         "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
         "homepage": "https://kotlinconf.com",
-        "country": "United States"
+        "country": "United States",
+        "callforpaper": false
     },
     {
         "title": "Goto Cophenhagen",
@@ -70,7 +76,8 @@
         "enddate": "2017/10/03",
         "where": "Bella Center (Venue) Center Blvd. 5, 2300 Copenhagen S",
         "homepage": "https://gotocph.com",
-        "country": "Denmark"
+        "country": "Denmark",
+        "callforpaper": false
     },
     {
         "title": "iOSCon 2018",
@@ -79,7 +86,8 @@
         "enddate": "2018/03/23",
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
-        "country": "United Kingdom"
+        "country": "United Kingdom",
+        "callforpaper": false
     },
     {
         "title": "Swift Alps 2017",
@@ -88,7 +96,8 @@
         "enddate": "2017/11/24",
         "where": "Crans-Montana, Switzerland",
         "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
-        "country": "Switzerland"
+        "country": "Switzerland",
+        "callforpaper": false
     },
     {
         "title": "App Builder 2018",
@@ -97,7 +106,8 @@
         "enddate": "2018/04/17",
         "where": "Lugano, Switzerland",
         "homepage": "https://appbuilders.ch",
-        "country": "Switzerland"
+        "country": "Switzerland",
+        "callforpaper": false
     },
     {
         "title": "droidcon London 2017",
@@ -106,7 +116,8 @@
         "enddate": "2017/10/27",
         "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
         "homepage": "https://skillsmatter.com/conferences/8265-droidcon-london-2017",
-        "country": "United Kingdom"
+        "country": "United Kingdom",
+        "callforpaper": false
     },
     {
         "title": "Mobiconf 2017",
@@ -115,7 +126,8 @@
         "enddate": "2017/10/06",
         "where": "MULTIKINO, DOBREGO PASTERZA 128, Krakow",
         "homepage": "https://2017.mobiconf.org",
-        "country": "Poland"
+        "country": "Poland",
+        "callforpaper": false
     },
     {
         "title": "Devoxx 2017",
@@ -124,7 +136,8 @@
         "enddate": "2017/11/10",
         "where": "Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium",
         "homepage": "https://devoxx.be",
-        "country": "Belgium"
+        "country": "Belgium",
+        "callforpaper": false
     },
     {
         "title": ".droidconSF",
@@ -133,7 +146,8 @@
         "enddate": "2017/11/06",
         "where": "Mission Bay Conference Center, San Francisco",
         "homepage": "https://sf.droidcon.com",
-        "country": "United States"
+        "country": "United States",
+        "callforpaper": false
     },
     {
         "title": "Mobius 2017",
@@ -142,7 +156,8 @@
         "enddate": "2017/11/11",
         "where": "Radisson Slavyanskaya, Europe Square 2, Moscow",
         "homepage": "https://mobiusconf.com/en/",
-        "country": "Russia"
+        "country": "Russia",
+        "callforpaper": false
     },
     {
         "title": "GOTO Berlin 2017",
@@ -151,7 +166,8 @@
         "enddate": "2017/11/15",
         "where": "bcc, Alexanderstraße 11, 10178 Berlin",
         "homepage": "https://gotober.com",
-        "country": "Germany"
+        "country": "Germany",
+        "callforpaper": false
     },
     {
         "title": "droidcon Beijing 2017",
@@ -160,7 +176,8 @@
         "enddate": "2017/11/18",
         "where": "Beijing",
         "homepage": "http://droidcon.cfict.com.cn",
-        "country": "China"
+        "country": "China",
+        "callforpaper": false
     },
     {
         "title": "droidcon",
@@ -169,7 +186,8 @@
         "enddate": "2017/12/02",
         "where": "WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków",
         "homepage": "http://droidcon.pl/#/",
-        "country": "Poland"
+        "country": "Poland",
+        "callforpaper": false
     },
     {
         "title": "DroidKaigi",
@@ -178,7 +196,8 @@
         "enddate": "2018/02/09",
         "where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
         "homepage": "https://droidkaigi.jp/2018/en/",
-        "country": "Japan"
+        "country": "Japan",
+        "callforpaper": false
     },
     {
         "title": "Droidcon Boston 2018",
@@ -187,7 +206,8 @@
         "enddate": "2018/03/27",
         "where": "Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States",
         "homepage": "http://www.droidcon-boston.com",
-        "country": "United States"
+        "country": "United States",
+        "callforpaper": false
     }
   ]
 }
