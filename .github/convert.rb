@@ -51,7 +51,7 @@ def output_conferences(conferences, year)
         end
         o << ") ~ "
         if p['callforpaper'] == true
-          o << " 📢  ~ "
+          o << " (( 📢  ~ "
         end
         c = ISO3166::Country.find_country_by_name(p['country'])
         if !c.nil?
