@@ -89,6 +89,13 @@ def output_toc(j)
     toc << "- [#{id}](##{id})\n"
   end
 
+  #toc << "\n\n### Countries\n\n"
+
+  #j['country'].each do |c|
+  #  id = c
+  #  toc << "- [#{id}](##{id})\n"
+  #end
+
   toc
 end
 
