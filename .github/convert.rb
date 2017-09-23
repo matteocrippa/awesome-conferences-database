@@ -39,7 +39,9 @@ def output_conferences(conferences, year)
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
       where = gmapUrl(p['where'])
-      o << "* [#{p['title']}](#{p['homepage']}) #{p['startdate']} - #{p['enddate']} @ [#{p['country']}](#{where})\n"
+      startDate = p['startdate'].gsub! '2017/', ''
+      endDate = p['enddate'].gsub! '2017/', ''
+      o << "* [#{p['title']}](#{p['homepage']}) #{startDate} - #{endDate} // [#{p['country']}](#{where})\n"
     end
     o
 end
