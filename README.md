@@ -10,11 +10,15 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-20-orange.svg) | September 23, 2017### Legenda- 📢  > Call for Paper open
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-20-orange.svg) | September 23, 2017
 
 ### Contributing
 
 Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/matteocrippa/awesome-mobile-conferences/graphs/contributors); you rock!
+
+### Legenda
+
+- 📢  > Call for Paper open
 
 ### Years
 
