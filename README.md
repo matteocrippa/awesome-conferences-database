@@ -1,6 +1,6 @@
 # Awesome Mobile Conferences
- 
-<!-- 
+
+<!--
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
@@ -8,9 +8,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-| iOS App | Awesome | Conferences | Updated
-| :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)]() | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-12-orange.svg) | September 23, 2017
+| Awesome | Conferences | Updated
+| :-: | :-: | :-:
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-12-orange.svg) | September 23, 2017
 
 ### Contributing
 
