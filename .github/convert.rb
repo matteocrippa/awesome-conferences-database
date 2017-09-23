@@ -48,7 +48,7 @@ def output_conferences(conferences, year)
       end
       o << ") ~ "
       c = Country.find_country_by_name(p['country'])
-      if c
+      if !c.nil?
         o << "#{c.emoji_flag} "
       end
       o << "[#{p['country']}](#{where})"
