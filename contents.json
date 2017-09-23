@@ -109,6 +109,15 @@
         "where": "Lugano, Switzerland",
         "homepage": "https://appbuilders.ch",
         "country": "Switzerland"
+    },
+    {
+        "title": "droidcon London 2017",
+        "year": 2017,
+        "startdate": "2017/10/26",
+        "enddate": "2017/10/27",
+        "where": "CodeNode, 10 South Place, London, EC2M 7EB, GB",
+        "homepage": "https://skillsmatter.com/conferences/8265-droidcon-london-2017",
+        "country": "UK"
     }
   ]
 }
