@@ -218,6 +218,16 @@
         "homepage": "https://www.rwdevcon.com",
         "country": "United States",
         "callforpaper": false
+    },
+    {
+        "title": "iOS Conf SG 2017",
+        "year": 2017,
+        "startdate": "2017/10/19",
+        "enddate": "2017/10/20",
+        "where": "Theatre for the Arts, Nanyang Polytechnic, Singapore",
+        "homepage": "http://iosconf.sg",
+        "country": "Singapore",
+        "callforpaper": false
     }
   ]
 }
