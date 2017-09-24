@@ -208,6 +208,16 @@
         "homepage": "http://www.droidcon-boston.com",
         "country": "United States",
         "callforpaper": false
+    },
+    {
+        "title": "RWDevCon 2018",
+        "year": 2018,
+        "startdate": "2018/03/05",
+        "enddate": "2018/03/07",
+        "where": "The Westin Alexandria Hotel, VA",
+        "homepage": "https://www.rwdevcon.com",
+        "country": "United States",
+        "callforpaper": false
     }
   ]
 }
