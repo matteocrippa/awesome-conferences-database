@@ -132,7 +132,7 @@ end
 def write_readme(j, filename)
     # output = description(j)
     output = output_header(j)
-    output << output_toc(j)
+    #output << output_toc(j)
     output << output_content(j)
 
     File.open(filename, 'w') { |f| f.write output}
