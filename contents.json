@@ -228,6 +228,17 @@
         "homepage": "http://iosconf.sg",
         "country": "Singapore",
         "callforpaper": false
+    },
+    {
+        "title": "UA Mobile",
+        "year": 2017,
+        "startdate": "2017/11/25",
+        "enddate": "2017/11/25",
+        "where": "Kyiv, Stolichne shose 103, Ramada Encore Kiev hotel",
+        "homepage": "http://www.uamobile.org",
+        "country": "Ukraine",
+        "callforpaper": false
     }
+
   ]
 }
