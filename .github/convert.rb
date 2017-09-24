@@ -85,9 +85,11 @@ def output_header(j)
   o = header
   o << "\n\n"
   o << output_table(app, num_projects)
+  o << "\n\n### Mobile Apps\n\n"
+  o << "[![](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)"
   o << "\n\n### Contributing\n\n"
   o << contributing
-  o << "\n\n### Legenda\n\n"
+  o << "\n\n\n### Legenda\n\n"
   o << "- (( 📢  > Call for Paper open"
 
   o
