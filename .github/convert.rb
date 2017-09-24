@@ -88,7 +88,7 @@ def output_header(j)
   o << "\n\n### Contributing\n\n"
   o << contributing
   o << "\n\n### Legenda\n\n"
-  o << "- 📢  > Call for Paper open"
+  o << "- (( 📢  > Call for Paper open"
 
   o
 end
