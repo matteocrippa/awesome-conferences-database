@@ -24,12 +24,6 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 ### Legenda
 
 - (( 📢  > Call for Paper open
-
-### Years
-
-- [2017](#2017)
-- [2018](#2018)
-
 ## 2017
 
 * [Goto Cophenhagen](https://gotocph.com) (10/01 - 10/03) ~ 🇩🇰 [Denmark](https://www.google.com/maps/search/?api=1&query=Bella+Center+%28Venue%29+Center+Blvd.+5%2C+2300+Copenhagen+S)
