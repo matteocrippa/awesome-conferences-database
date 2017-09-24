@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-20-orange.svg) | September 23, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-22-orange.svg) | September 24, 2017
 
 ### Contributing
 
@@ -32,6 +32,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 * [Mobiconf 2017](https://2017.mobiconf.org) (10/05 - 10/06) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=MULTIKINO%2C+DOBREGO+PASTERZA+128%2C+Krakow)
 * [Pragma Conference](https://pragmaconference.com) (10/11 - 10/13) ~ 🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)
 * [DevFest Baltics 2017](https://devfest.gdg.lv/) (10/17) ~ 🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)
+* [iOS Conf SG 2017](http://iosconf.sg) (10/19 - 10/20) ~ 🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)
 * [Mobilization 7](http://2017.mobilization.pl) (10/21) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=%28Nowa%29+Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)
 * [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) (10/26 - 10/27) ~ 🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)
 * [KotlinConf](https://kotlinconf.com) (11/02 - 11/03) ~ 🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)
@@ -47,6 +48,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 ## 2018
 
 * [DroidKaigi](https://droidkaigi.jp/2018/en/) (02/08 - 02/09) ~  (( 📢  ~ 🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)
+* [RWDevCon 2018](https://www.rwdevcon.com) (03/05 - 03/07) ~ 🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)
 * [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) (03/22 - 03/23) ~ 🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)
 * [Droidcon Boston 2018](http://www.droidcon-boston.com) (03/26 - 03/27) ~ 🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)
 * [App Builder 2018](https://appbuilders.ch) (04/16 - 04/17) ~ 🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)
