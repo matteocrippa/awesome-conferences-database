@@ -1,4 +1,4 @@
-# Awesome Mobile Conferences
+![](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)
  
 <!-- 
 
@@ -18,7 +18,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 
 ### Legenda
 
-- 📢  > Call for Paper open
+- (( 📢  > Call for Paper open
 
 ### Years
 
