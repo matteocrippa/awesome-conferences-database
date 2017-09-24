@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-22-orange.svg) | September 24, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-23-orange.svg) | September 24, 2017
 
 ### Contributing
 
@@ -43,6 +43,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 * [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/) (11/17 - 11/18) ~ 🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)
 * [droidcon Beijing 2017](http://droidcon.cfict.com.cn) (11/17 - 11/18) ~ 🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)
 * [Swift Alps 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) (11/23 - 11/24) ~ 🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)
+* [UA Mobile](http://www.uamobile.org) (11/25) ~ 🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)
 * [droidcon](http://droidcon.pl/#/) (12/01 - 12/02) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)
 
 ## 2018
