@@ -7,7 +7,7 @@ before_script:
   - gem install awesome_bot
   - sudo pip install json-spec
 script:
-  - awesome_bot contents.json -w skillsmatter,cfict
+  - awesome_bot contents.json -w skillsmatter,cfict,swiftbynorthwest
   - json validate --schema-file=.github/schema.json --document-file=contents.json
 after_success:
   - ruby .github/convert.rb
