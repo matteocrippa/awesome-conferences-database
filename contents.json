@@ -248,6 +248,16 @@
         "homepage": "http://droidcon.nyc",
         "country": "United States",
         "callforpaper": false
+    },
+    {
+        "title": "DevFest Florida 2017",
+        "year": 2017,
+        "startdate": "2017/11/11",
+        "enddate": "2017/11/11",
+        "where": "Disney's Contemporary Resort, 4600 North World Dr., Orlando, FL 32830 United States",
+        "homepage": "https://devfestflorida.org/",
+        "country": "United States",
+        "callforpaper": false
     }
 
   ]
