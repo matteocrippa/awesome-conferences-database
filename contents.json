@@ -268,6 +268,16 @@
         "homepage": "http://www.openmobilemedia.com/san-francisco/",
         "country": "United States",
         "callforpaper": false
+    }{
+
+      "title": "Øredev",
+      "year": 2017,
+      "startdate": "2017/11/7",
+      "enddate": "2017/11/10",
+      "where": "Öredev AB, Hans Michelsensgatan 10, 3rd floor, SE-211 20 Malmö, Sweden",
+      "homepage": "http://www.oredev.org",
+      "country": "Sweden",
+      "callforpaper": false
     }
 
   ]
