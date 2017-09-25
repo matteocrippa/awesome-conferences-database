@@ -238,6 +238,16 @@
         "homepage": "http://www.uamobile.org",
         "country": "Ukraine",
         "callforpaper": false
+    },
+    {
+        "title": ".droidconNYC 2017",
+        "year": 2017,
+        "startdate": "2017/09/25",
+        "enddate": "2017/09/26",
+        "where": "Convene (46th btwn 6th & 7th), NYC",
+        "homepage": "http://droidcon.nyc",
+        "country": "United States",
+        "callforpaper": false
     }
 
   ]
