@@ -258,6 +258,16 @@
         "homepage": "https://devfestflorida.org/",
         "country": "United States",
         "callforpaper": false
+    },
+    {
+        "title": "Open Mobile Summit 2017",
+        "year": 2017,
+        "startdate": "2017/11/29",
+        "enddate": "2017/11/30",
+        "where": "GRAND HYATT SAN FRANCISCO, SAN FRANCISCO, USA",
+        "homepage": "http://www.openmobilemedia.com/san-francisco/",
+        "country": "United States",
+        "callforpaper": false
     }
 
   ]
