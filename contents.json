@@ -268,7 +268,7 @@
         "homepage": "http://www.openmobilemedia.com/san-francisco/",
         "country": "United States",
         "callforpaper": false
-    }{
+    },{
 
       "title": "Øredev",
       "year": 2017,
@@ -277,6 +277,16 @@
       "where": "Öredev AB, Hans Michelsensgatan 10, 3rd floor, SE-211 20 Malmö, Sweden",
       "homepage": "http://www.oredev.org",
       "country": "Sweden",
+      "callforpaper": false
+    },{
+
+      "title": "Swift By Northwest",
+      "year": 2017,
+      "startdate": "2017/10/27",
+      "enddate": "2017/10/28",
+      "where": "18118 International Blvd, Seattle, WA 98188",
+      "homepage": "https://swiftbynorthwest.com",
+      "country": "United States",
       "callforpaper": false
     }
 
