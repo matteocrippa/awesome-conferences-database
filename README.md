@@ -47,7 +47,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 * [Swift Alps 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) (11/23 - 11/24) ~ 🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)
 * [UA Mobile](http://www.uamobile.org) (11/25) ~ 🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)
 * [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/) (11/29 - 11/30) ~ 🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)
-* [droidcon](http://droidcon.pl/#/) (12/01 - 12/02) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)
+* [droidcon](http://droidcon.pl/#/) (12/01 - 12/02) ~  (( 📢  ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)
 
 ## 2018
 
