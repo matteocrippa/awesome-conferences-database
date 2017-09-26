@@ -27,7 +27,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 ## 2017
 
 * [Goto Cophenhagen](https://gotocph.com) (10/01 - 10/03) ~ 🇩🇰 [Denmark](https://www.google.com/maps/search/?api=1&query=Bella+Center%2C+Center+Blvd.+5%2C+2300+Copenhagen)
-* [Mobile Era 2017](https://mobileera.rocks) (10/05 - 10/06) ~ 🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0250+Oslo)
+* [Mobile Era 2017](https://mobileera.rocks) (10/05 - 10/06) ~ 🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0125+Oslo)
 * [Mobiconf 2017](https://2017.mobiconf.org) (10/05 - 10/06) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=MULTIKINO%2C+DOBREGO+PASTERZA+128%2C+Krakow)
 * [Pragma Conference](https://pragmaconference.com) (10/11 - 10/13) ~ 🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)
 * [iOS Conf SG 2017](http://iosconf.sg) (10/19 - 10/20) ~ 🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)
