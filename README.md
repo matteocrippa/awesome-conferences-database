@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/AwesomeMobileConferences/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)
- 
-<!-- 
+
+<!--
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
@@ -30,7 +30,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 * [Mobile Era 2017](https://mobileera.rocks) (10/05 - 10/06) ~ 🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0250+Oslo)
 * [Mobiconf 2017](https://2017.mobiconf.org) (10/05 - 10/06) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=MULTIKINO%2C+DOBREGO+PASTERZA+128%2C+Krakow)
 * [Pragma Conference](https://pragmaconference.com) (10/11 - 10/13) ~ 🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)
-* [DevFest Baltics 2017](https://devfest.gdg.lv/) (10/17) ~ 🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)
+* [DevFest Baltics 2017](https://devfest.gdg.lv/) (11/17) ~ 🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)
 * [iOS Conf SG 2017](http://iosconf.sg) (10/19 - 10/20) ~ 🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)
 * [Mobilization 7](http://2017.mobilization.pl) (10/21) ~ 🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=%28Nowa%29+Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)
 * [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) (10/26 - 10/27) ~ 🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)
