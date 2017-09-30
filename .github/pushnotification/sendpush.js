@@ -41,7 +41,9 @@ json.conferences.forEach(function(item) {
 if(totalNew > 0) {
   const message = 'Hey, we have found ' + totalNew+ ' new mobile conference, check them out!';
   // send push
-  client.sendNotification(message);
+  client.sendNotification(message, {
+    included_segments: "Active Users"
+  });
 
   console.log('OneSignal Message sent: ' + message);
   // add last
