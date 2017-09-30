@@ -12,7 +12,7 @@ const lastContent = jsonfile.readFileSync(lastFile);
 //console.log(lastContent);
 
 // add env var to travisCI
-const client = new OneSignalClient(process.env.ONESIGNAL_APPID, process.env.ONESIGNAL_KEY);
+const client = new OneSignal(process.env.ONESIGNAL_APPID, process.env.ONESIGNAL_KEY);
 
 // read json file
 const json = jsonfile.readFileSync(jsonFile);
