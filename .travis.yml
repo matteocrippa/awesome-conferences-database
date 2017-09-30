@@ -3,7 +3,7 @@ language: ruby
 rvm: 2.2
 node_js: "0.10"
 before_script:
-  - npm install --prefix .github/pushnotification/ .github/pushnotification/
+  - npm install --prefix .github/pushnotification/node_modules .github/pushnotification/
   - gem install countries
   - gem install awesome_bot
   - sudo pip install json-spec
