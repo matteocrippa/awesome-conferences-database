@@ -1,11 +1,12 @@
 {
   "name": "pushnotification",
   "version": "0.0.1",
-  "description": "Send a push notification to subcribers if a PR is accepted",
+  "description": "Send a push notification to subcribers if a conference has been added",
   "main": "sendpush.js",
   "author": "Matteo Crippa",
   "license": "MIT",
   "dependencies": {
+    "jsonfile": "^4.0.0",
     "node-onesignal": "^0.3.1"
   }
 }
