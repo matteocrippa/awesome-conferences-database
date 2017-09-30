@@ -44,6 +44,7 @@ if(totalNew > 0) {
   client.sendNotification(message, {
       included_segments: 'all'
   });
+
   //console.log(message);
   // add last
   lastContent.last = lastConference;
