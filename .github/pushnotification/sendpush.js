@@ -39,7 +39,12 @@ json.conferences.forEach(function(item) {
 //console.log(totalNew);
 
 if(totalNew > 0) {
-  const message = 'Hey, we have found ' + totalNew+ ' new mobile conference, check them out!';
+  var message = '';
+  if(totalNew == 1) {
+    message = 'Hey, we have found ' + totalNew+ ' new mobile conference, check it out!';
+  } else {
+    message = 'Hey, we have found ' + totalNew+ ' new mobile conferences, check them out!';    
+  }
   // send push
   client.sendNotification(message, {
     included_segments: "Active Users"
