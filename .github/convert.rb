@@ -35,8 +35,10 @@ def sort_by_date(dates, direction="ASC")
 end
 
 def output_conferences(conferences, year)
-  o = ''
-  conferences.select { |p| p['year'] == year }
+  o = ""
+  o << "| Name | Date | Place | Call For Paper |"
+  o << "| --- | --- | --- | --- |"
+    conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
       # render only upcoming events
@@ -73,8 +75,6 @@ def output_content(j)
   conferences = j['conferences']
 
   j['years'].each do |c|
-    toc << "| Name | Date | Place | Call For Paper |"
-    toc << "| --- | --- | --- | --- |"
     toc << output_content_category(c, 2)
     toc << output_conferences(conferences, c)
   end
