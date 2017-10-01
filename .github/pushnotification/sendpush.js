@@ -42,7 +42,7 @@ json.conferences.forEach(function(item) {
 
 if(newConferences.length > 0) {
   var message = '';
-  if(totalNew == 1) {
+  if(newConferences.length == 1) {
     message = totalNew + ' new mobile conference ('+ newConferences[0] +'), check it out!';
   } else {
     message = totalNew + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
