@@ -305,6 +305,15 @@
       "homepage": "http://www.developerweek.com",
       "country": "United States",
       "callforpaper": false
+    },{
+      "title": "GOTO Amsterdam 2018",
+      "year": 2018,
+      "startdate": "2018/06/18",
+      "enddate": "2018/06/20",
+      "where": "Beurs van Berlage, Damrak 243, 1012 ZJ Amsterdam",
+      "homepage": "https://gotoams.nl",
+      "country": "Netherlands",
+      "callforpaper": false
     }
 
   ]

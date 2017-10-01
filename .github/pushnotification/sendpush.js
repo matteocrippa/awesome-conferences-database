@@ -20,14 +20,16 @@ const json = jsonfile.readFileSync(jsonFile);
 // last repo found
 var lastConference = "";
 
+// new conferences
+var newConferences = [];
+
 // loop
 var startCounting = false;
-var totalNew = 0;
 json.conferences.forEach(function(item) {
   //console.log(item);
   if(startCounting == true) {
-    totalNew++;
     lastConference = item.homepage;
+    newConferences.push(item.title);
   }
   if(item.homepage == lastContent.last) {
     startCounting = true;
@@ -38,12 +40,12 @@ json.conferences.forEach(function(item) {
 
 //console.log(totalNew);
 
-if(totalNew > 0) {
+if(newConferences.length > 0) {
   var message = '';
   if(totalNew == 1) {
-    message = 'Hey, we have found ' + totalNew+ ' new mobile conference, check it out!';
+    message = totalNew + ' new mobile conference ('+ newConferences[0] +'), check it out!';
   } else {
-    message = 'Hey, we have found ' + totalNew+ ' new mobile conferences, check them out!';    
+    message = totalNew + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
   }
   // send push
   client.sendNotification(message, {
