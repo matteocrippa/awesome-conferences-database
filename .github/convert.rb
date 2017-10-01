@@ -45,20 +45,23 @@ def output_conferences(conferences, year)
         where = gmapUrl(p['where'])
         startDate = p['startdate'].gsub! "#{p['year']}/", ''
         endDate = p['enddate'].gsub! "#{p['year']}/", ''
-        o << "* [#{p['title']}](#{p['homepage']}) (#{startDate}"
+        o << "| [#{p['title']}](#{p['homepage']}) | #{startDate}"
         if startDate != endDate
           o << " - #{endDate}"
         end
-        o << ") ~ "
-        if p['callforpaper'] == true
-          o << " (( 📢  ~ "
-        end
+        o << "|"
         c = ISO3166::Country.find_country_by_name(p['country'])
         if !c.nil?
           o << "#{c.emoji_flag} "
         end
         o << "[#{p['country']}](#{where})"
-        o << "\n"
+        o << "|"
+        if p['callforpaper'] == true
+          o << " (( 📢 "
+        else
+          o << " --- "
+        end
+        o << "|"
       end
     end
     o
@@ -70,6 +73,8 @@ def output_content(j)
   conferences = j['conferences']
 
   j['years'].each do |c|
+    toc << "| Name | Date | Place | Call For Paper |"
+    toc << "| --- | --- | --- | --- |"
     toc << output_content_category(c, 2)
     toc << output_conferences(conferences, c)
   end
