@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-31-orange.svg) | October 01, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-31-orange.svg) | October 02, 2017
 
 ### Mobile Apps
 
@@ -28,11 +28,11 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 
 | Name | Date | Place | Call For Paper |
 | --- | --- | --- | --- |
-| [Mobile Era 2017](https://mobileera.rocks) | 10/05 - 10/06|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0125+Oslo)| --- |
+| [Mobile Era 2017](https://mobileera.rocks) | 10/05 - 10/06|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0125%2C+Oslo)| --- |
 | [Mobiconf 2017](https://2017.mobiconf.org) | 10/05 - 10/06|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=MULTIKINO%2C+DOBREGO+PASTERZA+128%2C+Krakow)| --- |
 | [Pragma Conference](https://pragmaconference.com) | 10/11 - 10/13|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
 | [iOS Conf SG 2017](http://iosconf.sg) | 10/19 - 10/20|🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)| --- |
-| [Mobilization 7](http://2017.mobilization.pl) | 10/21|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=%28Nowa%29+Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)| --- |
+| [Mobilization 7](http://2017.mobilization.pl) | 10/21|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)| --- |
 | [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) | 10/26 - 10/27|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)| --- |
 | [Swift By Northwest](https://swiftbynorthwest.com) | 10/27 - 10/28|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=18118+International+Blvd%2C+Seattle%2C+WA+98188)| --- |
 | [KotlinConf](https://kotlinconf.com) | 11/02 - 11/03|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)| --- |
