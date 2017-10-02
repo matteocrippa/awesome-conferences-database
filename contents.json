@@ -23,7 +23,7 @@
         "year": 2017,
         "startdate": "2017/10/05",
         "enddate": "2017/10/06",
-        "where": "Felix Conference Centre, Bryggetorget 3, 0125 Oslo",
+        "where": "Felix Conference Centre, Bryggetorget 3, 0125, Oslo",
         "homepage": "https://mobileera.rocks",
         "country": "Norway",
         "callforpaper": false
@@ -54,7 +54,7 @@
         "year": 2017,
         "startdate": "2017/10/21",
         "enddate": "2017/10/21",
-        "where": "(Nowa) Hala Expo al. Politechniki 4 Łódź",
+        "where": "Hala Expo al. Politechniki 4 Łódź",
         "homepage": "http://2017.mobilization.pl",
         "country": "Poland",
         "callforpaper": false
@@ -74,7 +74,7 @@
         "year": 2017,
         "startdate": "2017/10/01",
         "enddate": "2017/10/03",
-        "where": "Bella Center, Center Blvd. 5, 2300 Copenhagen",
+        "where": "Bella Center, Center Blvd. 5, 2300, Copenhagen",
         "homepage": "https://gotocph.com",
         "country": "Denmark",
         "callforpaper": false
