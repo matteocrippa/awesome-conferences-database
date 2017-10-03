@@ -2,7 +2,8 @@
   "title": "Awesome Mobile Conferences",
   "header": "![](https://raw.githubusercontent.com/AwesomeMobileConferences/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
   "header_contributing": "Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/graphs/contributors); you rock!",
-  "ios_app_link": "",
+  "ios_app_link": "https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8",
+  "android_app_link": "https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc",
   "years": [
     2017,
     2018
