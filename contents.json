@@ -314,6 +314,15 @@
       "homepage": "https://gotoams.nl",
       "country": "Netherlands",
       "callforpaper": false
+    },{
+      "title": "MBLTdev 2017",
+      "year": 2017,
+      "startdate": "2017/10/27",
+      "enddate": "2017/06/27",
+      "where": "Bersenevskaya Haberezhnaya, 6, Moskva, Russia, 119072",
+      "homepage": "https://mbltdev.ru/en",
+      "country": "Russia",
+      "callforpaper": false
     }
 
   ]
