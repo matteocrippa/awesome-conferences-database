@@ -15,6 +15,9 @@
 		"ios_app_link": {
 			"type": "string"
 		},
+		"android_app_link": {
+			"type": "string"
+		},
 		"years": {
 			"type": "array",
 			"uniqueItems": true
