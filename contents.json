@@ -328,9 +328,18 @@
       "year": 2017,
       "startdate": "2017/10/18",
       "enddate": "2017/10/19",
-      "where": "Moscone West, San Francisco",
+      "where": "747 Howard St, San Francisco, CA 94103, USA",
       "homepage": "https://www.sdc2017.com",
       "country": "United States",
+      "callforpaper": false
+    },{
+      "title": "WeAreDevelopers 2018",
+      "year": 2018,
+      "startdate": "2018/05/16",
+      "enddate": "2018/05/18",
+      "where": "Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
+      "homepage": "https://www.wearedevelopers.com/congress/",
+      "country": "Vienna",
       "callforpaper": false
     }
 
