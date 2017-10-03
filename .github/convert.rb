@@ -92,7 +92,7 @@ def output_header(j)
   o << output_table(num_projects)
   o << "\n\n### Mobile Apps\n\n"
   o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
-  o << "[![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](#{j['ios_app_link']})"
+  o << "[![Download on the App Store](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   o << "\n\n### Contributing\n\n"
   o << contributing
   o << "\n\n\n### Legenda\n\n"
