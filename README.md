@@ -28,12 +28,12 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 
 | Name | Date | Place | Call For Paper |
 | --- | --- | --- | --- |
-| [Mobile Era 2017](https://mobileera.rocks) | 10/05 - 10/06|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Felix+Conference+Centre%2C+Bryggetorget+3%2C+0125%2C+Oslo)| --- |
-| [Mobiconf 2017](https://2017.mobiconf.org) | 10/05 - 10/06|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=MULTIKINO%2C+DOBREGO+PASTERZA+128%2C+Krakow)| --- |
-| [Pragma Conference](https://pragmaconference.com) | 10/11 - 10/13|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
+| [Mobile Era 2017](https://mobileera.rocks) | 10/05 - 10/06|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Bryggetorget+3%2C+0125%2C+Oslo)| --- |
+| [Mobiconf 2017](https://2017.mobiconf.org) | 10/05 - 10/06|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Dobrego+Pasterza+128%2C+30-962+Krak%C3%B3w%2C+Poland)| --- |
+| [Pragma Conference](https://pragmaconference.com) | 10/11 - 10/13|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
 | [iOS Conf SG 2017](http://iosconf.sg) | 10/19 - 10/20|🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)| --- |
 | [Mobilization 7](http://2017.mobilization.pl) | 10/21|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)| --- |
-| [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) | 10/26 - 10/27|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)| --- |
+| [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017) | 10/26 - 10/27|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
 | [Swift By Northwest](https://swiftbynorthwest.com) | 10/27 - 10/28|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=18118+International+Blvd%2C+Seattle%2C+WA+98188)| --- |
 | [KotlinConf](https://kotlinconf.com) | 11/02 - 11/03|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)| --- |
 | [.droidconSF](https://sf.droidcon.com) | 11/05 - 11/06|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Mission+Bay+Conference+Center%2C+San+Francisco)| --- |
@@ -58,7 +58,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 | [DeveloperWeek 2018](http://www.developerweek.com) | 02/03 - 02/08|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| --- |
 | [DroidKaigi](https://droidkaigi.jp/2018/en/) | 02/08 - 02/09|🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)| (( 📢 |
 | [RWDevCon 2018](https://www.rwdevcon.com) | 03/05 - 03/07|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)| --- |
-| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | 03/22 - 03/23|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=CodeNode%2C+10+South+Place%2C+London%2C+EC2M+7EB%2C+GB)| --- |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | 03/22 - 03/23|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
 | [Droidcon Boston 2018](http://www.droidcon-boston.com) | 03/26 - 03/27|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
 | [App Builder 2018](https://appbuilders.ch) | 04/16 - 04/17|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | [GOTO Amsterdam 2018](https://gotoams.nl) | 06/18 - 06/20|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
