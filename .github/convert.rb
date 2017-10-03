@@ -89,10 +89,10 @@ def output_header(j)
 
   o = header
   o << "\n\n"
-  o << output_table(app, num_projects)
+  o << output_table(num_projects)
   o << "\n\n### Mobile Apps\n\n"
-  o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{android_app_link})"
-  o << "[![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](#{ios_app_link})"
+  o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
+  o << "[![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](#{j['ios_app_link']})"
   o << "\n\n### Contributing\n\n"
   o << contributing
   o << "\n\n\n### Legenda\n\n"
@@ -101,7 +101,7 @@ def output_header(j)
   o
 end
 
-def output_table(ios_app_link, num_projects)
+def output_table(num_projects)
   require 'date'
 
   date = DateTime.now
