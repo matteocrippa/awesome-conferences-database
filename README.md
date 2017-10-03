@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-34-orange.svg) | October 03, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-35-orange.svg) | October 03, 2017
 
 ### Mobile Apps
 
@@ -30,6 +30,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 | --- | --- | --- | --- |
 | [Mobile Era 2017](https://mobileera.rocks) | 10/05 - 10/06|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Bryggetorget+3%2C+0125%2C+Oslo)| --- |
 | [Mobiconf 2017](https://2017.mobiconf.org) | 10/05 - 10/06|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Dobrego+Pasterza+128%2C+30-962+Krak%C3%B3w%2C+Poland)| --- |
+| [MODS 2017](http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251) | 10/05 - 10/06|🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=National+Science+Symposium+Complex%2C+Sir+CV+Raman+Avenue%2C+Near+Indian+Institute+Of+Science%2C+Malleswaram+18th+Cross%2C+Kodandarampura%2C+Bengaluru%2C+Karnataka+560012%2C+India)| --- |
 | [Pragma Conference](https://pragmaconference.com) | 10/11 - 10/13|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
 | [Samsung Developer Conference 2017](https://www.sdc2017.com) | 10/18 - 10/19|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=747+Howard+St%2C+San+Francisco%2C+CA+94103%2C+USA)| --- |
 | [iOS Conf SG 2017](http://iosconf.sg) | 10/19 - 10/20|🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)| --- |
