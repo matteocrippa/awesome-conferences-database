@@ -14,7 +14,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ### Mobile Apps
 
-[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
+[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
 
 ### Contributing
 
