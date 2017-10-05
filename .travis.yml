@@ -3,6 +3,7 @@ language: ruby
 rvm: 2.2
 node_js: "0.10"
 before_script:
+  - npm install .github/flags/
   - npm install .github/pushnotification/
   - gem install countries
   - gem install awesome_bot
