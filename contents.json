@@ -360,6 +360,15 @@
       "homepage": "http://it.droidcon.com/2018/",
       "country": "Italy",
       "callforpaper": false
+    },{
+      "title": "Mobile Trends Conference 2018",
+      "year": 2018,
+      "startdate": "2018/03/01",
+      "enddate": "2018/03/02",
+      "where": "Kraków",
+      "homepage": "http://www.mobiletrends.pl",
+      "country": "Poland",
+      "callforpaper": false
     }
 
   ]
