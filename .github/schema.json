@@ -66,6 +66,11 @@
 						"description": "Contains the country of the conference.",
 						"type": "string"
 					},
+					"emojiflag": {
+						"title": "Conference Country Emojiflag",
+						"description": "Contains the country emoji flag of the conference.",
+						"type": "string"
+					},
 					"callforpaper": {
 						"title": "Conference Call for paper flag",
 						"description": "Contains a flag that show if a call for paper is open.",
