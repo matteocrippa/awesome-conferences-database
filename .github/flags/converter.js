@@ -13,4 +13,4 @@ json.conferences.forEach(function(item) {
 });
 
 // store
-jsonfile.writeFileSync(contentFile, json);
+jsonfile.writeFileSync(contentFile, json, {spaces: 2, EOL: '\r\n'});
