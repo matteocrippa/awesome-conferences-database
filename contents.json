@@ -1,1 +1,390 @@
-{"title":"Awesome Mobile Conferences","header":"![](https://raw.githubusercontent.com/AwesomeMobileConferences/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n","header_contributing":"Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/graphs/contributors); you rock!","ios_app_link":"https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8","android_app_link":"https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc","years":[2017,2018],"conferences":[{"title":"try! Swift Banagalore","year":2017,"startdate":"2017/11/17","enddate":"2017/11/18","where":"30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025","homepage":"https://www.tryswift.co/events/2017/bangalore/","country":"India","callforpaper":false,"emojiflag":"🇮🇳"},{"title":"Mobile Era 2017","year":2017,"startdate":"2017/10/05","enddate":"2017/10/06","where":"Bryggetorget 3, 0125, Oslo","homepage":"https://mobileera.rocks","country":"Norway","callforpaper":false,"emojiflag":"🇳🇴"},{"title":"Pragma Conference","year":2017,"startdate":"2017/10/11","enddate":"2017/10/13","where":"Via Baldassarre Longhena 42, Verona, Italy","homepage":"https://pragmaconference.com","country":"Italy","callforpaper":false,"emojiflag":"🇮🇹"},{"title":"DevFest Baltics 2017","year":2017,"startdate":"2017/11/17","enddate":"2017/11/17","where":"Ķīpsalas iela, Rīga, LV-1048, Latvija","homepage":"https://devfest.gdg.lv/","country":"Latvia","callforpaper":false,"emojiflag":"🇱🇻"},{"title":"Mobilization 7","year":2017,"startdate":"2017/10/21","enddate":"2017/10/21","where":"Hala Expo al. Politechniki 4 Łódź","homepage":"http://2017.mobilization.pl","country":"Poland","callforpaper":false,"emojiflag":"🇵🇱"},{"title":"KotlinConf","year":2017,"startdate":"2017/11/02","enddate":"2017/11/03","where":"Pier 27, The Embarcadero, San Francisco, CA 94111","homepage":"https://kotlinconf.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"Goto Cophenhagen","year":2017,"startdate":"2017/10/01","enddate":"2017/10/03","where":"Bella Center, 2300 København S, Denmark","homepage":"https://gotocph.com","country":"Denmark","callforpaper":false,"emojiflag":"🇩🇰"},{"title":"iOSCon 2018","year":2018,"startdate":"2018/03/22","enddate":"2018/03/23","where":"10 South Pl, London EC2M 7EB, UK","homepage":"https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers","country":"United Kingdom","callforpaper":false,"emojiflag":"🇬🇧"},{"title":"Swift Alps 2017","year":2017,"startdate":"2017/11/23","enddate":"2017/11/24","where":"Crans-Montana, Switzerland","homepage":"https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers","country":"Switzerland","callforpaper":false,"emojiflag":"🇨🇭"},{"title":"App Builder 2018","year":2018,"startdate":"2018/04/16","enddate":"2018/04/17","where":"Lugano, Switzerland","homepage":"https://appbuilders.ch","country":"Switzerland","callforpaper":false,"emojiflag":"🇨🇭"},{"title":"droidcon London 2017","year":2017,"startdate":"2017/10/26","enddate":"2017/10/27","where":"10 South Pl, London EC2M 7EB, UK","homepage":"https://skillsmatter.com/conferences/8265-droidcon-london-2017","country":"United Kingdom","callforpaper":false,"emojiflag":"🇬🇧"},{"title":"Mobiconf 2017","year":2017,"startdate":"2017/10/05","enddate":"2017/10/06","where":"Dobrego Pasterza 128, 30-962 Kraków, Poland","homepage":"https://2017.mobiconf.org","country":"Poland","callforpaper":false,"emojiflag":"🇵🇱"},{"title":"Devoxx 2017","year":2017,"startdate":"2017/11/06","enddate":"2017/11/10","where":"Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium","homepage":"https://devoxx.be","country":"Belgium","callforpaper":false,"emojiflag":"🇧🇪"},{"title":".droidconSF","year":2017,"startdate":"2017/11/05","enddate":"2017/11/06","where":"Mission Bay Conference Center, San Francisco","homepage":"https://sf.droidcon.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"Mobius 2017","year":2017,"startdate":"2017/11/11","enddate":"2017/11/11","where":"Radisson Slavyanskaya, Europe Square 2, Moscow","homepage":"https://mobiusconf.com/en/","country":"Russia","callforpaper":false,"emojiflag":"🇷🇺"},{"title":"GOTO Berlin 2017","year":2017,"startdate":"2017/11/14","enddate":"2017/11/15","where":"bcc, Alexanderstraße 11, 10178 Berlin","homepage":"https://gotober.com","country":"Germany","callforpaper":false,"emojiflag":"🇩🇪"},{"title":"droidcon Beijing 2017","year":2017,"startdate":"2017/11/17","enddate":"2017/11/18","where":"Beijing","homepage":"http://droidcon.cfict.com.cn","country":"China","callforpaper":false,"emojiflag":"🇨🇳"},{"title":"droidcon","year":2017,"startdate":"2017/12/01","enddate":"2017/12/02","where":"WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków","homepage":"http://droidcon.pl/#/","country":"Poland","callforpaper":true,"emojiflag":"🇵🇱"},{"title":"DroidKaigi","year":2018,"startdate":"2018/02/08","enddate":"2018/02/09","where":"Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023","homepage":"https://droidkaigi.jp/2018/en/","country":"Japan","callforpaper":true,"emojiflag":"🇯🇵"},{"title":"Droidcon Boston 2018","year":2018,"startdate":"2018/03/26","enddate":"2018/03/27","where":"Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States","homepage":"http://www.droidcon-boston.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"RWDevCon 2018","year":2018,"startdate":"2018/03/05","enddate":"2018/03/07","where":"The Westin Alexandria Hotel, VA","homepage":"https://www.rwdevcon.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"iOS Conf SG 2017","year":2017,"startdate":"2017/10/19","enddate":"2017/10/20","where":"Theatre for the Arts, Nanyang Polytechnic, Singapore","homepage":"http://iosconf.sg","country":"Singapore","callforpaper":false,"emojiflag":"🇸🇬"},{"title":"UA Mobile","year":2017,"startdate":"2017/11/25","enddate":"2017/11/25","where":"Kyiv, Stolichne shose 103, Ramada Encore Kiev hotel","homepage":"http://www.uamobile.org","country":"Ukraine","callforpaper":false,"emojiflag":"🇺🇦"},{"title":".droidconNYC 2017","year":2017,"startdate":"2017/09/25","enddate":"2017/09/26","where":"Convene (46th btwn 6th & 7th), NYC","homepage":"http://droidcon.nyc","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"DevFest Florida 2017","year":2017,"startdate":"2017/11/11","enddate":"2017/11/11","where":"Disney's Contemporary Resort, 4600 North World Dr., Orlando, FL 32830 United States","homepage":"https://devfestflorida.org/","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"Open Mobile Summit 2017","year":2017,"startdate":"2017/11/29","enddate":"2017/11/30","where":"GRAND HYATT SAN FRANCISCO, SAN FRANCISCO, USA","homepage":"http://www.openmobilemedia.com/san-francisco/","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"Øredev","year":2017,"startdate":"2017/11/7","enddate":"2017/11/10","where":"Öredev AB, Hans Michelsensgatan 10, 3rd floor, SE-211 20 Malmö, Sweden","homepage":"http://www.oredev.org","country":"Sweden","callforpaper":false,"emojiflag":"🇸🇪"},{"title":"Swift By Northwest","year":2017,"startdate":"2017/10/27","enddate":"2017/10/28","where":"18118 International Blvd, Seattle, WA 98188","homepage":"https://swiftbynorthwest.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"dotSwift","year":2018,"startdate":"2018/01/29","enddate":"2018/01/29","where":"Théâtre de Paris, 15 Rue Blanche, 75009 Paris","homepage":"https://2018.dotswift.io","country":"France","callforpaper":true,"emojiflag":"🇫🇷"},{"title":"DeveloperWeek 2018","year":2018,"startdate":"2018/02/03","enddate":"2018/02/08","where":"550 10th Street, Oakland, CA 94607","homepage":"http://www.developerweek.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"GOTO Amsterdam 2018","year":2018,"startdate":"2018/06/18","enddate":"2018/06/20","where":"Beurs van Berlage, Damrak 243, 1012 ZJ Amsterdam","homepage":"https://gotoams.nl","country":"Netherlands","callforpaper":false,"emojiflag":"🇳🇱"},{"title":"MBLTdev 2017","year":2017,"startdate":"2017/10/27","enddate":"2017/10/27","where":"Bersenevskaya Haberezhnaya, 6, Moskva, Russia, 119072","homepage":"https://mbltdev.ru/en","country":"Russia","callforpaper":false,"emojiflag":"🇷🇺"},{"title":"Samsung Developer Conference 2017","year":2017,"startdate":"2017/10/18","enddate":"2017/10/19","where":"747 Howard St, San Francisco, CA 94103, USA","homepage":"https://www.sdc2017.com","country":"United States","callforpaper":false,"emojiflag":"🇺🇸"},{"title":"WeAreDevelopers 2018","year":2018,"startdate":"2018/05/16","enddate":"2018/05/18","where":"Bruno-Kreisky-Platz 1, 1220 Wien, Austria","homepage":"https://www.wearedevelopers.com/congress/","country":"Austria","callforpaper":false,"emojiflag":"🇦🇹"},{"title":"MODS 2017","year":2017,"startdate":"2017/10/05","enddate":"2017/10/06","where":"National Science Symposium Complex, Sir CV Raman Avenue, Near Indian Institute Of Science, Malleswaram 18th Cross, Kodandarampura, Bengaluru, Karnataka 560012, India","homepage":"http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251","country":"India","callforpaper":false,"emojiflag":"🇮🇳"},{"title":"droidcon Italy 2018","year":2018,"startdate":"2018/04/05","enddate":"2018/04/06","where":"Via Nizza, 280, 10126 Torino TO, Italy","homepage":"http://it.droidcon.com/2018/","country":"Italy","callforpaper":false,"emojiflag":"🇮🇹"},{"title":"Mobile Trends Conference 2018","year":2018,"startdate":"2018/03/01","enddate":"2018/03/02","where":"Kraków","homepage":"http://www.mobiletrends.pl","country":"Poland","callforpaper":false,"emojiflag":"🇵🇱"}]}
+{
+	"title": "Awesome Mobile Conferences",
+	"header": "![](https://raw.githubusercontent.com/AwesomeMobileConferences/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
+	"header_contributing": "Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/graphs/contributors); you rock!",
+	"ios_app_link": "https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8",
+	"android_app_link": "https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc",
+	"years": [2017, 2018],
+	"conferences": [{
+		"title": "try! Swift Banagalore",
+		"year": 2017,
+		"startdate": "2017/11/17",
+		"enddate": "2017/11/18",
+		"where": "30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+		"homepage": "https://www.tryswift.co/events/2017/bangalore/",
+		"country": "India",
+		"callforpaper": false,
+		"emojiflag": "🇮🇳"
+	}, {
+		"title": "Mobile Era 2017",
+		"year": 2017,
+		"startdate": "2017/10/05",
+		"enddate": "2017/10/06",
+		"where": "Bryggetorget 3, 0125, Oslo",
+		"homepage": "https://mobileera.rocks",
+		"country": "Norway",
+		"callforpaper": false,
+		"emojiflag": "🇳🇴"
+	}, {
+		"title": "Pragma Conference",
+		"year": 2017,
+		"startdate": "2017/10/11",
+		"enddate": "2017/10/13",
+		"where": "Via Baldassarre Longhena 42, Verona, Italy",
+		"homepage": "https://pragmaconference.com",
+		"country": "Italy",
+		"callforpaper": false,
+		"emojiflag": "🇮🇹"
+	}, {
+		"title": "DevFest Baltics 2017",
+		"year": 2017,
+		"startdate": "2017/11/17",
+		"enddate": "2017/11/17",
+		"where": "Ķīpsalas iela, Rīga, LV-1048, Latvija",
+		"homepage": "https://devfest.gdg.lv/",
+		"country": "Latvia",
+		"callforpaper": false,
+		"emojiflag": "🇱🇻"
+	}, {
+		"title": "Mobilization 7",
+		"year": 2017,
+		"startdate": "2017/10/21",
+		"enddate": "2017/10/21",
+		"where": "Hala Expo al. Politechniki 4 Łódź",
+		"homepage": "http://2017.mobilization.pl",
+		"country": "Poland",
+		"callforpaper": false,
+		"emojiflag": "🇵🇱"
+	}, {
+		"title": "KotlinConf",
+		"year": 2017,
+		"startdate": "2017/11/02",
+		"enddate": "2017/11/03",
+		"where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
+		"homepage": "https://kotlinconf.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "Goto Cophenhagen",
+		"year": 2017,
+		"startdate": "2017/10/01",
+		"enddate": "2017/10/03",
+		"where": "Bella Center, 2300 København S, Denmark",
+		"homepage": "https://gotocph.com",
+		"country": "Denmark",
+		"callforpaper": false,
+		"emojiflag": "🇩🇰"
+	}, {
+		"title": "iOSCon 2018",
+		"year": 2018,
+		"startdate": "2018/03/22",
+		"enddate": "2018/03/23",
+		"where": "10 South Pl, London EC2M 7EB, UK",
+		"homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
+		"country": "United Kingdom",
+		"callforpaper": false,
+		"emojiflag": "🇬🇧"
+	}, {
+		"title": "Swift Alps 2017",
+		"year": 2017,
+		"startdate": "2017/11/23",
+		"enddate": "2017/11/24",
+		"where": "Crans-Montana, Switzerland",
+		"homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
+		"country": "Switzerland",
+		"callforpaper": false,
+		"emojiflag": "🇨🇭"
+	}, {
+		"title": "App Builder 2018",
+		"year": 2018,
+		"startdate": "2018/04/16",
+		"enddate": "2018/04/17",
+		"where": "Lugano, Switzerland",
+		"homepage": "https://appbuilders.ch",
+		"country": "Switzerland",
+		"callforpaper": false,
+		"emojiflag": "🇨🇭"
+	}, {
+		"title": "droidcon London 2017",
+		"year": 2017,
+		"startdate": "2017/10/26",
+		"enddate": "2017/10/27",
+		"where": "10 South Pl, London EC2M 7EB, UK",
+		"homepage": "https://skillsmatter.com/conferences/8265-droidcon-london-2017",
+		"country": "United Kingdom",
+		"callforpaper": false,
+		"emojiflag": "🇬🇧"
+	}, {
+		"title": "Mobiconf 2017",
+		"year": 2017,
+		"startdate": "2017/10/05",
+		"enddate": "2017/10/06",
+		"where": "Dobrego Pasterza 128, 30-962 Kraków, Poland",
+		"homepage": "https://2017.mobiconf.org",
+		"country": "Poland",
+		"callforpaper": false,
+		"emojiflag": "🇵🇱"
+	}, {
+		"title": "Devoxx 2017",
+		"year": 2017,
+		"startdate": "2017/11/06",
+		"enddate": "2017/11/10",
+		"where": "Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium",
+		"homepage": "https://devoxx.be",
+		"country": "Belgium",
+		"callforpaper": false,
+		"emojiflag": "🇧🇪"
+	}, {
+		"title": ".droidconSF",
+		"year": 2017,
+		"startdate": "2017/11/05",
+		"enddate": "2017/11/06",
+		"where": "Mission Bay Conference Center, San Francisco",
+		"homepage": "https://sf.droidcon.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "Mobius 2017",
+		"year": 2017,
+		"startdate": "2017/11/11",
+		"enddate": "2017/11/11",
+		"where": "Radisson Slavyanskaya, Europe Square 2, Moscow",
+		"homepage": "https://mobiusconf.com/en/",
+		"country": "Russia",
+		"callforpaper": false,
+		"emojiflag": "🇷🇺"
+	}, {
+		"title": "GOTO Berlin 2017",
+		"year": 2017,
+		"startdate": "2017/11/14",
+		"enddate": "2017/11/15",
+		"where": "bcc, Alexanderstraße 11, 10178 Berlin",
+		"homepage": "https://gotober.com",
+		"country": "Germany",
+		"callforpaper": false,
+		"emojiflag": "🇩🇪"
+	}, {
+		"title": "droidcon Beijing 2017",
+		"year": 2017,
+		"startdate": "2017/11/17",
+		"enddate": "2017/11/18",
+		"where": "Beijing",
+		"homepage": "http://droidcon.cfict.com.cn",
+		"country": "China",
+		"callforpaper": false,
+		"emojiflag": "🇨🇳"
+	}, {
+		"title": "droidcon",
+		"year": 2017,
+		"startdate": "2017/12/01",
+		"enddate": "2017/12/02",
+		"where": "WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków",
+		"homepage": "http://droidcon.pl/#/",
+		"country": "Poland",
+		"callforpaper": true,
+		"emojiflag": "🇵🇱"
+	}, {
+		"title": "DroidKaigi",
+		"year": 2018,
+		"startdate": "2018/02/08",
+		"enddate": "2018/02/09",
+		"where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
+		"homepage": "https://droidkaigi.jp/2018/en/",
+		"country": "Japan",
+		"callforpaper": true,
+		"emojiflag": "🇯🇵"
+	}, {
+		"title": "Droidcon Boston 2018",
+		"year": 2018,
+		"startdate": "2018/03/26",
+		"enddate": "2018/03/27",
+		"where": "Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States",
+		"homepage": "http://www.droidcon-boston.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "RWDevCon 2018",
+		"year": 2018,
+		"startdate": "2018/03/05",
+		"enddate": "2018/03/07",
+		"where": "The Westin Alexandria Hotel, VA",
+		"homepage": "https://www.rwdevcon.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "iOS Conf SG 2017",
+		"year": 2017,
+		"startdate": "2017/10/19",
+		"enddate": "2017/10/20",
+		"where": "Theatre for the Arts, Nanyang Polytechnic, Singapore",
+		"homepage": "http://iosconf.sg",
+		"country": "Singapore",
+		"callforpaper": false,
+		"emojiflag": "🇸🇬"
+	}, {
+		"title": "UA Mobile",
+		"year": 2017,
+		"startdate": "2017/11/25",
+		"enddate": "2017/11/25",
+		"where": "Kyiv, Stolichne shose 103, Ramada Encore Kiev hotel",
+		"homepage": "http://www.uamobile.org",
+		"country": "Ukraine",
+		"callforpaper": false,
+		"emojiflag": "🇺🇦"
+	}, {
+		"title": ".droidconNYC 2017",
+		"year": 2017,
+		"startdate": "2017/09/25",
+		"enddate": "2017/09/26",
+		"where": "Convene (46th btwn 6th & 7th), NYC",
+		"homepage": "http://droidcon.nyc",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "DevFest Florida 2017",
+		"year": 2017,
+		"startdate": "2017/11/11",
+		"enddate": "2017/11/11",
+		"where": "Disney's Contemporary Resort, 4600 North World Dr., Orlando, FL 32830 United States",
+		"homepage": "https://devfestflorida.org/",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "Open Mobile Summit 2017",
+		"year": 2017,
+		"startdate": "2017/11/29",
+		"enddate": "2017/11/30",
+		"where": "GRAND HYATT SAN FRANCISCO, SAN FRANCISCO, USA",
+		"homepage": "http://www.openmobilemedia.com/san-francisco/",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "Øredev",
+		"year": 2017,
+		"startdate": "2017/11/7",
+		"enddate": "2017/11/10",
+		"where": "Öredev AB, Hans Michelsensgatan 10, 3rd floor, SE-211 20 Malmö, Sweden",
+		"homepage": "http://www.oredev.org",
+		"country": "Sweden",
+		"callforpaper": false,
+		"emojiflag": "🇸🇪"
+	}, {
+		"title": "Swift By Northwest",
+		"year": 2017,
+		"startdate": "2017/10/27",
+		"enddate": "2017/10/28",
+		"where": "18118 International Blvd, Seattle, WA 98188",
+		"homepage": "https://swiftbynorthwest.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "dotSwift",
+		"year": 2018,
+		"startdate": "2018/01/29",
+		"enddate": "2018/01/29",
+		"where": "Théâtre de Paris, 15 Rue Blanche, 75009 Paris",
+		"homepage": "https://2018.dotswift.io",
+		"country": "France",
+		"callforpaper": true,
+		"emojiflag": "🇫🇷"
+	}, {
+		"title": "DeveloperWeek 2018",
+		"year": 2018,
+		"startdate": "2018/02/03",
+		"enddate": "2018/02/08",
+		"where": "550 10th Street, Oakland, CA 94607",
+		"homepage": "http://www.developerweek.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "GOTO Amsterdam 2018",
+		"year": 2018,
+		"startdate": "2018/06/18",
+		"enddate": "2018/06/20",
+		"where": "Beurs van Berlage, Damrak 243, 1012 ZJ Amsterdam",
+		"homepage": "https://gotoams.nl",
+		"country": "Netherlands",
+		"callforpaper": false,
+		"emojiflag": "🇳🇱"
+	}, {
+		"title": "MBLTdev 2017",
+		"year": 2017,
+		"startdate": "2017/10/27",
+		"enddate": "2017/10/27",
+		"where": "Bersenevskaya Haberezhnaya, 6, Moskva, Russia, 119072",
+		"homepage": "https://mbltdev.ru/en",
+		"country": "Russia",
+		"callforpaper": false,
+		"emojiflag": "🇷🇺"
+	}, {
+		"title": "Samsung Developer Conference 2017",
+		"year": 2017,
+		"startdate": "2017/10/18",
+		"enddate": "2017/10/19",
+		"where": "747 Howard St, San Francisco, CA 94103, USA",
+		"homepage": "https://www.sdc2017.com",
+		"country": "United States",
+		"callforpaper": false,
+		"emojiflag": "🇺🇸"
+	}, {
+		"title": "WeAreDevelopers 2018",
+		"year": 2018,
+		"startdate": "2018/05/16",
+		"enddate": "2018/05/18",
+		"where": "Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
+		"homepage": "https://www.wearedevelopers.com/congress/",
+		"country": "Austria",
+		"callforpaper": false,
+		"emojiflag": "🇦🇹"
+	}, {
+		"title": "MODS 2017",
+		"year": 2017,
+		"startdate": "2017/10/05",
+		"enddate": "2017/10/06",
+		"where": "National Science Symposium Complex, Sir CV Raman Avenue, Near Indian Institute Of Science, Malleswaram 18th Cross, Kodandarampura, Bengaluru, Karnataka 560012, India",
+		"homepage": "http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251",
+		"country": "India",
+		"callforpaper": false,
+		"emojiflag": "🇮🇳"
+	}, {
+		"title": "droidcon Italy 2018",
+		"year": 2018,
+		"startdate": "2018/04/05",
+		"enddate": "2018/04/06",
+		"where": "Via Nizza, 280, 10126 Torino TO, Italy",
+		"homepage": "http://it.droidcon.com/2018/",
+		"country": "Italy",
+		"callforpaper": false,
+		"emojiflag": "🇮🇹"
+	}, {
+		"title": "Mobile Trends Conference 2018",
+		"year": 2018,
+		"startdate": "2018/03/01",
+		"enddate": "2018/03/02",
+		"where": "Kraków",
+		"homepage": "http://www.mobiletrends.pl",
+		"country": "Poland",
+		"callforpaper": false,
+		"emojiflag": "🇵🇱"
+	}, {
+		"title": "MobOs 2018",
+		"year": 2018,
+		"startdate": "2018/02/15",
+		"enddate": "2018/02/16",
+		"where": "Cluj Napoca",
+		"homepage": "http://romobos.com",
+		"country": "Romania",
+		"callforpaper": false,
+		"emojiflag": "🇷🇴"
+	}
+]
+}
