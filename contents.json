@@ -385,6 +385,15 @@
 		"country": "Romania",
 		"callforpaper": false,
 		"emojiflag": "🇷🇴"
+	}, {
+		"title": "AppDevCon 2018",
+		"year": 2018,
+		"startdate": "2018/03/15",
+		"enddate": "2018/03/16",
+		"where": "ArenA Boulevard 600, 1101 DS Amsterdam-Zuidoost, Netherlands",
+		"homepage": "http://appdevcon.nl",
+		"country": "Netherlands",
+		"callforpaper": true
 	}
 ]
 }
