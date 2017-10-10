@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Conferences | Updated
 | :-: | :-: | :-: 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-37-orange.svg) | October 06, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-38-orange.svg) | October 06, 2017
 
 ### Mobile Apps
 
@@ -57,6 +57,7 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 | [dotSwift](https://2018.dotswift.io) | 01/29|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| (( 📢 |
 | [DeveloperWeek 2018](http://www.developerweek.com) | 02/03 - 02/08|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| --- |
 | [DroidKaigi](https://droidkaigi.jp/2018/en/) | 02/08 - 02/09|🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)| (( 📢 |
+| [MobOs 2018](http://romobos.com) | 02/15 - 02/16|🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=Cluj+Napoca)| --- |
 | [Mobile Trends Conference 2018](http://www.mobiletrends.pl) | 03/01 - 03/02|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| --- |
 | [RWDevCon 2018](https://www.rwdevcon.com) | 03/05 - 03/07|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)| --- |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | 03/22 - 03/23|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
