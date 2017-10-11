@@ -94,7 +94,7 @@
       "where": "10 South Pl, London EC2M 7EB, UK",
       "homepage": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
       "country": "United Kingdom",
-      "callforpaper": false,
+      "callforpaper": true,
       "emojiflag": "🇬🇧"
     },
     {
