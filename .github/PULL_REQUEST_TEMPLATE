@@ -11,3 +11,4 @@
 - [ ] Conference has start/end date (if one day only conference write the same date)
 - [ ] Check address using [Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geocoder/) to get clean address
 - [ ] Updated **contents.json** instead of README
+- [ ] Is the conference at the bottom of the array?
