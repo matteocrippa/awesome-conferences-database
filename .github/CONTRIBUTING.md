@@ -23,12 +23,15 @@ When adding new items, please adhere to the following guidelines:
 
 ```js
 {
-		"title": "try! Swift Banagalore",
-		"year": 2017,
-		"startdate": "2017/11/17",
-		"enddate": "2017/11/18",
-		"where": "30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
-		"homepage": "https://www.tryswift.co/events/2017/bangalore/"
+	"title": "MobOs 2018",
+	"year": 2018,
+	"startdate": "2018/02/15",
+	"enddate": "2018/02/16",
+	"where": "Cluj Napoca",
+	"homepage": "http://romobos.com",
+	"country": "Romania",
+	"city": "Cluj",
+	"callforpaper": false
 }
 ```
 
