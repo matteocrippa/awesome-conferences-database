@@ -36,7 +36,7 @@ end
 
 def output_conferences(conferences, year)
   o = ""
-  o << "| Name | Date | City | Country | Call For Paper |\n"
+  o << "| When | Name | City | Country | Cfp |\n"
   o << "| --- | --- | --- | --- |\n"
     conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
@@ -47,10 +47,11 @@ def output_conferences(conferences, year)
         where = gmapUrl(p['where'])
         startDate = p['startdate'].gsub! "#{p['year']}/", ''
         endDate = p['enddate'].gsub! "#{p['year']}/", ''
-        o << "| [#{p['title']}](#{p['homepage']}) | #{startDate}"
+        o << "| #{startDate}"
         if startDate != endDate
           o << " - #{endDate}"
         end
+        o << "| [#{p['title']}](#{p['homepage']})"
         o << "| #{p['city']} "
         o << "|"
         c = ISO3166::Country.find_country_by_name(p['country'])
