@@ -36,7 +36,7 @@ end
 
 def output_conferences(conferences, year)
   o = ""
-  o << "| Name | Date | Where | Call For Paper |\n"
+  o << "| Name | Date | City | Country | Call For Paper |\n"
   o << "| --- | --- | --- | --- |\n"
     conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
@@ -51,12 +51,13 @@ def output_conferences(conferences, year)
         if startDate != endDate
           o << " - #{endDate}"
         end
+        o << "| #{p['city']} "
         o << "|"
         c = ISO3166::Country.find_country_by_name(p['country'])
         if !c.nil?
           o << "#{c.emoji_flag} "
         end
-        o << "[#{p['country']} - #{p['city']}](#{where})"
+        o << "[#{p['country']}](#{where})"
         o << "|"
         if p['callforpaper'] == true
           o << " (( 📢 "
