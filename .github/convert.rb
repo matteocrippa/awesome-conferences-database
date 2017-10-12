@@ -56,7 +56,7 @@ def output_conferences(conferences, year)
         if !c.nil?
           o << "#{c.emoji_flag} "
         end
-        o << "[#{p['country']}](#{where})"
+        o << "[#{p['country']} - #{p['city']}](#{where})"
         o << "|"
         if p['callforpaper'] == true
           o << " (( 📢 "
