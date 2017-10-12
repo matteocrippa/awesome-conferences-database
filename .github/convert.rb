@@ -36,7 +36,7 @@ end
 
 def output_conferences(conferences, year)
   o = ""
-  o << "| Name | Date | Place | Call For Paper |\n"
+  o << "| Name | Date | Where | Call For Paper |\n"
   o << "| --- | --- | --- | --- |\n"
     conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
