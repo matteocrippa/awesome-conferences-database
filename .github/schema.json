@@ -61,6 +61,11 @@
 						"description": "Contains a google maps address.",
 						"type": "string"
 					},
+					"city": {
+						"title": "Conference City",
+						"description": "Contains the city of the conference.",
+						"type": "string"
+					},
 					"country": {
 						"title": "Conference Country",
 						"description": "Contains the country of the conference.",
