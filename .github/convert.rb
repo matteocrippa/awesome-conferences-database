@@ -91,7 +91,7 @@ def output_header(j)
   num_projects = j['conferences'].count
 
   date = DateTime.now
-  date_display = date.strftime "%B %d, %Y"
+  date_display = date.strftime "%B_%d,_%Y"
 
   o = header
   o << "\n\n"
