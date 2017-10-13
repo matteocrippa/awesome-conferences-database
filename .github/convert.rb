@@ -84,37 +84,29 @@ def output_content(j)
 end
 
 def output_header(j)
+  require 'date'
   header       = j['header']
   contributing = j['header_contributing']
   app          = j['ios_app_link']
   num_projects = j['conferences'].count
 
+  date = DateTime.now
+  date_display = date.strftime "%B %d, %Y"
+
   o = header
   o << "\n\n"
-  o << output_table(num_projects)
-  o << "\n\n### Mobile Apps\n\n"
+  o << "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+  o << "![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg)"
+  o << "![](https://img.shields.io/badge/last_update-#{date_display}-green.svg)"
+  o << "\n\n"
+  o << "## About"
+  o << "Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
+  o << "### Mobile Apps\n\n"
+  o << "We developed also two mobile apps to stay always updated, thanks to push notifications."
   o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
   o << "[![Download on the App Store](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   o << "\n\n### Contributing\n\n"
   o << contributing
-  o << "\n\n\n### Legenda\n\n"
-  o << "- (( 📢  > Call for Paper open"
-
-  o
-end
-
-def output_table(num_projects)
-  require 'date'
-
-  date = DateTime.now
-  date_display = date.strftime "%B %d, %Y"
-
-  o = "| Awesome | Conferences | Updated\n"
-  o << "| :-: | :-: | :-: \n"
-  o << '[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
-  o << "![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg) | "
-  o << date_display
-
   o
 end
 
@@ -134,6 +126,8 @@ def write_readme(j, filename)
     output = output_header(j)
     #output << output_toc(j)
     output << output_content(j)
+    output << "\n\n\n### Legenda\n\n"
+    output << "- (( 📢  > Call for Paper open"
 
     File.open(filename, 'w') { |f| f.write output}
     puts "Wrote #{filename} :-)"
