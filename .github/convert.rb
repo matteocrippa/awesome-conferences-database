@@ -102,7 +102,7 @@ def output_header(j)
   o << "## About\n"
   o << "Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
   o << "### 📱 Mobile Apps\n\n"
-  o << "We developed also two mobile apps to stay always updated, thanks to push notifications.\n"
+  o << "We developed also two mobile apps to stay always updated, thanks to push notifications, feel free to download them from iOS and Play store, link below:\n"
   o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
   o << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   o
