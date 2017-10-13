@@ -8,17 +8,15 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![](https://img.shields.io/badge/conferences-39-orange.svg)![](https://img.shields.io/badge/last_update-October 13, 2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-39-orange.svg) ![](https://img.shields.io/badge/last_update-October_13,_2017-green.svg)
 
-## AboutWelcome to **Awesome Mobile Conference**, a curated and collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
+## About
+Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
 
 ### 📱 Mobile Apps
 
-We developed also two mobile apps to stay always updated, thanks to push notifications.[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
-
-### ✍️ Contributing
-
-Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
+We developed also two mobile apps to stay always updated, thanks to push notifications, feel free to download them from iOS and Play store, link below:
+[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
 
 
 ## 2017
@@ -69,3 +67,8 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 ### Legenda
 
 - (( 📢  > Call for Paper open
+
+### ✍️ Contributing
+
+
+Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
