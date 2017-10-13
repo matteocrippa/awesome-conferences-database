@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/AwesomeMobileConferences/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)
+![](https://raw.githubusercontent.com/amobconf/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)
  
 <!-- 
 
@@ -8,22 +8,19 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-| Awesome | Conferences | Updated
-| :-: | :-: | :-: 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/conferences-39-orange.svg) | October 13, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![](https://img.shields.io/badge/conferences-39-orange.svg)![](https://img.shields.io/badge/last_update-October 13, 2017-green.svg)
 
-### Mobile Apps
+## AboutWelcome to **Awesome Mobile Conference**, a curated and collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
 
-[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
+### 📱 Mobile Apps
 
-### Contributing
+We developed also two mobile apps to stay always updated, thanks to push notifications.[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
 
-Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/graphs/contributors); you rock!
+### ✍️ Contributing
+
+Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
 
 
-### Legenda
-
-- (( 📢  > Call for Paper open
 ## 2017
 
 | When | Name | City | Country | Cfp |
@@ -66,3 +63,9 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 | 04/16 - 04/17| [App Builder 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
+
+
+
+### Legenda
+
+- (( 📢  > Call for Paper open
