@@ -86,7 +86,6 @@ end
 def output_header(j)
   require 'date'
   header       = j['header']
-  contributing = j['header_contributing']
   app          = j['ios_app_link']
   num_projects = j['conferences'].count
 
@@ -120,6 +119,8 @@ def output_toc(j)
 end
 
 def write_readme(j, filename)
+    contributing = j['header_contributing']
+
     # output = description(j)
     output = output_header(j)
     #output << output_toc(j)
