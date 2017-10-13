@@ -13,10 +13,13 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ## About
 Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
 
-### 📱 Mobile Apps
+## 📱 Mobile Apps
 
 We developed also two mobile apps to stay always updated, thanks to push notifications, feel free to download them from iOS and Play store, link below:
+
 [![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
+
+
 
 
 ## 2017
@@ -66,7 +69,7 @@ We developed also two mobile apps to stay always updated, thanks to push notific
 
 ### Legenda
 
-- (( 📢  > Call for Paper open
+- (( 📢  > Call for Paper is open
 
 ### ✍️ Contributing
 
