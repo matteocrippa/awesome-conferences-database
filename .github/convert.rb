@@ -101,11 +101,11 @@ def output_header(j)
   o << "\n\n"
   o << "## About"
   o << "Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
-  o << "### Mobile Apps\n\n"
+  o << "### 📱 Mobile Apps\n\n"
   o << "We developed also two mobile apps to stay always updated, thanks to push notifications."
   o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
   o << "[![Download on the App Store](https://github.com/AwesomeMobileConferences/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
-  o << "\n\n### Contributing\n\n"
+  o << "\n\n### ✍️ Contributing\n\n"
   o << contributing
   o
 end
@@ -125,6 +125,7 @@ def write_readme(j, filename)
     # output = description(j)
     output = output_header(j)
     #output << output_toc(j)
+    output << "\n\n"
     output << output_content(j)
     output << "\n\n\n### Legenda\n\n"
     output << "- (( 📢  > Call for Paper open"
