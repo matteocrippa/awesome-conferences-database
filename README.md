@@ -11,7 +11,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-39-orange.svg) ![](https://img.shields.io/badge/last_update-October_13,_2017-green.svg)
 
 ## About
-👋 Welcome 👋 to **Awesome Mobile Conference**, a curated and 👫👭👬 collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
+👋 Welcome to **Awesome Mobile Conference** 👋 
+
+A ❤️ curated and 👫👭👬 collaborative list of **39** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
