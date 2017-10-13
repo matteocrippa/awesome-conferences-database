@@ -96,8 +96,8 @@ def output_header(j)
   o = header
   o << "\n\n"
   o << "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-  o << "![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg)"
-  o << "![](https://img.shields.io/badge/last_update-#{date_display}-green.svg)"
+  o << " ![](https://img.shields.io/badge/conferences-#{num_projects}-orange.svg)"
+  o << " ![](https://img.shields.io/badge/last_update-#{date_display}-green.svg)"
   o << "\n\n"
   o << "## About\n"
   o << "Welcome to **Awesome Mobile Conference**, a curated and collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
