@@ -128,7 +128,7 @@ def write_readme(j, filename)
     output << "\n\n"
     output << output_content(j)
     output << "\n\n\n### Legenda\n\n"
-    output << "- (( 📢  > Call for Paper open"
+    output << "- (( 📢  > Call for Paper is open"
     output << "\n\n### ✍️ Contributing\n\n\n"
     output << contributing
 
