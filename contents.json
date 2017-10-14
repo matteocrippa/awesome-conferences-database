@@ -512,6 +512,18 @@
       "city": "Boston",
       "callforpaper": true,
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "ADDC",
+      "year": 2018,
+      "startdate": "2018/07/04",
+      "enddate": "2018/07/06",
+      "where": "Avinguda Diagonal, 547, 08029 Barcelona, Spain",
+      "homepage": "http://www.addconf.com",
+      "country": "Spain",
+      "city": "Barcelona",
+      "callforpaper": true,
+      "emojiflag": "🇪🇸"
     }
   ]
 }
