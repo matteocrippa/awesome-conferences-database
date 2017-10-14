@@ -508,7 +508,7 @@
       "homepage": "http://www.swiftfest.io",
       "country": "United States",
       "city": "Boston",
-      "callforpaper": false
+      "callforpaper": true
     }
   ]
 }
