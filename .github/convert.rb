@@ -34,7 +34,34 @@ def sort_by_date(dates, direction="ASC")
   sorted
 end
 
-def output_conferences(conferences, year)
+def output_single_conf(p)
+  o = ""
+  where = gmapUrl(p['where'])
+  startDate = p['startdate'].gsub! "#{p['year']}/", ''
+  endDate = p['enddate'].gsub! "#{p['year']}/", ''
+  o << "| #{startDate}"
+  if startDate != endDate
+    o << " - #{endDate}"
+  end
+  o << "| [#{p['title']}](#{p['homepage']})"
+  o << "| #{p['city']} "
+  o << "|"
+  c = ISO3166::Country.find_country_by_name(p['country'])
+  if !c.nil?
+    o << "#{c.emoji_flag} "
+  end
+  o << "[#{p['country']}](#{where})"
+  o << "|"
+  if p['callforpaper'] == true
+    o << " (( 📢 "
+  else
+    o << " --- "
+  end
+  o << "|\n"
+  o
+end
+
+def output_conferences(conferences, year, future)
   o = ""
   o << "| When | Name | City | Country | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
@@ -43,42 +70,26 @@ def output_conferences(conferences, year)
     .each do |p|
       # render only upcoming events
       date = Date.parse p['startdate']
-      if date > Date.today
-        where = gmapUrl(p['where'])
-        startDate = p['startdate'].gsub! "#{p['year']}/", ''
-        endDate = p['enddate'].gsub! "#{p['year']}/", ''
-        o << "| #{startDate}"
-        if startDate != endDate
-          o << " - #{endDate}"
+      if future == true
+        if date > Date.today
+          o << output_single_conf(p)
         end
-        o << "| [#{p['title']}](#{p['homepage']})"
-        o << "| #{p['city']} "
-        o << "|"
-        c = ISO3166::Country.find_country_by_name(p['country'])
-        if !c.nil?
-          o << "#{c.emoji_flag} "
+      else
+        if date < Date.today
+          o << output_single_conf(p)
         end
-        o << "[#{p['country']}](#{where})"
-        o << "|"
-        if p['callforpaper'] == true
-          o << " (( 📢 "
-        else
-          o << " --- "
-        end
-        o << "|\n"
       end
     end
     o
 end
 
-def output_content(j)
+def output_content(j, future)
   toc = ''
-
   conferences = j['conferences']
 
   j['years'].each do |c|
     toc << output_content_category(c, 2)
-    toc << output_conferences(conferences, c)
+    toc << output_conferences(conferences, c, future)
   end
   toc
 end
@@ -127,11 +138,13 @@ def write_readme(j, filename)
     output = output_header(j)
     #output << output_toc(j)
     output << "\n\n"
-    output << output_content(j)
-    output << "\n\n\n## Legenda\n\n"
+    output << output_content(j, true)
+    output << "\n\n\n## 🔰 Legenda\n\n"
     output << "- (( 📢  > Call for Paper is open"
     output << "\n\n## ✍️ Contributing\n\n\n"
     output << contributing
+    output << "\n\n## 🕰 Past"
+    output << output_content(j, false)
 
     File.open(filename, 'w') { |f| f.write output}
     puts "Wrote #{filename} :-)"
