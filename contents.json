@@ -487,6 +487,28 @@
       "country": "United States",
       "city": "Denver",
       "callforpaper": false
+    },
+    {
+      "title": "Forward Swift",
+      "year": 2018,
+      "startdate": "2018/02/12",
+      "enddate": "2018/02/12",
+      "where": "San Francisco",
+      "homepage": "https://forwardswift.com",
+      "country": "United States",
+      "city": "San Francisco",
+      "callforpaper": false
+    },
+    {
+      "title": "SwiftFest",
+      "year": 2017,
+      "startdate": "2017/11/29",
+      "enddate": "2017/11/30",
+      "where": "San Francisco",
+      "homepage": "http://www.swiftfest.io",
+      "country": "United States",
+      "city": "Boston",
+      "callforpaper": false
     }
   ]
 }
