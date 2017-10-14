@@ -36,7 +36,7 @@ end
 
 def output_conferences(conferences, year)
   o = ""
-  o << "| When | Name | City | Country | Cfp |\n"
+  o << "| When | Name | City | Country | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
     conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
@@ -100,7 +100,7 @@ def output_header(j)
   o << "\n\n"
   o << "## About\n"
   o << "👋 Welcome to **Awesome Mobile Conference** 👋 \n\n"
-  o << "A ❤️ curated and 👫👭👬 collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
+  o << "A ❤️ curated and 👬👫👭 collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
   o << "## 📱 Mobile Apps\n\n"
   o << "We developed also two mobile apps to stay always updated, thanks to 💌 push notifications, feel free to download them from 🍏 iOS and 🤖 Play store, link below:\n\n"
   o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
