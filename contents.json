@@ -486,7 +486,8 @@
       "homepage": "http://360idev.com",
       "country": "United States",
       "city": "Denver",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇺🇸"
     },
     {
       "title": "Forward Swift",
@@ -497,7 +498,8 @@
       "homepage": "https://forwardswift.com",
       "country": "United States",
       "city": "San Francisco",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇺🇸"
     },
     {
       "title": "SwiftFest",
@@ -508,7 +510,8 @@
       "homepage": "http://www.swiftfest.io",
       "country": "United States",
       "city": "Boston",
-      "callforpaper": true
+      "callforpaper": true,
+      "emojiflag": "🇺🇸"
     }
   ]
 }
