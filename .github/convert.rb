@@ -87,7 +87,7 @@ def output_content(j, future)
   toc = ''
 
   j['years'].each do |c|
-    toc << output_content_category(c, 1)
+    toc << output_content_category(c, 3)
     toc << output_conferences(j['conferences'], c, future)
   end
   toc
