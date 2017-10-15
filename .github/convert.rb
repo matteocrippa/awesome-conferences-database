@@ -135,13 +135,14 @@ def write_readme(j, jj, filename)
 
   output = output_header(j)
   output << "\n\n"
+  output << "\n\n## 📌 Upcoming Conferences"
   output << output_content(j, true)
+  output << "\n\n## 🕰 Past Conferences"
+  output << output_content(jj, false)
   output << "\n\n\n## 🔰 Legenda\n\n"
   output << "- (( 📢  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
-  output << "\n\n## 🕰 Past"
-  output << output_content(jj, false)
 
   File.open(filename, 'w') { |f| f.write output}
   puts "Wrote #{filename} :-)"
