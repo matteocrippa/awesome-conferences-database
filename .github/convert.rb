@@ -62,10 +62,10 @@ def output_single_conf(p)
 end
 
 def output_conferences(conferences, year, future)
-  o = ""
-  o << "| When | Name | City | Country | CfP |\n"
+  o = "| When | Name | City | Country | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
-    conferences.select { |p| p['year'] == year }
+
+  conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
       # render only upcoming events
@@ -80,16 +80,15 @@ def output_conferences(conferences, year, future)
         end
       end
     end
-    o
+  o
 end
 
 def output_content(j, future)
   toc = ''
-  conferences = j['conferences']
 
   j['years'].each do |c|
     toc << output_content_category(c, 2)
-    toc << output_conferences(conferences, c, future)
+    toc << output_conferences(j['conferences'], c, future)
   end
   toc
 end
