@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/amobconf/awesome-mobile-conferences/master/.github/Awesome%20Conference.png)
- 
-<!-- 
+
+<!--
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-42-orange.svg) ![](https://img.shields.io/badge/last_update-October_14,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-43-orange.svg) ![](https://img.shields.io/badge/last_update-October_15,_2017-green.svg)
 
 ## About
-👋 Welcome to **Awesome Mobile Conference** 👋 
+👋 Welcome to **Awesome Mobile Conference** 👋
 
-A ❤️ curated and 👬👫👭 collaborative list of **42** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **43** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -68,11 +68,12 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 04/16 - 04/17| [App Builder 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
-| 06/26 - 06/29| [360|iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
+| 06/26 - 06/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
+| 07/04 - 07/06| [ADDC](https://addconf.com/2018/)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 
 
 
-## Legenda
+## 🔰 Legenda
 
 - (( 📢  > Call for Paper is open
 
@@ -80,3 +81,20 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 
 
 Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
+
+## 🕰 Past
+## 2017
+
+| When | Name | City | Country | CfP |
+| --- | --- | --- | --- | --- |
+| 09/25 - 09/26| [.droidconNYC 2017](http://droidcon.nyc)| New York |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Convene+%2846th+btwn+6th+%26+7th%29%2C+NYC)| --- |
+| 10/01 - 10/03| [Goto Cophenhagen](https://gotocph.com)| Cophenhagen |🇩🇰 [Denmark](https://www.google.com/maps/search/?api=1&query=Bella+Center%2C+2300+K%C3%B8benhavn+S%2C+Denmark)| --- |
+| 10/05 - 10/06| [Mobiconf 2017](https://2017.mobiconf.org)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Dobrego+Pasterza+128%2C+30-962+Krak%C3%B3w%2C+Poland)| --- |
+| 10/05 - 10/06| [Mobile Era 2017](https://mobileera.rocks)| Oslo |🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Bryggetorget+3%2C+0125%2C+Oslo)| --- |
+| 10/05 - 10/06| [MODS 2017](http://www.developermarch.com/mds/?cm_mc_uid=27807686385115070242518&cm_mc_sid_50200000=1507024251)| Bengaluru |🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=National+Science+Symposium+Complex%2C+Sir+CV+Raman+Avenue%2C+Near+Indian+Institute+Of+Science%2C+Malleswaram+18th+Cross%2C+Kodandarampura%2C+Bengaluru%2C+Karnataka+560012%2C+India)| --- |
+| 10/11 - 10/13| [Pragma Conference](https://pragmaconference.com)| Verona |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
+
+## 2018
+
+| When | Name | City | Country | CfP |
+| --- | --- | --- | --- | --- |
