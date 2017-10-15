@@ -17,9 +17,12 @@ def output_content_category(c, indent)
   end
 
   toc << " #{c}\n"
-  toc << "[back to top](#readme) \n" if indent>2
-  toc << "\n"
+  toc
+end
 
+def back_to_top()
+  toc = "[back to top](#readme) \n"
+  toc << "\n"
   toc
 end
 
@@ -89,6 +92,7 @@ def output_content(j, future)
   j['years'].each do |c|
     toc << output_content_category(c, 3)
     toc << output_conferences(j['conferences'], c, future)
+    toc << back_to_top()
   end
   toc
 end
