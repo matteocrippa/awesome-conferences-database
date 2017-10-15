@@ -24,6 +24,8 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 
 
 
+
+## 📌 Upcoming Conferences
 ## 2017
 
 | When | Name | City | Country | CfP |
@@ -72,17 +74,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 07/04 - 07/06| [ADDC](https://addconf.com/2018/)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 
 
-
-## 🔰 Legenda
-
-- (( 📢  > Call for Paper is open
-
-## ✍️ Contributing
-
-
-Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
-
-## 🕰 Past
+## 🕰 Past Conferences
 ## 2017
 
 | When | Name | City | Country | CfP |
@@ -98,3 +90,14 @@ Feel free to make a PR to suggest a new conference, please take a quick look at 
 
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
+
+
+
+## 🔰 Legenda
+
+- (( 📢  > Call for Paper is open
+
+## ✍️ Contributing
+
+
+Feel free to make a PR to suggest a new conference, please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. Thank you to all [contributors](https://github.com/amobconf/awesome-mobile-conferences/graphs/contributors); you rock!
