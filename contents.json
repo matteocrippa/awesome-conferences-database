@@ -514,12 +514,12 @@
       "emojiflag": "🇺🇸"
     },
     {
-      "title": "ADDC",
+      "title": "ADDC - App Design & Development Conference",
       "year": 2018,
       "startdate": "2018/07/04",
       "enddate": "2018/07/06",
       "where": "Avinguda Diagonal, 547, 08029 Barcelona, Spain",
-      "homepage": "https://addconf.com/2018/",
+      "homepage": "https://addconf.com",
       "country": "Spain",
       "city": "Barcelona",
       "callforpaper": true,
