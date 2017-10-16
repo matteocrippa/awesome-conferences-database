@@ -524,6 +524,18 @@
       "city": "Barcelona",
       "callforpaper": true,
       "emojiflag": "🇪🇸"
+    },
+    {
+      "title": "Swift Summit",
+      "year": 2017,
+      "startdate": "2017/10/30",
+      "enddate": "2017/10/31",
+      "where": "Palace of Fine Arts Theatre, 3301 Lyon Street San Francisco, CA 94123",
+      "homepage": "https://swiftsummit.com",
+      "country": "United States",
+      "city": "San Francisco",
+      "callforpaper": false,
+      "emojiflag": "🇺🇸"
     }
   ]
 }
