@@ -69,8 +69,8 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
-| 06/26 - 06/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
+| 08/26 - 08/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
 [back to top](#readme) 
 
 
