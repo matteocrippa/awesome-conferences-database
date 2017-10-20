@@ -536,6 +536,18 @@
       "city": "San Francisco",
       "callforpaper": false,
       "emojiflag": "🇺🇸"
-    }
+    },
+    {
+	    "title": "iOSDevUK",
+	    "year": 2018,
+	    "startdate": "2018/09/03",
+	    "enddate": "2018/09/06",
+	    "where": "Aberystwyth University, Wales",
+	    "homepage": "https://www.iosdevuk.com",
+	    "country": "United Kingdom",
+	    "city": "Aberystwyth",
+	    "callforpaper": false,
+      "emojiflag": "🇬🇧"
+}
   ]
 }
