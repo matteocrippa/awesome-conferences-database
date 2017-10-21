@@ -44,7 +44,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/17 - 11/18| [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/)| Bengaluru |🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)| --- |
 | 11/17| [DevFest Baltics 2017](https://devfest.gdg.lv/)| Rīga |🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)| --- |
 | 11/17 - 11/18| [droidcon Beijing 2017](http://droidcon.cfict.com.cn)| Beijing |🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)| --- |
-| 11/23 - 11/24| [Swift Alps 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
+| 11/23 - 11/24| [Swift Alps 2017](https://theswiftalps.com)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
 | 11/25| [UA Mobile](http://www.uamobile.org)| Kiev |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| --- |
 | 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
