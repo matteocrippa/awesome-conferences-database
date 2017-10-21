@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-45-orange.svg) ![](https://img.shields.io/badge/last_update-October_20,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-45-orange.svg) ![](https://img.shields.io/badge/last_update-October_21,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,7 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 10/21| [Mobilization 7](http://2017.mobilization.pl)| Łódź |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)| --- |
 | 10/26 - 10/27| [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017)| London |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
 | 10/27 - 10/28| [Swift By Northwest](https://swiftbynorthwest.com)| Seattle |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=18118+International+Blvd%2C+Seattle%2C+WA+98188)| --- |
 | 10/27| [MBLTdev 2017](https://mbltdev.ru/en)| Moscow |🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Bersenevskaya+Haberezhnaya%2C+6%2C+Moskva%2C+Russia%2C+119072)| --- |
@@ -44,7 +43,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/17 - 11/18| [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/)| Bengaluru |🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)| --- |
 | 11/17| [DevFest Baltics 2017](https://devfest.gdg.lv/)| Rīga |🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)| --- |
 | 11/17 - 11/18| [droidcon Beijing 2017](http://droidcon.cfict.com.cn)| Beijing |🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)| --- |
-| 11/23 - 11/24| [Swift Alps 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
+| 11/23 - 11/24| [Swift Alps 2017](https://theswiftalps.com)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
 | 11/25| [UA Mobile](http://www.uamobile.org)| Kiev |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| --- |
 | 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
