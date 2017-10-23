@@ -572,6 +572,18 @@
       "city": "Paris",
       "callforpaper": false,
       "emojiflag": "🇫🇷"
+    },
+    {
+      "title": "Branchout",
+      "year": 2017,
+      "startdate": "2017/12/4",
+      "enddate": "2017/12/5",
+      "where": "950 Mason Street, San Francisco, California, United States",
+      "homepage": "https://branchoutsf.com/",
+      "country": "United States",
+      "city": "San Francisco",
+      "callforpaper": false,
+      "emojiflag": "🇺🇸"
     }
   ]
 }
