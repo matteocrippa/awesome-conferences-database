@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-45-orange.svg) ![](https://img.shields.io/badge/last_update-October_21,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-47-orange.svg) ![](https://img.shields.io/badge/last_update-October_23,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **45** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **47** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -48,6 +48,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
 | 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
+| | [FrenchKit](http://frenchkit.fr)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| --- |
 [back to top](#readme) 
 
 
@@ -64,6 +65,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 03/15 - 03/16| [AppDevCon 2018](http://appdevcon.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=ArenA+Boulevard+600%2C+1101+DS+Amsterdam-Zuidoost%2C+Netherlands)| (( 📢 |
 | 03/22 - 03/23| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)| London |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| (( 📢 |
 | 03/26 - 03/27| [Droidcon Boston 2018](http://www.droidcon-boston.com)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
+| 04/02 - 04/05| [Codemobile](http://www.codemobile.co.uk/)| Chester |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=University+of+Chester%2C+Parkgate+Road%2C+Chester%2C+UK)| --- |
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
@@ -87,6 +89,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 10/11 - 10/13| [Pragma Conference](https://pragmaconference.com)| Verona |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Baldassarre+Longhena+42%2C+Verona%2C+Italy)| --- |
 | 10/18 - 10/19| [Samsung Developer Conference 2017](https://www.sdc2017.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=747+Howard+St%2C+San+Francisco%2C+CA+94103%2C+USA)| --- |
 | 10/19 - 10/20| [iOS Conf SG 2017](http://iosconf.sg)| Singapore |🇸🇬 [Singapore](https://www.google.com/maps/search/?api=1&query=Theatre+for+the+Arts%2C+Nanyang+Polytechnic%2C+Singapore)| --- |
+| 10/21| [Mobilization 7](http://2017.mobilization.pl)| Łódź |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Hala+Expo+al.+Politechniki+4+%C5%81%C3%B3d%C5%BA)| --- |
 [back to top](#readme) 
 
 
