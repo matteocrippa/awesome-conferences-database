@@ -548,6 +548,18 @@
       "city": "Aberystwyth",
       "callforpaper": false,
       "emojiflag": "🇬🇧"
+    },
+    {
+      "title": "Codemobile",
+      "year": 2018,
+      "startdate": "2018/04/02",
+      "enddate": "2018/04/05",
+      "where": "University of Chester, Parkgate Road, Chester, UK",
+      "homepage": "http://www.codemobile.co.uk/",
+      "country": "United Kingdom",
+      "city": "Chester",
+      "callforpaper": false,
+      "emojiflag": "🇬🇧"
     }
   ]
 }
