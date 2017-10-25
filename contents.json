@@ -584,6 +584,30 @@
       "city": "San Francisco",
       "callforpaper": false,
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "Android Makers FR",
+      "year": 2017,
+      "startdate": "2017/04/10",
+      "enddate": "2017/04/11",
+      "where": "Les salons de l'Aveyron 17 Rue de l'Aubrac, Paris",
+      "homepage": "http://androidmakers.fr/",
+      "country": "France",
+      "city": "Paris",
+      "callforpaper": false,
+      "emojiflag": "🇫🇷"
+    },
+    {
+      "title": "droidcon Berlin",
+      "year": 2017,
+      "startdate": "2017/09/03",
+      "enddate": "2017/09/05",
+      "where": "CityCube, Berlin",
+      "homepage": "http://droidcon.de/",
+      "country": "Germany",
+      "city": "Berlin",
+      "callforpaper": false,
+      "emojiflag": "🇩🇪"
     }
   ]
 }
