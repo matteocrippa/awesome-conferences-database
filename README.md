@@ -48,7 +48,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
 | 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
 | 12/4 - 12/5| [Branchout](https://branchoutsf.com/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| --- |
-| | [FrenchKit](http://frenchkit.fr)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| --- |
 [back to top](#readme) 
 
 
@@ -73,6 +72,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 | 08/26 - 08/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
 | 09/03 - 09/06| [iOSDevUK](https://www.iosdevuk.com)| Aberystwyth |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University%2C+Penglais%2C+Aberystwyth+SY23+3BZ%2C+UK)| --- |
+| 09/22 - 09/23| [FrenchKit](http://frenchkit.fr)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| --- |
 [back to top](#readme) 
 
 

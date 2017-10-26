@@ -570,7 +570,8 @@
       "homepage": "http://frenchkit.fr",
       "country": "France",
       "city": "Paris",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇫🇷"
     },
     {
       "title": "Branchout",
