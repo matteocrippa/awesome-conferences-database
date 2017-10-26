@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-48-orange.svg) ![](https://img.shields.io/badge/last_update-October_23,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-48-orange.svg) ![](https://img.shields.io/badge/last_update-October_26,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,7 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 10/26 - 10/27| [droidcon London 2017](https://skillsmatter.com/conferences/8265-droidcon-london-2017)| London |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
 | 10/27 - 10/28| [Swift By Northwest](https://swiftbynorthwest.com)| Seattle |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=18118+International+Blvd%2C+Seattle%2C+WA+98188)| --- |
 | 10/27| [MBLTdev 2017](https://mbltdev.ru/en)| Moscow |🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Bersenevskaya+Haberezhnaya%2C+6%2C+Moskva%2C+Russia%2C+119072)| --- |
 | 10/30 - 10/31| [Swift Summit](https://swiftsummit.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Palace+of+Fine+Arts+Theatre%2C+3301+Lyon+Street+San+Francisco%2C+CA+94123)| --- |
