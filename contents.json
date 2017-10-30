@@ -584,6 +584,17 @@
       "city": "San Francisco",
       "callforpaper": false,
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "try! Swift Tokyo 2018",
+      "year": 2018,
+      "startdate": "2018/03/01",
+      "enddate": "2018/03/02",
+      "where": "Japan, 〒160-0023 東京都新宿区 西新宿8-17−１ 住友不動産新宿グランドタワー5F",
+      "homepage": "https://www.tryswift.co/events/2018/tokyo/en",
+      "country": "Japan",
+      "city": "Tokyo",
+      "callforpaper": false
     }
   ]
 }
