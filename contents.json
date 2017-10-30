@@ -594,7 +594,8 @@
       "homepage": "https://www.tryswift.co/events/2018/tokyo/en/",
       "country": "Japan",
       "city": "Tokyo",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇯🇵"
     }
   ]
 }
