@@ -584,6 +584,18 @@
       "city": "San Francisco",
       "callforpaper": false,
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "try! Swift Tokyo 2018",
+      "year": 2018,
+      "startdate": "2018/03/01",
+      "enddate": "2018/03/03",
+      "where": "Sumitomo Fudosan Shinjuku Grand Tower 1F, 8-17-1, Nishi-shinjuku, Shinjuku-ku, Tokyo",
+      "homepage": "https://www.tryswift.co/events/2018/tokyo/en/",
+      "country": "Japan",
+      "city": "Tokyo",
+      "callforpaper": false,
+      "emojiflag": "🇯🇵"
     }
   ]
 }
