@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-October_31,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-November_14,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,13 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 11/02 - 11/03| [KotlinConf](https://kotlinconf.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)| --- |
-| 11/05 - 11/06| [.droidconSF](https://sf.droidcon.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Mission+Bay+Conference+Center%2C+San+Francisco)| --- |
-| 11/06 - 11/10| [Devoxx 2017](https://devoxx.be)| Antwerp |🇧🇪 [Belgium](https://www.google.com/maps/search/?api=1&query=Kinepolis+Antwerp%2C+Groenendaallaan+394%2C+2030+Antwerp%2C+Belgium)| --- |
-| 11/7 - 11/10| [Øredev](http://www.oredev.org)| Malmö |🇸🇪 [Sweden](https://www.google.com/maps/search/?api=1&query=%C3%96redev+AB%2C+Hans+Michelsensgatan+10%2C+3rd+floor%2C+SE-211+20+Malm%C3%B6%2C+Sweden)| --- |
-| 11/11| [Mobius 2017](https://mobiusconf.com/en/)| Moscow |🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Radisson+Slavyanskaya%2C+Europe+Square+2%2C+Moscow)| --- |
-| 11/11| [DevFest Florida 2017](https://devfestflorida.org/)| Orlando |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Disney%27s+Contemporary+Resort%2C+4600+North+World+Dr.%2C+Orlando%2C+FL+32830+United+States)| --- |
-| 11/14 - 11/15| [GOTO Berlin 2017](https://gotober.com)| Berlin |🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=bcc%2C+Alexanderstra%C3%9Fe+11%2C+10178+Berlin)| --- |
 | 11/17 - 11/18| [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/)| Bengaluru |🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)| --- |
 | 11/17| [DevFest Baltics 2017](https://devfest.gdg.lv/)| Rīga |🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)| --- |
 | 11/17 - 11/18| [droidcon Beijing 2017](http://droidcon.cfict.com.cn)| Beijing |🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)| --- |
@@ -92,6 +85,12 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 10/27 - 10/28| [Swift By Northwest](https://swiftbynorthwest.com)| Seattle |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=18118+International+Blvd%2C+Seattle%2C+WA+98188)| --- |
 | 10/27| [MBLTdev 2017](https://mbltdev.ru/en)| Moscow |🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Bersenevskaya+Haberezhnaya%2C+6%2C+Moskva%2C+Russia%2C+119072)| --- |
 | 10/30 - 10/31| [Swift Summit](https://swiftsummit.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Palace+of+Fine+Arts+Theatre%2C+3301+Lyon+Street+San+Francisco%2C+CA+94123)| --- |
+| 11/02 - 11/03| [KotlinConf](https://kotlinconf.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)| --- |
+| 11/05 - 11/06| [.droidconSF](https://sf.droidcon.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Mission+Bay+Conference+Center%2C+San+Francisco)| --- |
+| 11/06 - 11/10| [Devoxx 2017](https://devoxx.be)| Antwerp |🇧🇪 [Belgium](https://www.google.com/maps/search/?api=1&query=Kinepolis+Antwerp%2C+Groenendaallaan+394%2C+2030+Antwerp%2C+Belgium)| --- |
+| 11/7 - 11/10| [Øredev](http://www.oredev.org)| Malmö |🇸🇪 [Sweden](https://www.google.com/maps/search/?api=1&query=%C3%96redev+AB%2C+Hans+Michelsensgatan+10%2C+3rd+floor%2C+SE-211+20+Malm%C3%B6%2C+Sweden)| --- |
+| 11/11| [Mobius 2017](https://mobiusconf.com/en/)| Moscow |🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Radisson+Slavyanskaya%2C+Europe+Square+2%2C+Moscow)| --- |
+| 11/11| [DevFest Florida 2017](https://devfestflorida.org/)| Orlando |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Disney%27s+Contemporary+Resort%2C+4600+North+World+Dr.%2C+Orlando%2C+FL+32830+United+States)| --- |
 [back to top](#readme) 
 
 
