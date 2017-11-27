@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-November_21,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-November_27,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,8 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 11/23 - 11/24| [Swift Alps 2017](https://theswiftalps.com)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
-| 11/25| [UA Mobile](http://www.uamobile.org)| Kiev |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| --- |
 | 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
 | 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
@@ -54,7 +52,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 03/26 - 03/27| [Droidcon Boston 2018](http://www.droidcon-boston.com)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
 | 04/02 - 04/05| [Codemobile](http://www.codemobile.co.uk/)| Chester |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=University+of+Chester%2C+Parkgate+Road%2C+Chester%2C+UK)| --- |
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
-| 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
+| 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| (( 📢 |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
@@ -92,6 +90,8 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/17 - 11/18| [try! Swift Banagalore](https://www.tryswift.co/events/2017/bangalore/)| Bengaluru |🇮🇳 [India](https://www.google.com/maps/search/?api=1&query=30%2C+Magrath+Rd%2C+Ashok+Nagar%2C+Bengaluru%2C+Karnataka+560025)| --- |
 | 11/17| [DevFest Baltics 2017](https://devfest.gdg.lv/)| Rīga |🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=%C4%B6%C4%ABpsalas+iela%2C+R%C4%ABga%2C+LV-1048%2C+Latvija)| --- |
 | 11/17 - 11/18| [droidcon Beijing 2017](http://droidcon.cfict.com.cn)| Beijing |🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)| --- |
+| 11/23 - 11/24| [Swift Alps 2017](https://theswiftalps.com)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
+| 11/25| [UA Mobile](http://www.uamobile.org)| Kiev |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| --- |
 [back to top](#readme) 
 
 
