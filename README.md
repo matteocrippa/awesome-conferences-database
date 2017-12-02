@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-November_27,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-49-orange.svg) ![](https://img.shields.io/badge/last_update-December_02,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,9 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
-| 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
-| 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
 | 12/4 - 12/5| [Branchout](https://branchoutsf.com/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| --- |
 [back to top](#readme) 
 
@@ -92,6 +89,9 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/17 - 11/18| [droidcon Beijing 2017](http://droidcon.cfict.com.cn)| Beijing |🇨🇳 [China](https://www.google.com/maps/search/?api=1&query=Beijing)| --- |
 | 11/23 - 11/24| [Swift Alps 2017](https://theswiftalps.com)| Crans-Montana |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| --- |
 | 11/25| [UA Mobile](http://www.uamobile.org)| Kiev |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| --- |
+| 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
+| 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
+| 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
 [back to top](#readme) 
 
 
