@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-50-orange.svg) ![](https://img.shields.io/badge/last_update-December_04,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-53-orange.svg) ![](https://img.shields.io/badge/last_update-December_04,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **50** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **53** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -29,6 +29,9 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
+| 12/05| [CodeEurope 2017 - Kraków](https://www.codeeurope.pl/en)| Cracow |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Marii+Konopnickiej+17%2C+30-302+Krak%C3%B3w%2C+Poland)| --- |
+| 12/07| [CodeEurope 2017 - Warsaw](https://www.codeeurope.pl/en)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=aleja+Poniatowskiego+1%2C+03-901+Warszawa%2C+Poland)| --- |
+| 12/13| [CodeEurope 2017 - Wroclaw](https://www.codeeurope.pl/en)| Wroclaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=50-001+Wroc%C5%82aw%2C+Poland)| --- |
 [back to top](#readme) 
 
 
