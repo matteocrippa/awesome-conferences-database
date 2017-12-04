@@ -596,6 +596,18 @@
       "city": "Tokyo",
       "callforpaper": false,
       "emojiflag": "🇯🇵"
+    },
+    {
+      "title": "mDevCamp 2018",
+      "year": 2018,
+      "startdate": "2018/06/15",
+      "enddate": "2018/06/15",
+      "where": "Prague, Czech Republic",
+      "homepage": "http://mdevcamp.cz/",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "callforpaper": false,
+      "emojiflag": "🇨🇿"
     }
   ]
 }
