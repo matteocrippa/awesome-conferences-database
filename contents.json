@@ -644,6 +644,18 @@
       "city": "Wroclaw",
       "callforpaper": false,
       "emojiflag": "🇵🇱"
+    },
+    {
+      "title": "GDG DevFest Poland",
+      "year": 2017,
+      "startdate": "2017/12/09",
+      "enddate": "2017/12/09",
+      "where": "al. Poniatowskiego 1, 03-901 Warsaw, Poland",
+      "homepage": "https://devfest.pl",
+      "country": "Poland",
+      "city": "Warsaw",
+      "callforpaper": false,
+      "emojiflag": "🇵🇱"
     }
   ]
 }
