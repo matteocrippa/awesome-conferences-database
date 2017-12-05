@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-53-orange.svg) ![](https://img.shields.io/badge/last_update-December_04,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-54-orange.svg) ![](https://img.shields.io/badge/last_update-December_05,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **53** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **54** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -29,8 +29,8 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 12/05| [CodeEurope 2017 - Kraków](https://www.codeeurope.pl/en)| Cracow |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Marii+Konopnickiej+17%2C+30-302+Krak%C3%B3w%2C+Poland)| --- |
 | 12/07| [CodeEurope 2017 - Warsaw](https://www.codeeurope.pl/en)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=aleja+Poniatowskiego+1%2C+03-901+Warszawa%2C+Poland)| --- |
+| 12/09| [GDG DevFest Poland](https://devfest.pl)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=al.+Poniatowskiego+1%2C+03-901+Warsaw%2C+Poland)| --- |
 | 12/13| [CodeEurope 2017 - Wroclaw](https://www.codeeurope.pl/en)| Wroclaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=50-001+Wroc%C5%82aw%2C+Poland)| --- |
 [back to top](#readme) 
 
@@ -53,7 +53,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| (( 📢 |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
-| 06/15| [mDevCamp 2018](http://mdevcamp.cz/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
+| 06/15| [mDevCamp 2018](https://mdevcamp.eu/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 | 08/26 - 08/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
@@ -95,6 +95,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 11/29 - 11/30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| --- |
 | 11/29 - 11/30| [SwiftFest](http://www.swiftfest.io)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| (( 📢 |
 | 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
+| 12/4 - 12/5| [Branchout](https://branchoutsf.com/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| --- |
 [back to top](#readme) 
 
 
