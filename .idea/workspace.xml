@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="474a0a67-9000-4b4d-8540-b9af9b7ed098" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents.json" afterPath="$PROJECT_DIR$/contents.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="notification.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="notification.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/notification/notification.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="600">
               <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contents.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contents.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="675" column="22" lean-forward="false" selection-start-line="675" selection-start-column="22" selection-end-line="675" selection-end-column="22" />
+            <state relative-caret-position="458">
+              <caret line="674" column="32" lean-forward="true" selection-start-line="674" selection-start-column="32" selection-end-line="674" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -176,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512576694318</updated>
       <workItem from="1512576697052" duration="3745000" />
-      <workItem from="1512587527847" duration="139000" />
+      <workItem from="1512587527847" duration="211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3884000" />
+    <option name="totallyTimeSpent" value="3956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -309,18 +308,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/notification/notification.js">
+    <entry file="file://$PROJECT_DIR$/contents.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        <state relative-caret-position="458">
+          <caret line="674" column="32" lean-forward="true" selection-start-line="674" selection-start-column="32" selection-end-line="674" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contents.json">
+    <entry file="file://$PROJECT_DIR$/.github/notification/notification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="675" column="22" lean-forward="false" selection-start-line="675" selection-start-column="22" selection-end-line="675" selection-end-column="22" />
+        <state relative-caret-position="600">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
           <folding />
         </state>
       </provider>
