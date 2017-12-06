@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="474a0a67-9000-4b4d-8540-b9af9b7ed098" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.github/notification/notification.js" afterPath="$PROJECT_DIR$/.github/notification/notification.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="notification.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/notification/notification.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <state relative-caret-position="338">
+              <caret line="62" column="109" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="623">
-              <caret line="681" column="5" lean-forward="false" selection-start-line="681" selection-start-column="5" selection-end-line="681" selection-end-column="5" />
+              <caret line="682" column="5" lean-forward="false" selection-start-line="682" selection-start-column="5" selection-end-line="682" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -178,12 +177,12 @@
       <workItem from="1512576697052" duration="3745000" />
       <workItem from="1512587527847" duration="211000" />
       <workItem from="1512588101671" duration="21000" />
-      <workItem from="1512588782182" duration="92000" />
+      <workItem from="1512588782182" duration="388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4069000" />
+    <option name="totallyTimeSpent" value="4365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -410,15 +409,15 @@
     <entry file="file://$PROJECT_DIR$/contents.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
-          <caret line="681" column="5" lean-forward="false" selection-start-line="681" selection-start-column="5" selection-end-line="681" selection-end-column="5" />
+          <caret line="682" column="5" lean-forward="false" selection-start-line="682" selection-start-column="5" selection-end-line="682" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.github/notification/notification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        <state relative-caret-position="338">
+          <caret line="62" column="109" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="109" />
           <folding />
         </state>
       </provider>

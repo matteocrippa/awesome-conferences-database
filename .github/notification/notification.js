@@ -57,10 +57,10 @@ if(newConferences.length > 0) {
 
     if(newConferences.length == 1) {
         message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +'), check it out!';
-        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +')';
+        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conference '+ newConferences[0];
     } else {
         message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
-        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +')';
+        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conferences '+ newConferences.join(", ");
     }
     // send push
     client.sendNotification(message, {
