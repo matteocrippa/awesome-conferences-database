@@ -15,6 +15,9 @@ git config user.email "awesomeconferencebot@users.noreply.github.com"
 echo add readme
 git add README.md
 
+echo add past
+git add PAST.md
+
 echo add last
 git add last.json
 
