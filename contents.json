@@ -678,7 +678,8 @@
       "homepage": "http://il.droidcon.com/2017/",
       "country": "Israel",
       "city": "Tel Aviv",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇮🇱"
     }
   ]
 }
