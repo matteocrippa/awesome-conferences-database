@@ -2,6 +2,7 @@ require('cgi')
 require('countries')
 
 README = 'README.md'
+PAST = 'PAST.md'
 CONTENTS = 'contents.json'
 
 def get_json()
@@ -134,7 +135,7 @@ def output_toc(j)
   toc
 end
 
-def write_readme(j, jj, filename)
+def write_readme(j, jj, filename, filenamePast)
   contributing = j['header_contributing']
 
   output = output_header(j)
@@ -142,7 +143,7 @@ def write_readme(j, jj, filename)
   output << "\n\n## 📌 Upcoming Conferences"
   output << output_content(j, true)
   output << "\n\n## 🕰 Past Conferences"
-  output << output_content(jj, false)
+  output << "[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)"
   output << "\n\n\n## 🔰 Legenda\n\n"
   output << "- (( 📢  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
@@ -150,8 +151,14 @@ def write_readme(j, jj, filename)
 
   File.open(filename, 'w') { |f| f.write output}
   puts "Wrote #{filename} :-)"
+
+  output = "## 🕰 Past Conferences"
+  output << output_content(jj, false)
+  File.open(filenamePast, 'w') { |f| f.write output}
+  puts "Wrote #{filenamePast} :-)"
+
 end
 
 j = get_json()
 jj = get_json()
-write_readme(j, jj, README)
+write_readme(j, jj, README, PAST)
