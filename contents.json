@@ -656,6 +656,17 @@
       "city": "Warsaw",
       "callforpaper": false,
       "emojiflag": "🇵🇱"
+    },
+    {
+      "title": "F8 2018",
+      "year": 2018,
+      "startdate": "2018/05/01",
+      "enddate": "2018/05/02",
+      "where": "San Jose, CA",
+      "homepage": "https://www.f8.com",
+      "country": "United States",
+      "city": "San Jose",
+      "callforpaper": false
     }
   ]
 }
