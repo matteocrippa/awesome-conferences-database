@@ -14,5 +14,5 @@ script:
 after_success:
   - ruby .github/convert.rb
   - node .github/flags/converter
-  - node .github/pushnotification/sendpush
+  - node .github/notification/notification
   - ./.github/deploy.sh
