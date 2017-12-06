@@ -80,6 +80,11 @@
 						"title": "Conference Call for paper flag",
 						"description": "Contains a flag that show if a call for paper is open.",
 						"type": "boolean"
+					},
+					"twitter": {
+						"title": "Conference twitter account",
+						"description": "Contains the twitter account of the conference.",
+						"type": "string"
 					}
 
 				},

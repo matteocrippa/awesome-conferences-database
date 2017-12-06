@@ -29,6 +29,7 @@ var lastConference = "";
 
 // new conferences
 var newConferences = [];
+var twitterConferences = [];
 
 // loop
 var startCounting = false;
@@ -37,6 +38,10 @@ json.conferences.forEach(function(item) {
     if(startCounting == true) {
         lastConference = item.homepage;
         newConferences.push(item.title);
+        /*twitterConferences.push({
+            title: item.title,
+            twitter: item.twitter
+        });*/
     }
     if(item.homepage == lastContent.last) {
         startCounting = true;
@@ -48,10 +53,14 @@ json.conferences.forEach(function(item) {
 
 if(newConferences.length > 0) {
     var message = '';
+    var twitterMessage = '';
+
     if(newConferences.length == 1) {
         message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +'), check it out!';
+        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +')';
     } else {
         message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
+        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +');
     }
     // send push
     client.sendNotification(message, {
@@ -59,7 +68,7 @@ if(newConferences.length > 0) {
     });
 
     // send twitter
-    clientTwitter.post('statuses/update', {status: message +' #awesomemobileconf'}, function(error, tweet, response) {
+    clientTwitter.post('statuses/update', {status: twitterMessage +' added'}, function(error, tweet, response) {
         if (!error) {
             console.log(tweet);
         } else {
