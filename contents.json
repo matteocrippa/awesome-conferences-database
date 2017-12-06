@@ -679,17 +679,6 @@
       "country": "Israel",
       "city": "Tel Aviv",
       "callforpaper": false
-    },
-    {
-      "title": "Droidcon Tel Aviv 2017",
-      "year": 2017,
-      "startdate": "2017/12/28",
-      "enddate": "2017/12/28",
-      "where": "Sprinzak 2, Tel Aviv",
-      "homepage": "http://il.droidcon.com/2017/",
-      "country": "Israel",
-      "city": "Tel Aviv",
-      "callforpaper": false
     }
   ]
 }
