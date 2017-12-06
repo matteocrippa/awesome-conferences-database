@@ -666,7 +666,8 @@
       "homepage": "https://www.f8.com",
       "country": "United States",
       "city": "San Jose",
-      "callforpaper": false
+      "callforpaper": false,
+      "emojiflag": "🇺🇸"
     }
   ]
 }
