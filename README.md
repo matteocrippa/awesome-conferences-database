@@ -65,7 +65,9 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 
 
 
-## 🕰 Past Conferences[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)
+## 🕰 Past Conferences
+
+[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)
 
 
 ## 🔰 Legenda
