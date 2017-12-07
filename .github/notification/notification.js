@@ -38,10 +38,11 @@ json.conferences.forEach(function(item) {
     if(startCounting == true) {
         lastConference = item.homepage;
         newConferences.push(item.title);
-        /*twitterConferences.push({
+        twitterConferences.push({
             title: item.title,
-            twitter: item.twitter
-        });*/
+            twitter: item.twitter === undefined ? '' : item.twitter,
+            date: item.startdate
+        });
     }
     if(item.homepage == lastContent.last) {
         startCounting = true;
@@ -53,27 +54,30 @@ json.conferences.forEach(function(item) {
 
 if(newConferences.length > 0) {
     var message = '';
-    var twitterMessage = '';
 
     if(newConferences.length == 1) {
         message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +'), check it out!';
-        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conference '+ newConferences[0];
     } else {
         message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
-        twitterMessage = '🎫 ' + newConferences.length + ' new mobile conferences '+ newConferences.join(", ");
     }
     // send push
     client.sendNotification(message, {
         included_segments: "Active Users"
     });
 
-    // send twitter
-    clientTwitter.post('statuses/update', {status: twitterMessage +' added'}, function(error, tweet, response) {
-        if (!error) {
-            console.log(tweet);
-        } else {
-            console.log(error);
-        }
+
+
+    twitterConferences.forEach(function(conf) {
+        // prepare message
+        const twitterMessage = '🎫 ' + conf.title + ' '+ conf.twitter +' will be on '+ conf.date +' #awesomemobileconf';
+        // send twitter
+        clientTwitter.post('statuses/update', {status: twitterMessage +' added'}, function(error, tweet, response) {
+            if (!error) {
+                console.log(tweet);
+            } else {
+                console.log(error);
+            }
+        });
     });
 
     console.log('OneSignal Message sent: ' + message);
