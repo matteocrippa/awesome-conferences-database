@@ -679,7 +679,8 @@
       "country": "United States",
       "city": "Atlanta",
       "callforpaper": true,
-      "twitter": "@teki_con"
+      "twitter": "@teki_con",
+      "emojiflag": "🇺🇸"
     },
     {
       "title": "iOSDevUK 8",
@@ -691,7 +692,8 @@
       "country": "United Kingdom",
       "city": "Aberystwyth",
       "callforpaper": true,
-      "twitter": "@IOSDEVUK"
+      "twitter": "@IOSDEVUK",
+      "emojiflag": "🇬🇧"
     }
   ]
 }
