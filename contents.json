@@ -692,6 +692,18 @@
       "city": "Atlanta",
       "callforpaper": true,
       "twitter": "@teki_con"
+    },
+    {
+      "title": "iOSDevUK 8",
+      "year": 2018,
+      "startdate": "2018/09/03",
+      "enddate": "2018/09/06",
+      "where": "Aberystwyth",
+      "homepage": "https://www.iosdevuk.com",
+      "country": "United Kingdom",
+      "city": "Aberystwyth",
+      "callforpaper": true,
+      "twitter": "@IOSDEVUK"
     }
   ]
 }
