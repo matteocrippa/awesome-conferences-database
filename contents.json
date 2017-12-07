@@ -706,6 +706,18 @@
       "city": "Minneapolis",
       "callforpaper": true,
       "twitter": "@gdgtc"
+    },
+    {
+      "title": "Droidcon Vietnam",
+      "year": 2018,
+      "startdate": "2018/04/07",
+      "enddate": "2018/04/07",
+      "where": "702 Nguyen Van Linh, District 7, Tân Phong, Ho Chi Minh City, Hồ Chí Minh, Vietnam",
+      "homepage": "http://droidconvn.com",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "callforpaper": true,
+      "twitter": "@droidconVN"
     }
   ]
 }
