@@ -94,4 +94,4 @@ if(newConferences.length > 0) {
 }
 
 // save json
-jsonfile.writeFileSync(contentFile, json, {spaces: 2, EOL: '\r\n'});
+jsonfile.writeFileSync(jsonFile, json, {spaces: 2, EOL: '\r\n'});
