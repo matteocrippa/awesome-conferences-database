@@ -1,0 +1,15 @@
+{
+  "name": "crafter",
+  "version": "0.0.1",
+  "description": "Convert flags, send push notification to subcribers and send tweets",
+  "main": "sendpush.js",
+  "author": "Matteo Crippa",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "node-onesignal": "^0.3.1",
+    "twitter": "^1.7.1",
+    "country-emoji": "^1.2.0",
+    "jsonfile": "^4.0.0"
+  }
+}

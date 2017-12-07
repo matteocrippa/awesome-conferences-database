@@ -1,5 +1,6 @@
 // libs
 const OneSignal = require('node-onesignal').default;
+const {flag, code, name} = require('country-emoji');
 const jsonfile = require('jsonfile');
 const Twitter = require('twitter');
 
@@ -34,6 +35,10 @@ var twitterConferences = [];
 // loop
 var startCounting = false;
 json.conferences.forEach(function(item) {
+
+    // convert flags
+    item.emojiflag = flag(item.country);
+
     //console.log(item);
     if(startCounting == true) {
         lastConference = item.homepage;
@@ -87,3 +92,6 @@ if(newConferences.length > 0) {
     // write file
     jsonfile.writeFileSync(lastFile, lastContent);
 }
+
+// save json
+jsonfile.writeFileSync(contentFile, json, {spaces: 2, EOL: '\r\n'});

@@ -12,5 +12,4 @@ json.conferences.forEach(function(item) {
   item.emojiflag = flag(item.country);
 });
 
-// store
-jsonfile.writeFileSync(contentFile, json, {spaces: 2, EOL: '\r\n'});
+

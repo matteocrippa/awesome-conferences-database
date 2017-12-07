@@ -13,6 +13,5 @@ script:
   - json validate --schema-file=.github/schema.json --document-file=contents.json
 after_success:
   - ruby .github/convert.rb
-  - node .github/flags/converter
-  - node .github/notification/notification
+  - node .github/crafter/job
   - ./.github/deploy.sh
