@@ -41,7 +41,8 @@ json.conferences.forEach(function(item) {
         twitterConferences.push({
             title: item.title,
             twitter: item.twitter === undefined ? '' : item.twitter,
-            date: item.startdate
+            date: item.startdate,
+            flag: item.flag
         });
     }
     if(item.homepage == lastContent.last) {
@@ -69,7 +70,7 @@ if(newConferences.length > 0) {
 
     twitterConferences.forEach(function(conf) {
         // prepare message
-        const twitterMessage = '🎫 ' + conf.title + ' '+ conf.twitter +' will be on '+ conf.date +' #awesomemobileconf';
+        const twitterMessage =  conf.flag+' ' + conf.title + ' '+ conf.twitter +' will be on '+ conf.date +' 🎫 #awesomemobileconf';
         // send twitter
         clientTwitter.post('statuses/update', {status: twitterMessage }, function(error, tweet, response) {
             if (!error) {
