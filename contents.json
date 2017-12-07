@@ -705,7 +705,8 @@
       "country": "United States",
       "city": "Minneapolis",
       "callforpaper": true,
-      "twitter": "@gdgtc"
+      "twitter": "@gdgtc",
+      "emojiflag": "🇺🇸"
     },
     {
       "title": "Droidcon Vietnam",
