@@ -730,7 +730,8 @@
       "country": "United States",
       "city": "Baltimora",
       "callforpaper": true,
-      "twitter": "@DevFestKC"
+      "twitter": "@DevFestKC",
+      "emojiflag": "🇺🇸"
     }
   ]
 }
