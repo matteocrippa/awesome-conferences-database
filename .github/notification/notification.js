@@ -71,7 +71,7 @@ if(newConferences.length > 0) {
         // prepare message
         const twitterMessage = '🎫 ' + conf.title + ' '+ conf.twitter +' will be on '+ conf.date +' #awesomemobileconf';
         // send twitter
-        clientTwitter.post('statuses/update', {status: twitterMessage +' added'}, function(error, tweet, response) {
+        clientTwitter.post('statuses/update', {status: twitterMessage }, function(error, tweet, response) {
             if (!error) {
                 console.log(tweet);
             } else {
