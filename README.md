@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-56-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-57-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **56** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **57** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -46,6 +46,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 03/01 - 03/02| [Mobile Trends Conference 2018](http://www.mobiletrends.pl)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| --- |
 | 03/01 - 03/02| [try! Swift Tokyo 2018](https://www.tryswift.co/events/2018/tokyo/en/)| Tokyo |🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Japan%2C+%E3%80%92160-0023+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA+%E8%A5%BF%E6%96%B0%E5%AE%BF8-17%E2%88%92%EF%BC%91+%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3%E6%96%B0%E5%AE%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC5F)| --- |
 | 03/05 - 03/07| [RWDevCon 2018](https://www.rwdevcon.com)| Alexandria |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)| --- |
+| 03/12 - 03/14| [Teki Con](https://teki-con.com)| Atlanta |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1374+West+Peachtree+Street%2C+Atlanta%2C+GA+30309)| (( 📢 |
 | 03/15 - 03/16| [AppDevCon 2018](http://appdevcon.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=ArenA+Boulevard+600%2C+1101+DS+Amsterdam-Zuidoost%2C+Netherlands)| (( 📢 |
 | 03/22 - 03/23| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)| London |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| --- |
 | 03/26 - 03/27| [Droidcon Boston 2018](http://www.droidcon-boston.com)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
@@ -58,7 +59,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 | 08/26 - 08/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
-| 09/03 - 09/06| [iOSDevUK](https://www.iosdevuk.com)| Aberystwyth |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University%2C+Penglais%2C+Aberystwyth+SY23+3BZ%2C+UK)| --- |
+| 09/03 - 09/06| [iOSDevUK 8](https://www.iosdevuk.com)| Aberystwyth |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth)| (( 📢 |
 | 09/22 - 09/23| [FrenchKit](http://frenchkit.fr)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| --- |
 [back to top](#readme) 
 
