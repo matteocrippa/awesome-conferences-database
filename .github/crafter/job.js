@@ -40,7 +40,7 @@ json.conferences.forEach(function(item) {
     item.emojiflag = flag(item.country);
 
     if(item.country == 'Vietnam') {
-      item.emojiflag = '';
+      item.emojiflag = '🇻🇳';
     }
 
     //console.log(item);
