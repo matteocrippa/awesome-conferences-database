@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-57-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-59-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **57** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **59** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -41,6 +41,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 01/29| [dotSwift](https://www.dotswift.io/)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| (( 📢 |
 | 02/03 - 02/08| [DeveloperWeek 2018](http://www.developerweek.com)| Oakland |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| --- |
 | 02/08 - 02/09| [DroidKaigi](https://droidkaigi.jp/2018/en/)| Tokyo |🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)| (( 📢 |
+| 02/10| [DevFestMN](https://devfest.mn)| Minneapolis |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+Lasalle+Ave%2C+Minneapolis%2C+MN+55403%2C+USA)| (( 📢 |
 | 02/12| [Forward Swift](https://forwardswift.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Francisco)| --- |
 | 02/15 - 02/16| [MobOs 2018](http://romobos.com)| Cluj |🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=Cluj+Napoca)| --- |
 | 03/01 - 03/02| [Mobile Trends Conference 2018](http://www.mobiletrends.pl)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| --- |
@@ -52,6 +53,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 03/26 - 03/27| [Droidcon Boston 2018](http://www.droidcon-boston.com)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
 | 04/02 - 04/05| [Codemobile](http://www.codemobile.co.uk/)| Chester |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=University+of+Chester%2C+Parkgate+Road%2C+Chester%2C+UK)| --- |
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
+| 04/07| [Droidcon Vietnam](http://droidconvn.com)| Ho Chi Minh City |🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| (( 📢 |
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| (( 📢 |
 | 05/01 - 05/02| [F8 2018](https://www.f8.com)| San Jose |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Jose%2C+CA)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
