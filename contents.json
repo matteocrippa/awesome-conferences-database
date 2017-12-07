@@ -690,7 +690,8 @@
       "homepage": "https://teki-con.com",
       "country": "United States",
       "city": "Atlanta",
-      "callforpaper": true
+      "callforpaper": true,
+      "twitter": "@teki_con"
     }
   ]
 }
