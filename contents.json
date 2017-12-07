@@ -680,6 +680,17 @@
       "city": "Tel Aviv",
       "callforpaper": false,
       "emojiflag": "🇮🇱"
+    },
+    {
+      "title": "Teki Con",
+      "year": 2018,
+      "startdate": "2018/03/12",
+      "enddate": "2018/03/14",
+      "where": "1374 West Peachtree Street, Atlanta, GA 30309",
+      "homepage": "https://teki-con.com",
+      "country": "United States",
+      "city": "Atlanta",
+      "callforpaper": true
     }
   ]
 }
