@@ -39,6 +39,10 @@ json.conferences.forEach(function(item) {
     // convert flags
     item.emojiflag = flag(item.country);
 
+    if(item.country == 'Vietnam') {
+      item.emojiflag = '';
+    }
+
     //console.log(item);
     if(startCounting == true) {
         lastConference = item.homepage;
