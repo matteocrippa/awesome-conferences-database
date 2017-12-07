@@ -694,6 +694,18 @@
       "callforpaper": true,
       "twitter": "@IOSDEVUK",
       "emojiflag": "🇬🇧"
+    },
+    {
+      "title": "DevFestMN",
+      "year": 2018,
+      "startdate": "2018/02/10",
+      "enddate": "2018/02/10",
+      "where": "1000 Lasalle Ave, Minneapolis, MN 55403, USA",
+      "homepage": "https://devfest.mn",
+      "country": "United States",
+      "city": "Minneapolis",
+      "callforpaper": true,
+      "twitter": "@gdgtc"
     }
   ]
 }
