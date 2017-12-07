@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-59-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-60-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **59** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **60** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -44,6 +44,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 02/10| [DevFestMN](https://devfest.mn)| Minneapolis |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+Lasalle+Ave%2C+Minneapolis%2C+MN+55403%2C+USA)| (( 📢 |
 | 02/12| [Forward Swift](https://forwardswift.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Francisco)| --- |
 | 02/15 - 02/16| [MobOs 2018](http://romobos.com)| Cluj |🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=Cluj+Napoca)| --- |
+| 02/17| [DevFest KC 2018](https://devfestkc.com/home)| Baltimora |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1228+Baltimore+Ave%2C+Kansas+City%2C+MO+64105%2C+USA)| (( 📢 |
 | 03/01 - 03/02| [Mobile Trends Conference 2018](http://www.mobiletrends.pl)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| --- |
 | 03/01 - 03/02| [try! Swift Tokyo 2018](https://www.tryswift.co/events/2018/tokyo/en/)| Tokyo |🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Japan%2C+%E3%80%92160-0023+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA+%E8%A5%BF%E6%96%B0%E5%AE%BF8-17%E2%88%92%EF%BC%91+%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3%E6%96%B0%E5%AE%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC5F)| --- |
 | 03/05 - 03/07| [RWDevCon 2018](https://www.rwdevcon.com)| Alexandria |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)| --- |
