@@ -732,6 +732,18 @@
       "callforpaper": true,
       "twitter": "@DevFestKC",
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "UIKonf 2018",
+      "year": 2018,
+      "startdate": "2018/05/13",
+      "enddate": "2018/05/16",
+      "where": "Holzmarktstraße 33, 10243 Berlin, Germany",
+      "homepage": "http://www.uikonf.com",
+      "country": "Germany",
+      "city": "Berlin",
+      "callforpaper": false,
+      "twitter": "@uikonf"
     }
   ]
 }
