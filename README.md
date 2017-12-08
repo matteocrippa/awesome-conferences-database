@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-60-orange.svg) ![](https://img.shields.io/badge/last_update-December_07,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-61-orange.svg) ![](https://img.shields.io/badge/last_update-December_08,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **60** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **61** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -57,6 +57,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 04/07| [Droidcon Vietnam](http://droidconvn.com)| Ho Chi Minh City |🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| (( 📢 |
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| (( 📢 |
 | 05/01 - 05/02| [F8 2018](https://www.f8.com)| San Jose |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Jose%2C+CA)| --- |
+| 05/13 - 05/16| [UIKonf 2018](http://www.uikonf.com)| Berlin |🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=Holzmarktstra%C3%9Fe+33%2C+10243+Berlin%2C+Germany)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/15| [mDevCamp 2018](https://mdevcamp.eu/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |

@@ -32,6 +32,7 @@
 | 12/01 - 12/02| [droidcon](http://droidcon.pl/#/)| Kraków |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| (( 📢 |
 | 12/4 - 12/5| [Branchout](https://branchoutsf.com/)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| --- |
 | 12/05| [CodeEurope 2017 - Kraków](https://www.codeeurope.pl/en)| Cracow |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Marii+Konopnickiej+17%2C+30-302+Krak%C3%B3w%2C+Poland)| --- |
+| 12/07| [CodeEurope 2017 - Warsaw](https://www.codeeurope.pl/en)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=aleja+Poniatowskiego+1%2C+03-901+Warszawa%2C+Poland)| --- |
 [back to top](#readme) 
 
 
