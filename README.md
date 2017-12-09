@@ -55,10 +55,10 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
 | 04/07| [Droidcon Vietnam](http://droidconvn.com)| Ho Chi Minh City |🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| (( 📢 |
 | 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| (( 📢 |
-| 04/18 - 04/19| [Mobile Beach Conference](http://mobilebeach.rocks)| Odessa |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%BB%D1%8F%D0%B6+%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D1%8F%2C+Odesa%2C+Odessa+Oblast%2C+Ukraine%2C+65000)| (( 📢 |
 | 05/01 - 05/02| [F8 2018](https://www.f8.com)| San Jose |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Jose%2C+CA)| --- |
 | 05/13 - 05/16| [UIKonf 2018](http://www.uikonf.com)| Berlin |🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=Holzmarktstra%C3%9Fe+33%2C+10243+Berlin%2C+Germany)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
+| 05/18 - 05/20| [Mobile Beach Conference](http://mobilebeach.rocks)| Odessa |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%BB%D1%8F%D0%B6+%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D1%8F%2C+Odesa%2C+Odessa+Oblast%2C+Ukraine%2C+65000)| (( 📢 |
 | 06/15| [mDevCamp 2018](https://mdevcamp.eu/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
