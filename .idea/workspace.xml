@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="474a0a67-9000-4b4d-8540-b9af9b7ed098" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/PAST.md" afterPath="$PROJECT_DIR$/PAST.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/contents.json" afterPath="$PROJECT_DIR$/contents.json" />
+      <change beforePath="$PROJECT_DIR$/last.json" afterPath="$PROJECT_DIR$/last.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +30,8 @@
       <file leaf-file-name="contents.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contents.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="749" column="39" lean-forward="false" selection-start-line="749" selection-start-column="16" selection-end-line="749" selection-end-column="39" />
+            <state relative-caret-position="343">
+              <caret line="758" column="35" lean-forward="false" selection-start-line="758" selection-start-column="35" selection-end-line="758" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -38,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/last.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -181,12 +184,12 @@
       <workItem from="1512669477792" duration="1600000" />
       <workItem from="1512674605666" duration="399000" />
       <workItem from="1512739895279" duration="178000" />
-      <workItem from="1512838757062" duration="399000" />
+      <workItem from="1512838757062" duration="679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10465000" />
+    <option name="totallyTimeSpent" value="10745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -458,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/last.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -481,8 +484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contents.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="749" column="39" lean-forward="false" selection-start-line="749" selection-start-column="16" selection-end-line="749" selection-end-column="39" />
+        <state relative-caret-position="343">
+          <caret line="758" column="35" lean-forward="false" selection-start-line="758" selection-start-column="35" selection-end-line="758" selection-end-column="35" />
           <folding />
         </state>
       </provider>
