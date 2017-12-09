@@ -744,7 +744,8 @@
       "country": "Germany",
       "city": "Berlin",
       "callforpaper": false,
-      "twitter": "@uikonf"
+      "twitter": "@uikonf",
+      "emojiflag": "🇩🇪"
     },
     {
       "title": "Mobile Beach Conference",
@@ -756,7 +757,8 @@
       "country": "Ukraine",
       "city": "Odessa",
       "callforpaper": true,
-      "twitter": "@MobileBeachConf"
+      "twitter": "@MobileBeachConf",
+      "emojiflag": "🇺🇦"
     }
   ]
 }
