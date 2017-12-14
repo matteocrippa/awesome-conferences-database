@@ -759,6 +759,18 @@
       "callforpaper": true,
       "twitter": "@MobileBeachConf",
       "emojiflag": "🇺🇦"
+    },
+    {
+      "title": "Developer Week SF",
+      "year": 2018,
+      "startdate": "2018/02/03",
+      "enddate": "2018/02/07",
+      "where": "550 10th St, Oakland, CA 94607, USA",
+      "homepage": "http://www.developerweek.com",
+      "country": "United States",
+      "city": "San Francisco",
+      "callforpaper": false,
+      "twitter": "@developerweek"
     }
   ]
 }
