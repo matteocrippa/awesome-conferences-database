@@ -785,6 +785,18 @@
       "callforpaper": true,
       "twitter": "@developerweek",
       "emojiflag": "🇺🇸"
+    },
+    {
+      "title": "DartConf LA",
+      "year": 2018,
+      "startdate": "2018/01/23",
+      "enddate": "2018/01/24",
+      "where": "340 Main St, Venice, CA 90291, USA",
+      "homepage": "https://events.dartlang.org/2018/dartconf/",
+      "country": "United States",
+      "city": "Los Angeles",
+      "callforpaper": false,
+      "twitter": "@@dart_lang"
     }
   ]
 }
