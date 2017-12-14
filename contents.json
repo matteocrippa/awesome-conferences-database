@@ -770,7 +770,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": true,
-      "twitter": "@developerweek"
+      "twitter": "@developerweek",
+      "emojiflag": "🇺🇸"
     },
     {
       "title": "Developer Week NYC",
@@ -782,7 +783,8 @@
       "country": "United States",
       "city": "New York",
       "callforpaper": true,
-      "twitter": "@developerweek"
+      "twitter": "@developerweek",
+      "emojiflag": "🇺🇸"
     }
   ]
 }
