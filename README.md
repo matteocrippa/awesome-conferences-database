@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-62-orange.svg) ![](https://img.shields.io/badge/last_update-December_14,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-64-orange.svg) ![](https://img.shields.io/badge/last_update-December_14,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **62** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **64** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -38,6 +38,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | --- | --- | --- | --- | --- |
 | 01/29| [dotSwift](https://www.dotswift.io/)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| (( 📢 |
 | 02/03 - 02/08| [DeveloperWeek 2018](http://www.developerweek.com)| Oakland |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| --- |
+| 02/03 - 02/07| [Developer Week SF](http://www.developerweek.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+St%2C+Oakland%2C+CA+94607%2C+USA)| (( 📢 |
 | 02/08 - 02/09| [DroidKaigi](https://droidkaigi.jp/2018/en/)| Tokyo |🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)| (( 📢 |
 | 02/10| [DevFestMN](https://devfest.mn)| Minneapolis |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+Lasalle+Ave%2C+Minneapolis%2C+MN+55403%2C+USA)| (( 📢 |
 | 02/12| [Forward Swift](https://forwardswift.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Francisco)| --- |
@@ -60,6 +61,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 05/18 - 05/20| [Mobile Beach Conference](http://mobilebeach.rocks)| Odessa |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%BB%D1%8F%D0%B6+%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D1%8F%2C+Odesa%2C+Odessa+Oblast%2C+Ukraine%2C+65000)| (( 📢 |
 | 06/15| [mDevCamp 2018](https://mdevcamp.eu/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
+| 06/18 - 06/20| [Developer Week NYC](http://www.developerweek.com/NYC/)| New York |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=72+Noble+St%2C+Brooklyn%2C+NY+11222%2C+USA)| (( 📢 |
 | 07/04 - 07/06| [ADDC - App Design & Development Conference](https://addconf.com)| Barcelona |🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| (( 📢 |
 | 08/26 - 08/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
 | 09/03 - 09/06| [iOSDevUK 8](https://www.iosdevuk.com)| Aberystwyth |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth)| (( 📢 |
