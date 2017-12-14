@@ -769,7 +769,19 @@
       "homepage": "http://www.developerweek.com",
       "country": "United States",
       "city": "San Francisco",
-      "callforpaper": false,
+      "callforpaper": true,
+      "twitter": "@developerweek"
+    },
+    {
+      "title": "Developer Week NYC",
+      "year": 2018,
+      "startdate": "2018/06/18",
+      "enddate": "2018/06/20",
+      "where": "72 Noble St, Brooklyn, NY 11222, USA",
+      "homepage": "http://www.developerweek.com/NYC/",
+      "country": "United States",
+      "city": "New York",
+      "callforpaper": true,
       "twitter": "@developerweek"
     }
   ]
