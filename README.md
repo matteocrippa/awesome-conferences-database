@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-62-orange.svg) ![](https://img.shields.io/badge/last_update-December_09,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-62-orange.svg) ![](https://img.shields.io/badge/last_update-December_14,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,7 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 12/13| [CodeEurope 2017 - Wroclaw](https://www.codeeurope.pl/en)| Wroclaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=50-001+Wroc%C5%82aw%2C+Poland)| --- |
 | 12/28| [Droidcon Tel Aviv 2017](http://il.droidcon.com/2017/)| Tel Aviv |🇮🇱 [Israel](https://www.google.com/maps/search/?api=1&query=Sprinzak+2%2C+Tel+Aviv)| --- |
 [back to top](#readme) 
 
