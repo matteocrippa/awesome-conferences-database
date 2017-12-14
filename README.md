@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-64-orange.svg) ![](https://img.shields.io/badge/last_update-December_14,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-65-orange.svg) ![](https://img.shields.io/badge/last_update-December_14,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **64** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **65** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -36,6 +36,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2018
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
+| 01/23 - 01/24| [DartConf LA](https://events.dartlang.org/2018/dartconf/)| Los Angeles |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=340+Main+St%2C+Venice%2C+CA+90291%2C+USA)| --- |
 | 01/29| [dotSwift](https://www.dotswift.io/)| Paris |🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| (( 📢 |
 | 02/03 - 02/08| [DeveloperWeek 2018](http://www.developerweek.com)| Oakland |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| --- |
 | 02/03 - 02/07| [Developer Week SF](http://www.developerweek.com)| San Francisco |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+St%2C+Oakland%2C+CA+94607%2C+USA)| (( 📢 |

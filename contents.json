@@ -796,7 +796,8 @@
       "country": "United States",
       "city": "Los Angeles",
       "callforpaper": false,
-      "twitter": "@dart_lang"
+      "twitter": "@dart_lang",
+      "emojiflag": "🇺🇸"
     }
   ]
 }
