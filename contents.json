@@ -798,6 +798,19 @@
       "callforpaper": false,
       "twitter": "@dart_lang",
       "emojiflag": "🇺🇸"
+    },
+    ,
+    {
+      "title": "CocoaHeads Kyiv",
+      "year": 2017,
+      "startdate": "2017/12/16",
+      "enddate": "2017/12/16",
+      "where": "вул. Велика Житомирська, буд.33, Kyiv, Kyiv city, Ukraine, 01601",
+      "homepage": "https://cocoaheadsukraine.ticketforevent.com/?utm_source=Twitter&utm_medium=Lisa&utm_campaign=help",
+      "country": "Ukraine",
+      "city": "Kyiv",
+      "callforpaper": false,
+      "twitter": "@CocoaHeadsUA"
     }
   ]
 }
