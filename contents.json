@@ -19,7 +19,8 @@
       "country": "India",
       "city": "Bengaluru",
       "callforpaper": false,
-      "emojiflag": "🇮🇳"
+      "emojiflag": "🇮🇳",
+      "isnew": false
     },
     {
       "title": "Mobile Era 2017",
@@ -31,7 +32,8 @@
       "country": "Norway",
       "city": "Oslo",
       "callforpaper": false,
-      "emojiflag": "🇳🇴"
+      "emojiflag": "🇳🇴",
+      "isnew": false
     },
     {
       "title": "Pragma Conference",
@@ -43,7 +45,8 @@
       "country": "Italy",
       "city": "Verona",
       "callforpaper": false,
-      "emojiflag": "🇮🇹"
+      "emojiflag": "🇮🇹",
+      "isnew": false
     },
     {
       "title": "DevFest Baltics 2017",
@@ -55,7 +58,8 @@
       "country": "Latvia",
       "city": "Rīga",
       "callforpaper": false,
-      "emojiflag": "🇱🇻"
+      "emojiflag": "🇱🇻",
+      "isnew": false
     },
     {
       "title": "Mobilization 7",
@@ -67,7 +71,8 @@
       "country": "Poland",
       "city": "Łódź",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "KotlinConf",
@@ -79,7 +84,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Goto Cophenhagen",
@@ -91,7 +97,8 @@
       "country": "Denmark",
       "city": "Cophenhagen",
       "callforpaper": false,
-      "emojiflag": "🇩🇰"
+      "emojiflag": "🇩🇰",
+      "isnew": false
     },
     {
       "title": "iOSCon 2018",
@@ -103,7 +110,8 @@
       "country": "United Kingdom",
       "city": "London",
       "callforpaper": false,
-      "emojiflag": "🇬🇧"
+      "emojiflag": "🇬🇧",
+      "isnew": false
     },
     {
       "title": "Swift Alps 2017",
@@ -115,7 +123,8 @@
       "country": "Switzerland",
       "city": "Crans-Montana",
       "callforpaper": false,
-      "emojiflag": "🇨🇭"
+      "emojiflag": "🇨🇭",
+      "isnew": false
     },
     {
       "title": "App Builders 2018",
@@ -127,7 +136,8 @@
       "country": "Switzerland",
       "city": "Lugano",
       "callforpaper": true,
-      "emojiflag": "🇨🇭"
+      "emojiflag": "🇨🇭",
+      "isnew": false
     },
     {
       "title": "droidcon London 2017",
@@ -139,7 +149,8 @@
       "country": "United Kingdom",
       "city": "London",
       "callforpaper": false,
-      "emojiflag": "🇬🇧"
+      "emojiflag": "🇬🇧",
+      "isnew": false
     },
     {
       "title": "Mobiconf 2017",
@@ -151,7 +162,8 @@
       "country": "Poland",
       "city": "Kraków",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "Devoxx 2017",
@@ -163,7 +175,8 @@
       "country": "Belgium",
       "city": "Antwerp",
       "callforpaper": false,
-      "emojiflag": "🇧🇪"
+      "emojiflag": "🇧🇪",
+      "isnew": false
     },
     {
       "title": ".droidconSF",
@@ -175,7 +188,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Mobius 2017",
@@ -187,7 +201,8 @@
       "country": "Russia",
       "city": "Moscow",
       "callforpaper": false,
-      "emojiflag": "🇷🇺"
+      "emojiflag": "🇷🇺",
+      "isnew": false
     },
     {
       "title": "GOTO Berlin 2017",
@@ -199,7 +214,8 @@
       "country": "Germany",
       "city": "Berlin",
       "callforpaper": false,
-      "emojiflag": "🇩🇪"
+      "emojiflag": "🇩🇪",
+      "isnew": false
     },
     {
       "title": "droidcon Beijing 2017",
@@ -211,7 +227,8 @@
       "country": "China",
       "city": "Beijing",
       "callforpaper": false,
-      "emojiflag": "🇨🇳"
+      "emojiflag": "🇨🇳",
+      "isnew": false
     },
     {
       "title": "droidcon",
@@ -223,7 +240,8 @@
       "city": "Kraków",
       "country": "Poland",
       "callforpaper": true,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "DroidKaigi",
@@ -235,7 +253,8 @@
       "country": "Japan",
       "city": "Tokyo",
       "callforpaper": true,
-      "emojiflag": "🇯🇵"
+      "emojiflag": "🇯🇵",
+      "isnew": false
     },
     {
       "title": "Droidcon Boston 2018",
@@ -247,7 +266,8 @@
       "country": "United States",
       "city": "Boston",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "RWDevCon 2018",
@@ -259,7 +279,8 @@
       "country": "United States",
       "city": "Alexandria",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "iOS Conf SG 2017",
@@ -271,7 +292,8 @@
       "country": "Singapore",
       "city": "Singapore",
       "callforpaper": false,
-      "emojiflag": "🇸🇬"
+      "emojiflag": "🇸🇬",
+      "isnew": false
     },
     {
       "title": "UA Mobile",
@@ -283,7 +305,8 @@
       "country": "Ukraine",
       "city": "Kiev",
       "callforpaper": false,
-      "emojiflag": "🇺🇦"
+      "emojiflag": "🇺🇦",
+      "isnew": false
     },
     {
       "title": ".droidconNYC 2017",
@@ -295,7 +318,8 @@
       "country": "United States",
       "city": "New York",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "DevFest Florida 2017",
@@ -307,7 +331,8 @@
       "country": "United States",
       "city": "Orlando",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Open Mobile Summit 2017",
@@ -319,7 +344,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Øredev",
@@ -331,7 +357,8 @@
       "country": "Sweden",
       "city": "Malmö",
       "callforpaper": false,
-      "emojiflag": "🇸🇪"
+      "emojiflag": "🇸🇪",
+      "isnew": false
     },
     {
       "title": "Swift By Northwest",
@@ -343,7 +370,8 @@
       "country": "United States",
       "callforpaper": false,
       "city": "Seattle",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "dotSwift",
@@ -355,7 +383,8 @@
       "country": "France",
       "city": "Paris",
       "callforpaper": true,
-      "emojiflag": "🇫🇷"
+      "emojiflag": "🇫🇷",
+      "isnew": false
     },
     {
       "title": "DeveloperWeek 2018",
@@ -367,7 +396,8 @@
       "country": "United States",
       "city": "Oakland",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "GOTO Amsterdam 2018",
@@ -379,7 +409,8 @@
       "country": "Netherlands",
       "city": "Amsterdam",
       "callforpaper": false,
-      "emojiflag": "🇳🇱"
+      "emojiflag": "🇳🇱",
+      "isnew": false
     },
     {
       "title": "MBLTdev 2017",
@@ -391,7 +422,8 @@
       "country": "Russia",
       "city": "Moscow",
       "callforpaper": false,
-      "emojiflag": "🇷🇺"
+      "emojiflag": "🇷🇺",
+      "isnew": false
     },
     {
       "title": "Samsung Developer Conference 2017",
@@ -403,7 +435,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "WeAreDevelopers 2018",
@@ -415,7 +448,8 @@
       "country": "Austria",
       "city": "Wien",
       "callforpaper": false,
-      "emojiflag": "🇦🇹"
+      "emojiflag": "🇦🇹",
+      "isnew": false
     },
     {
       "title": "MODS 2017",
@@ -427,7 +461,8 @@
       "country": "India",
       "city": "Bengaluru",
       "callforpaper": false,
-      "emojiflag": "🇮🇳"
+      "emojiflag": "🇮🇳",
+      "isnew": false
     },
     {
       "title": "droidcon Italy 2018",
@@ -439,7 +474,8 @@
       "country": "Italy",
       "city": "Torino",
       "callforpaper": false,
-      "emojiflag": "🇮🇹"
+      "emojiflag": "🇮🇹",
+      "isnew": false
     },
     {
       "title": "Mobile Trends Conference 2018",
@@ -451,7 +487,8 @@
       "country": "Poland",
       "city": "Kraków",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "MobOs 2018",
@@ -463,7 +500,8 @@
       "country": "Romania",
       "city": "Cluj",
       "callforpaper": false,
-      "emojiflag": "🇷🇴"
+      "emojiflag": "🇷🇴",
+      "isnew": false
     },
     {
       "title": "AppDevCon 2018",
@@ -475,7 +513,8 @@
       "country": "Netherlands",
       "city": "Amsterdam",
       "callforpaper": true,
-      "emojiflag": "🇳🇱"
+      "emojiflag": "🇳🇱",
+      "isnew": false
     },
     {
       "title": "360 iDev",
@@ -487,7 +526,8 @@
       "country": "United States",
       "city": "Denver",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Forward Swift",
@@ -499,7 +539,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "SwiftFest",
@@ -511,7 +552,8 @@
       "country": "United States",
       "city": "Boston",
       "callforpaper": true,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "ADDC - App Design & Development Conference",
@@ -523,7 +565,8 @@
       "country": "Spain",
       "city": "Barcelona",
       "callforpaper": true,
-      "emojiflag": "🇪🇸"
+      "emojiflag": "🇪🇸",
+      "isnew": false
     },
     {
       "title": "Swift Summit",
@@ -535,7 +578,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Codemobile",
@@ -547,7 +591,8 @@
       "country": "United Kingdom",
       "city": "Chester",
       "callforpaper": false,
-      "emojiflag": "🇬🇧"
+      "emojiflag": "🇬🇧",
+      "isnew": false
     },
     {
       "title": "FrenchKit",
@@ -559,7 +604,8 @@
       "country": "France",
       "city": "Paris",
       "callforpaper": false,
-      "emojiflag": "🇫🇷"
+      "emojiflag": "🇫🇷",
+      "isnew": false
     },
     {
       "title": "Branchout",
@@ -571,7 +617,8 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "try! Swift Tokyo 2018",
@@ -583,7 +630,8 @@
       "country": "Japan",
       "city": "Tokyo",
       "callforpaper": false,
-      "emojiflag": "🇯🇵"
+      "emojiflag": "🇯🇵",
+      "isnew": false
     },
     {
       "title": "mDevCamp 2018",
@@ -595,7 +643,8 @@
       "country": "Czech Republic",
       "city": "Prague",
       "callforpaper": false,
-      "emojiflag": "🇨🇿"
+      "emojiflag": "🇨🇿",
+      "isnew": false
     },
     {
       "title": "CodeEurope 2017 - Kraków",
@@ -607,7 +656,8 @@
       "country": "Poland",
       "city": "Cracow",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "CodeEurope 2017 - Warsaw",
@@ -619,7 +669,8 @@
       "country": "Poland",
       "city": "Warsaw",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "CodeEurope 2017 - Wroclaw",
@@ -631,7 +682,8 @@
       "country": "Poland",
       "city": "Wroclaw",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "GDG DevFest Poland",
@@ -643,7 +695,8 @@
       "country": "Poland",
       "city": "Warsaw",
       "callforpaper": false,
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "F8 2018",
@@ -655,7 +708,8 @@
       "country": "United States",
       "city": "San Jose",
       "callforpaper": false,
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Droidcon Tel Aviv 2017",
@@ -667,7 +721,8 @@
       "country": "Israel",
       "city": "Tel Aviv",
       "callforpaper": false,
-      "emojiflag": "🇮🇱"
+      "emojiflag": "🇮🇱",
+      "isnew": false
     },
     {
       "title": "Teki Con",
@@ -680,7 +735,8 @@
       "city": "Atlanta",
       "callforpaper": true,
       "twitter": "@teki_con",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "iOSDevUK 8",
@@ -693,7 +749,8 @@
       "city": "Aberystwyth",
       "callforpaper": true,
       "twitter": "@IOSDEVUK",
-      "emojiflag": "🇬🇧"
+      "emojiflag": "🇬🇧",
+      "isnew": false
     },
     {
       "title": "DevFestMN",
@@ -706,7 +763,8 @@
       "city": "Minneapolis",
       "callforpaper": true,
       "twitter": "@gdgtc",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Droidcon Vietnam",
@@ -719,7 +777,8 @@
       "city": "Ho Chi Minh City",
       "callforpaper": true,
       "twitter": "@droidconVN",
-      "emojiflag": "🇻🇳"
+      "emojiflag": "🇻🇳",
+      "isnew": false
     },
     {
       "title": "DevFest KC 2018",
@@ -732,7 +791,8 @@
       "city": "Baltimora",
       "callforpaper": true,
       "twitter": "@DevFestKC",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "UIKonf 2018",
@@ -745,7 +805,8 @@
       "city": "Berlin",
       "callforpaper": false,
       "twitter": "@uikonf",
-      "emojiflag": "🇩🇪"
+      "emojiflag": "🇩🇪",
+      "isnew": false
     },
     {
       "title": "Mobile Beach Conference",
@@ -758,7 +819,8 @@
       "city": "Odessa",
       "callforpaper": true,
       "twitter": "@MobileBeachConf",
-      "emojiflag": "🇺🇦"
+      "emojiflag": "🇺🇦",
+      "isnew": false
     },
     {
       "title": "Developer Week SF",
@@ -771,7 +833,8 @@
       "city": "San Francisco",
       "callforpaper": true,
       "twitter": "@developerweek",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "Developer Week NYC",
@@ -784,7 +847,8 @@
       "city": "New York",
       "callforpaper": true,
       "twitter": "@developerweek",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "DartConf LA",
@@ -797,7 +861,8 @@
       "city": "Los Angeles",
       "callforpaper": false,
       "twitter": "@dart_lang",
-      "emojiflag": "🇺🇸"
+      "emojiflag": "🇺🇸",
+      "isnew": false
     },
     {
       "title": "CocoaHeads Kyiv",
@@ -810,7 +875,8 @@
       "city": "Kyiv",
       "callforpaper": false,
       "twitter": "@CocoaHeadsUA",
-      "emojiflag": "🇺🇦"
+      "emojiflag": "🇺🇦",
+      "isnew": false
     },
     {
       "title": "MCE",
@@ -823,7 +889,8 @@
       "city": "Warsaw",
       "callforpaper": true,
       "twitter": "@mceconf",
-      "emojiflag": "🇵🇱"
+      "emojiflag": "🇵🇱",
+      "isnew": false
     },
     {
       "title": "Riga Dev Days",
@@ -836,7 +903,8 @@
       "city": "Rīga",
       "callforpaper": true,
       "twitter": "@rigadevdays",
-      "emojiflag": "🇱🇻"
+      "emojiflag": "🇱🇻",
+      "isnew": false
     }
   ]
 }
