@@ -46,14 +46,7 @@ json.conferences.forEach(function(item) {
     //console.log(item);
     if(startCounting === true) {
         lastConference = item.homepage;
-        newConferences.push({
-            title: item.title,
-            twitter: item.twitter === undefined ? '' : item.twitter,
-            start: item.startdate,
-            end: item.enddate,
-            city: item.city,
-            flag: item.emojiflag
-        });
+        newConferences.push(item);
     }
     if(item.homepage === lastContent.last) {
         startCounting = true;
