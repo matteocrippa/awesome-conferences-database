@@ -81,7 +81,7 @@ if(newConferences.length > 0) {
     });
 
 
-    twitterConferences.forEach(function(conf) {
+    newConferences.forEach(function(conf) {
         // prepare message
         const twitterMessage =  conf.flag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.start +' and '+ conf.end +' in '+ conf.city +' 🎫 #awesomemobileconference';
         // send twitter

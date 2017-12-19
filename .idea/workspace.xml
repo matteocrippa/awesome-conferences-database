@@ -33,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contents.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contents.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="434">
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="job.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="job.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/crafter/job.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="101" column="74" lean-forward="false" selection-start-line="101" selection-start-column="74" selection-end-line="101" selection-end-column="74" />
+            <state relative-caret-position="327">
+              <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -99,9 +99,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/.github/deploy.sh" />
-        <option value="$PROJECT_DIR$/.github/crafter/job.js" />
         <option value="$PROJECT_DIR$/.github/convert.rb" />
         <option value="$PROJECT_DIR$/contents.json" />
+        <option value="$PROJECT_DIR$/.github/crafter/job.js" />
       </list>
     </option>
   </component>
@@ -209,12 +209,12 @@
       <workItem from="1513375239317" duration="534000" />
       <workItem from="1513688299200" duration="202000" />
       <workItem from="1513703767660" duration="33000" />
-      <workItem from="1513703819111" duration="1334000" />
+      <workItem from="1513703819111" duration="1506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13944000" />
+    <option name="totallyTimeSpent" value="14116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -488,14 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/crafter/job.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="101" column="74" lean-forward="false" selection-start-line="101" selection-start-column="74" selection-end-line="101" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.github/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -512,6 +504,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="837" column="31" lean-forward="true" selection-start-line="837" selection-start-column="31" selection-end-line="837" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.github/convert.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="981">
@@ -520,10 +520,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contents.json">
+    <entry file="file://$PROJECT_DIR$/.github/crafter/job.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="837" column="31" lean-forward="true" selection-start-line="837" selection-start-column="31" selection-end-line="837" selection-end-column="31" />
+        <state relative-caret-position="327">
+          <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
           <folding />
         </state>
       </provider>
