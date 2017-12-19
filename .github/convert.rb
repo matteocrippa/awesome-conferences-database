@@ -48,13 +48,13 @@ def output_single_conf(p)
     o << " - #{endDate}"
   end
   o << "| [#{p['title']}](#{p['homepage']})"
-  o << "| #{p['city']} "
   o << "|"
   c = ISO3166::Country.find_country_by_name(p['country'])
   if !c.nil?
     o << "#{c.emoji_flag} "
   end
   o << "[#{p['country']}](#{where})"
+  o << "| #{p['city']} "
   o << "|"
   if p['callforpaper'] == true
     o << " 📢 "
@@ -66,7 +66,7 @@ def output_single_conf(p)
 end
 
 def output_conferences(conferences, year, future)
-  o = "| When | Name | City | Country | CfP |\n"
+  o = "| When | Name | Country | City | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
 
   currentmonth = 0
