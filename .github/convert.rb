@@ -102,8 +102,8 @@ def month_row(currentmonth, date)
   # manage the month header
   if currentmonth != date.month
     currentmonth = date.month
-    o = "| #{date.strftime("%B")} | --- | --- | --- | --- |\n"
-    o << "| --- | --- | --- | --- | --- |\n"
+    o = "\n"
+    o << "| **#{date.strftime("%B")}** | --- | --- | --- | --- |\n"
   end
   return o, currentmonth
 end
