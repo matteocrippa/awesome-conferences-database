@@ -145,7 +145,7 @@ def write_readme(j, jj, filename, filenamePast)
   output << "\n\n## 🕰 Past Conferences"
   output << "\n\n[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)"
   output << "\n\n\n## 🔰 Legenda\n\n"
-  output << "- (( 📢  > Call for Paper is open"
+  output << "- 📢  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
 
