@@ -824,6 +824,18 @@
       "callforpaper": true,
       "twitter": "@mceconf",
       "emojiflag": "🇵🇱"
+    },
+    {
+      "title": "Riga Dev Days",
+      "year": 2018,
+      "startdate": "2018/05/29",
+      "enddate": "2018/05/31",
+      "where": "13. janvāra iela 8, Latgales priekšpilsēta, Rīga, LV-1050, Latvia",
+      "homepage": "https://rigadevdays.lv",
+      "country": "Latvia",
+      "city": "Rīga",
+      "callforpaper": true,
+      "twitter": "@rigadevdays",
     }
   ]
 }
