@@ -57,7 +57,7 @@ def output_single_conf(p)
   o << "[#{p['country']}](#{where})"
   o << "|"
   if p['callforpaper'] == true
-    o << " (( 📢 "
+    o << " 📢 "
   else
     o << " --- "
   end
