@@ -61,7 +61,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 01 - 02| [try! Swift Tokyo 2018](https://www.tryswift.co/events/2018/tokyo/en/)|🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Japan%2C+%E3%80%92160-0023+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA+%E8%A5%BF%E6%96%B0%E5%AE%BF8-17%E2%88%92%EF%BC%91+%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3%E6%96%B0%E5%AE%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC5F)| Tokyo | --- |
 | 05 - 07| [RWDevCon 2018](https://www.rwdevcon.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=The+Westin+Alexandria+Hotel%2C+VA)| Alexandria | --- |
 | 12 - 14| [Teki Con](https://teki-con.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1374+West+Peachtree+Street%2C+Atlanta%2C+GA+30309)| Atlanta | 📢 |
-| 15 - 16| [AppDevCon 2018](http://appdevcon.nl)|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=ArenA+Boulevard+600%2C+1101+DS+Amsterdam-Zuidoost%2C+Netherlands)| Amsterdam | 📢 |
+| 15 - 16| [AppDevCon 2018](http://appdevcon.nl)|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=ArenA+Boulevard+600%2C+1101+DS+Amsterdam-Zuidoost%2C+Netherlands)| Amsterdam | --- |
 | 22 - 23| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| London | --- |
 | 26 - 27| [Droidcon Boston 2018](http://www.droidcon-boston.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| Boston | --- |
 
