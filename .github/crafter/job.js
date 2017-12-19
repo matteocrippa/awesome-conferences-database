@@ -46,7 +46,14 @@ json.conferences.forEach(function(item) {
     if(startCounting === true) {
         lastConference = item.homepage;
         newConferences.push(item);
+        // set this conference as new
+        item.isnew = true;
+
+    } else {
+        // set all the other conf as old
+        item.isnew = false;
     }
+
     if(item.homepage === lastContent.last) {
         startCounting = true;
     }
