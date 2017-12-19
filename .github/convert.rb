@@ -69,11 +69,22 @@ def output_conferences(conferences, year, future)
   o = "| When | Name | City | Country | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
 
-  conferences.select { |p| p['year'] == year }
+  currmonth = 0
+
+  conferences
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
-      # render only upcoming events
+
+      # parse current date
       date = Date.parse p['startdate']
+
+      # manage the month header
+      if currentmonth != date.month
+        currentmonth = date.month
+        o << month_row(date.strftime("%B"))
+      end
+
+      # check if we need to render only future or previous events
       if future == true
         if date > Date.today
           o << output_single_conf(p)
@@ -85,6 +96,11 @@ def output_conferences(conferences, year, future)
       end
     end
   o
+end
+
+def month_row(name)
+  o = "| #{name} | --- | --- | --- | --- |\n"
+  o << "| --- | --- | --- | --- | --- |\n"
 end
 
 def output_content(j, future)
