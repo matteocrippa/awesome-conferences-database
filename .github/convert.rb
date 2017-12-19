@@ -66,7 +66,7 @@ def output_single_conf(p)
 end
 
 def output_conferences(conferences, year, future)
-
+  o = ""
   currentmonth = 0
 
   conferences.select { |p| p['year'] == year }
