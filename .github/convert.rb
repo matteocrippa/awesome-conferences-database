@@ -1,5 +1,5 @@
 require('cgi')
-#require('countries')
+require('countries')
 
 README = 'README.md'
 PAST = 'PAST.md'
@@ -41,8 +41,8 @@ end
 def output_single_conf(p)
   o = ""
   where = gmapUrl(p['where'])
-  startDate = p['startdate'].gsub! "#{p['year']}/", ''
-  endDate = p['enddate'].gsub! "#{p['year']}/", ''
+  startDate = p['startdate'].split('/')[2]
+  endDate = p['enddate'].split('/')[2]
   o << "| #{startDate}"
   if startDate != endDate
     o << " - #{endDate}"
@@ -50,10 +50,10 @@ def output_single_conf(p)
   o << "| [#{p['title']}](#{p['homepage']})"
   o << "| #{p['city']} "
   o << "|"
-  #c = ISO3166::Country.find_country_by_name(p['country'])
-  #if !c.nil?
-  #  o << "#{c.emoji_flag} "
-  #end
+  c = ISO3166::Country.find_country_by_name(p['country'])
+  if !c.nil?
+    o << "#{c.emoji_flag} "
+  end
   o << "[#{p['country']}](#{where})"
   o << "|"
   if p['callforpaper'] == true
