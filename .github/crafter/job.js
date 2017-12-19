@@ -18,7 +18,6 @@ const client = new OneSignal(process.env.ONESIGNAL_APPID, process.env.ONESIGNAL_
 // file name
 const lastFile = 'last.json';
 const jsonFile = 'contents.json';
-const newFile = 'new.json';
 
 // get file content
 const lastContent = jsonfile.readFileSync(lastFile);
@@ -93,9 +92,6 @@ if(newConferences.length > 0) {
     lastContent.last = lastConference;
     // write file
     jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
-
-    // write new conferences
-    jsonfile.writeFileSync(newFile, newConferences, {spaces: 2, EOL: '\r\n'});
 }
 
 // save json
