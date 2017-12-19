@@ -512,7 +512,7 @@
       "homepage": "http://appdevcon.nl",
       "country": "Netherlands",
       "city": "Amsterdam",
-      "callforpaper": true,
+      "callforpaper": false,
       "emojiflag": "🇳🇱",
       "isnew": false
     },
