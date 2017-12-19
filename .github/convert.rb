@@ -69,7 +69,7 @@ def output_conferences(conferences, year, future)
   o = "| When | Name | City | Country | CfP |\n"
   o << "| --- | --- | --- | --- | --- |\n"
 
-  currmonth = 0
+  currentmonth = 0
 
   conferences
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}

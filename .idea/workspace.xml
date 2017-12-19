@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="474a0a67-9000-4b4d-8540-b9af9b7ed098" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/convert.rb" afterPath="$PROJECT_DIR$/.github/convert.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="474a0a67-9000-4b4d-8540-b9af9b7ed098" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +44,8 @@
       <file leaf-file-name="convert.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/convert.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="102" column="42" lean-forward="false" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
+            <state relative-caret-position="21">
+              <caret line="71" column="14" lean-forward="false" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -221,12 +218,12 @@
       <workItem from="1513688299200" duration="202000" />
       <workItem from="1513703767660" duration="33000" />
       <workItem from="1513703819111" duration="1844000" />
-      <workItem from="1513712407627" duration="1030000" />
+      <workItem from="1513712407627" duration="1058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15484000" />
+    <option name="totallyTimeSpent" value="15512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -534,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.github/convert.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="102" column="42" lean-forward="false" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
+        <state relative-caret-position="21">
+          <caret line="71" column="14" lean-forward="false" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
           <folding />
         </state>
       </provider>
