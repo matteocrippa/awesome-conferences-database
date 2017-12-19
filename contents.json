@@ -811,6 +811,18 @@
       "callforpaper": false,
       "twitter": "@CocoaHeadsUA",
       "emojiflag": "🇺🇦"
+    },
+    {
+      "title": "MCE",
+      "year": 2018,
+      "startdate": "2018/06/05",
+      "enddate": "2018/06/06",
+      "where": "Pałac Kultury i Nauki, plac Defilad 1, 00-901 Warszawa, Poland",
+      "homepage": "https://2018.mceconf.com",
+      "country": "Poland",
+      "city": "Warsaw",
+      "callforpaper": true,
+      "twitter": "@mceconf"
     }
   ]
 }
