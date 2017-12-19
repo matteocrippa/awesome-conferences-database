@@ -1,12 +1,14 @@
 ## 🕰 Past Conferences
 ### 2017
+
+## September
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-
-| **September** | --- | --- | --- | --- |
 | 25 - 26| [.droidconNYC 2017](http://droidcon.nyc)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Convene+%2846th+btwn+6th+%26+7th%29%2C+NYC)| New York | --- |
 
-| **October** | --- | --- | --- | --- |
+## October
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
 | 01 - 03| [Goto Cophenhagen](https://gotocph.com)|🇩🇰 [Denmark](https://www.google.com/maps/search/?api=1&query=Bella+Center%2C+2300+K%C3%B8benhavn+S%2C+Denmark)| Cophenhagen | --- |
 | 05 - 06| [Mobile Era 2017](https://mobileera.rocks)|🇳🇴 [Norway](https://www.google.com/maps/search/?api=1&query=Bryggetorget+3%2C+0125%2C+Oslo)| Oslo | --- |
 | 05 - 06| [Mobiconf 2017](https://2017.mobiconf.org)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Dobrego+Pasterza+128%2C+30-962+Krak%C3%B3w%2C+Poland)| Kraków | --- |
@@ -20,7 +22,9 @@
 | 27| [MBLTdev 2017](https://mbltdev.ru/en)|🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=Bersenevskaya+Haberezhnaya%2C+6%2C+Moskva%2C+Russia%2C+119072)| Moscow | --- |
 | 30 - 31| [Swift Summit](https://swiftsummit.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Palace+of+Fine+Arts+Theatre%2C+3301+Lyon+Street+San+Francisco%2C+CA+94123)| San Francisco | --- |
 
-| **November** | --- | --- | --- | --- |
+## November
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
 | 02 - 03| [KotlinConf](https://kotlinconf.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Pier+27%2C+The+Embarcadero%2C+San+Francisco%2C+CA+94111)| San Francisco | --- |
 | 05 - 06| [.droidconSF](https://sf.droidcon.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Mission+Bay+Conference+Center%2C+San+Francisco)| San Francisco | --- |
 | 06 - 10| [Devoxx 2017](https://devoxx.be)|🇧🇪 [Belgium](https://www.google.com/maps/search/?api=1&query=Kinepolis+Antwerp%2C+Groenendaallaan+394%2C+2030+Antwerp%2C+Belgium)| Antwerp | --- |
@@ -36,7 +40,9 @@
 | 29 - 30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| San Francisco | --- |
 | 29 - 30| [SwiftFest](http://www.swiftfest.io)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| Boston | 📢 |
 
-| **December** | --- | --- | --- | --- |
+## December
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
 | 01 - 02| [droidcon](http://droidcon.pl/#/)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| Kraków | 📢 |
 | 4 - 5| [Branchout](https://branchoutsf.com/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| San Francisco | --- |
 | 05| [CodeEurope 2017 - Kraków](https://www.codeeurope.pl/en)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Marii+Konopnickiej+17%2C+30-302+Krak%C3%B3w%2C+Poland)| Cracow | --- |
@@ -48,7 +54,5 @@
 
 
 ### 2018
-| When | Name | Country | City | CfP |
-| --- | --- | --- | --- | --- |
 [back to top](#readme) 
 
