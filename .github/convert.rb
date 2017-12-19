@@ -1,5 +1,5 @@
 require('cgi')
-require('countries')
+#require('countries')
 
 README = 'README.md'
 PAST = 'PAST.md'
@@ -50,10 +50,10 @@ def output_single_conf(p)
   o << "| [#{p['title']}](#{p['homepage']})"
   o << "| #{p['city']} "
   o << "|"
-  c = ISO3166::Country.find_country_by_name(p['country'])
-  if !c.nil?
-    o << "#{c.emoji_flag} "
-  end
+  #c = ISO3166::Country.find_country_by_name(p['country'])
+  #if !c.nil?
+  #  o << "#{c.emoji_flag} "
+  #end
   o << "[#{p['country']}](#{where})"
   o << "|"
   if p['callforpaper'] == true
@@ -71,26 +71,25 @@ def output_conferences(conferences, year, future)
 
   currentmonth = 0
 
-  conferences
+  conferences.select { |p| p['year'] == year }
     .sort_by {|k,v| Date.strptime(k['startdate'], '%Y/%m/%d')}
     .each do |p|
 
       # parse current date
       date = Date.parse p['startdate']
 
-      # manage the month header
-      if currentmonth != date.month
-        currentmonth = date.month
-        o << month_row(date.strftime("%B"))
-      end
-
       # check if we need to render only future or previous events
       if future == true
         if date > Date.today
+          # manage the month header
+          tmp, currentmonth = month_row(currentmonth, date)
+          o << tmp
           o << output_single_conf(p)
         end
       else
         if date < Date.today
+          tmp, currentmonth = month_row(currentmonth, date)
+          o << tmp
           o << output_single_conf(p)
         end
       end
@@ -98,9 +97,15 @@ def output_conferences(conferences, year, future)
   o
 end
 
-def month_row(name)
-  o = "| #{name} | --- | --- | --- | --- |\n"
-  o << "| --- | --- | --- | --- | --- |\n"
+def month_row(currentmonth, date)
+  o = ""
+  # manage the month header
+  if currentmonth != date.month
+    currentmonth = date.month
+    o = "| #{date.strftime("%B")} | --- | --- | --- | --- |\n"
+    o << "| --- | --- | --- | --- | --- |\n"
+  end
+  return o, currentmonth
 end
 
 def output_content(j, future)
