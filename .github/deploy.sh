@@ -24,9 +24,6 @@ git add last.json
 echo add content
 git add contents.json
 
-echo add new
-git add new.json
-
 echo commit
 git commit -m "[auto] [ci skip] Generate README, JSON and Last"
 
