@@ -85,6 +85,11 @@
 						"title": "Conference twitter account",
 						"description": "Contains the twitter account of the conference.",
 						"type": "string"
+					},
+					"isnew": {
+						"title": "Conference is New",
+						"description": "Contains true if has been added recently",
+						"type": "boolean"
 					}
 
 				},
