@@ -822,7 +822,8 @@
       "country": "Poland",
       "city": "Warsaw",
       "callforpaper": true,
-      "twitter": "@mceconf"
+      "twitter": "@mceconf",
+      "emojiflag": "🇵🇱"
     }
   ]
 }

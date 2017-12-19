@@ -35,6 +35,7 @@
 | 12/07| [CodeEurope 2017 - Warsaw](https://www.codeeurope.pl/en)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=aleja+Poniatowskiego+1%2C+03-901+Warszawa%2C+Poland)| --- |
 | 12/09| [GDG DevFest Poland](https://devfest.pl)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=al.+Poniatowskiego+1%2C+03-901+Warsaw%2C+Poland)| --- |
 | 12/13| [CodeEurope 2017 - Wroclaw](https://www.codeeurope.pl/en)| Wroclaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=50-001+Wroc%C5%82aw%2C+Poland)| --- |
+| 12/16| [CocoaHeads Kyiv](https://cocoaheadsukraine.ticketforevent.com)| Kyiv |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%B2%D1%83%D0%BB.+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C+%D0%B1%D1%83%D0%B4.33%2C+Kyiv%2C+Kyiv+city%2C+Ukraine%2C+01601)| --- |
 [back to top](#readme) 
 
 

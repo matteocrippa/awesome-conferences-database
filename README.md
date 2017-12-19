@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-66-orange.svg) ![](https://img.shields.io/badge/last_update-December_15,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-67-orange.svg) ![](https://img.shields.io/badge/last_update-December_19,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **66** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **67** upcoming 📲  mobile conferences around the world 🌎.
 
 ## 📱 Mobile Apps
 
@@ -29,7 +29,6 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ### 2017
 | When | Name | City | Country | CfP |
 | --- | --- | --- | --- | --- |
-| 12/16| [CocoaHeads Kyiv](https://cocoaheadsukraine.ticketforevent.com)| Kyiv |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%B2%D1%83%D0%BB.+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C+%D0%B1%D1%83%D0%B4.33%2C+Kyiv%2C+Kyiv+city%2C+Ukraine%2C+01601)| --- |
 | 12/28| [Droidcon Tel Aviv 2017](http://il.droidcon.com/2017/)| Tel Aviv |🇮🇱 [Israel](https://www.google.com/maps/search/?api=1&query=Sprinzak+2%2C+Tel+Aviv)| --- |
 [back to top](#readme) 
 
@@ -61,6 +60,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 05/13 - 05/16| [UIKonf 2018](http://www.uikonf.com)| Berlin |🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=Holzmarktstra%C3%9Fe+33%2C+10243+Berlin%2C+Germany)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 05/18 - 05/20| [Mobile Beach Conference](http://mobilebeach.rocks)| Odessa |🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%BB%D1%8F%D0%B6+%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D1%8F%2C+Odesa%2C+Odessa+Oblast%2C+Ukraine%2C+65000)| (( 📢 |
+| 06/05 - 06/06| [MCE](https://2018.mceconf.com)| Warsaw |🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Kultury+i+Nauki%2C+plac+Defilad+1%2C+00-901+Warszawa%2C+Poland)| (( 📢 |
 | 06/15| [mDevCamp 2018](https://mdevcamp.eu/)| Prague |🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 06/18 - 06/20| [Developer Week NYC](http://www.developerweek.com/NYC/)| New York |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=72+Noble+St%2C+Brooklyn%2C+NY+11222%2C+USA)| (( 📢 |
