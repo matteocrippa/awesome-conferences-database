@@ -31,7 +31,6 @@ var lastConference = "";
 
 // new conferences
 var newConferences = [];
-var twitterConferences = [];
 
 // loop
 var startCounting = false;
@@ -47,8 +46,7 @@ json.conferences.forEach(function(item) {
     //console.log(item);
     if(startCounting === true) {
         lastConference = item.homepage;
-        newConferences.push(item.title);
-        twitterConferences.push({
+        newConferences.push({
             title: item.title,
             twitter: item.twitter === undefined ? '' : item.twitter,
             start: item.startdate,
@@ -69,15 +67,18 @@ if(newConferences.length > 0) {
     var message = '';
 
     if(newConferences.length === 1) {
-        message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0] +'), check it out!';
+        message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0].title +'), check it out!';
     } else {
-        message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ newConferences.join(", ") +'), check them out!';
+        const confNames = newConferences.reduce(function(last, conference) {
+            return last+", "+conference.title;
+        });
+        message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ confNames +'), check them out!';
     }
+
     // send push
     client.sendNotification(message, {
         included_segments: "Active Users"
     });
-
 
 
     twitterConferences.forEach(function(conf) {
@@ -94,10 +95,14 @@ if(newConferences.length > 0) {
     });
 
     console.log('OneSignal Message sent: ' + message);
+
     // add last
     lastContent.last = lastConference;
     // write file
-    jsonfile.writeFileSync(lastFile, lastContent);
+    jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
+
+    // write new conferences
+    jsonfile.writeFileSync(newFile, newConferences, {spaces: 2, EOL: '\r\n'});
 }
 
 // save json
