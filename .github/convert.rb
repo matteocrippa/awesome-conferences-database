@@ -103,7 +103,7 @@ def month_row(currentmonth, date)
   if currentmonth != date.month
     currentmonth = date.month
     o = "\n"
-    o << "| **#{date.strftime("%B")}** |  |  |  |  |\n"
+    o << "| **#{date.strftime("%B")}** | --- | --- | --- | --- |\n"
   end
   return o, currentmonth
 end
