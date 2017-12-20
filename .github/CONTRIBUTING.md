@@ -31,7 +31,8 @@ When adding new conferences, please adhere to the following guidelines:
 	"country": "Romania",
 	"city": "Cluj",
 	"callforpaper": false,
-	"twitter": "@twitter"
+	"twitter": "@twitter",
+    "topics": [ "android", "ios", "ui", "ux" ]
 }
 ```
 
