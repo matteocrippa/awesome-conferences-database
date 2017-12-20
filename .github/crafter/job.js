@@ -69,8 +69,9 @@ if(newConferences.length > 0) {
     if(newConferences.length === 1) {
         message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0].title +'), check it out!';
     } else {
-        const confNames = newConferences.reduce(function(last, conference) {
-            return last+", "+conference.title;
+        var confNames = "";
+        newConferences.forEach(function(conf){
+            confNames = confNames + ", "+ conf.title;
         });
         message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ confNames +'), check them out!';
     }
@@ -83,9 +84,9 @@ if(newConferences.length > 0) {
 
     newConferences.forEach(function(conf) {
         // prepare message
-        const twitterMessage =  conf.flag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.start +' and '+ conf.end +' in '+ conf.city +' 🎫 #awesomemobileconference';
+        const twitterMessage =  conf.emojiflag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.startdate +' and '+ conf.enddate +' in '+ conf.city +' 🎫 #awesomemobileconference';
         // send twitter
-        clientTwitter.post('statuses/update', {status: twitterMessage }, function(error, tweet, response) {
+        clientTwitter.post('statuses/update', { status: twitterMessage }, function(error, tweet, response) {
             if (!error) {
                 console.log(tweet);
             } else {
