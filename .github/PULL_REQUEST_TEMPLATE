@@ -9,7 +9,8 @@
 - **Why it should be added to `awesome-mobile-conferences`**:
 - [ ] Conference has a website
 - [ ] Conference has start/end date (if one day only conference write the same date)
-- [ ] It is an upcoming conference, past conference are automatically managed by the script
+- [ ] It is an upcoming conference (no past conferences)
 - [ ] Check address using [Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geocoder/) to get clean address
-- [ ] Updated **contents.json** instead of README
+- [ ] Updated **submission.json** instead of README or content.json
 - [ ] Put always your entry at the bottom of the array
+

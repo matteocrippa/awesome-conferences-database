@@ -17,13 +17,14 @@ const client = new OneSignal(process.env.ONESIGNAL_APPID, process.env.ONESIGNAL_
 
 // file name
 const lastFile = 'last.json';
+const submissionFile = 'submission.json';
 const jsonFile = 'contents.json';
 
 // get file content
 const lastContent = jsonfile.readFileSync(lastFile);
 
 // read json file
-const json = jsonfile.readFileSync(jsonFile);
+const json = jsonfile.readFileSync(submissionFile);
 
 // last repo found
 var lastConference = "";

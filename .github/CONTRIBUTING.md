@@ -14,12 +14,11 @@ To be added to the list, conferences should meet the following criteria:
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 
-When adding new items, please adhere to the following guidelines:
+When adding new conferences, please adhere to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
+- Make an individual pull request for each conference suggested.
 - Use the existing format in the JSON file
-- Put new conferences always at the bottom
 
 ```js
 {
@@ -35,6 +34,7 @@ When adding new items, please adhere to the following guidelines:
 }
 ```
 
+- Put new conferences always at the bottom
 - New years, or improvements to the existing conferences are welcome (open an issue).
 
 Thank you for your suggestions!
