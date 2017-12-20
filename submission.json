@@ -886,6 +886,20 @@
       "callforpaper": true,
       "twitter": "@chicagoroboto",
       "topics": [ "android" ]
+    },
+    {
+      "title": "Droidcon Tunisia",
+      "year": 2018,
+      "startdate": "2018/03/10",
+      "enddate": "2018/03/11",
+      "where": "Hammamet, Tunisia",
+      "homepage": "https://www.facebook.com/events/152593448588363/",
+      "country": "Tunisia",
+      "city": "Hammamet",
+      "callforpaper": true,
+      "twitter": "@chicagoroboto",
+      "topics": [ "android" ]
     }
+
   ]
 }
