@@ -38,12 +38,12 @@
 | 23 - 24| [Swift Alps 2017](https://theswiftalps.com)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Crans-Montana%2C+Switzerland)| Crans-Montana | --- |
 | 25| [UA Mobile](http://www.uamobile.org)|🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=Kyiv%2C+Stolichne+shose+103%2C+Ramada+Encore+Kiev+hotel)| Kiev | --- |
 | 29 - 30| [Open Mobile Summit 2017](http://www.openmobilemedia.com/san-francisco/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=GRAND+HYATT+SAN+FRANCISCO%2C+SAN+FRANCISCO%2C+USA)| San Francisco | --- |
-| 29 - 30| [SwiftFest](http://www.swiftfest.io)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| Boston | 📢 |
+| 29 - 30| [SwiftFest](http://www.swiftfest.io)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=527+Tremont+St%2C+Boston%2C+MA+02116%2C+USA)| Boston | 🎤 |
 
 ## December
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-| 01 - 02| [droidcon](http://droidcon.pl/#/)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| Kraków | 📢 |
+| 01 - 02| [droidcon](http://droidcon.pl/#/)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=WPiA+Jagiellonian+University%2C+ul.+Krupnicza+33a%2C+Krak%C3%B3w)| Kraków | 🎤 |
 | 4 - 5| [Branchout](https://branchoutsf.com/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=950+Mason+Street%2C+San+Francisco%2C+California%2C+United+States)| San Francisco | --- |
 | 05| [CodeEurope 2017 - Kraków](https://www.codeeurope.pl/en)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Marii+Konopnickiej+17%2C+30-302+Krak%C3%B3w%2C+Poland)| Cracow | --- |
 | 07| [CodeEurope 2017 - Warsaw](https://www.codeeurope.pl/en)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=aleja+Poniatowskiego+1%2C+03-901+Warszawa%2C+Poland)| Warsaw | --- |
