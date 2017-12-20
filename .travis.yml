@@ -11,6 +11,6 @@ script:
   - awesome_bot contents.json -w skillsmatter,cfict,swiftbynorthwest,it.droidcon,gotoams.nl,addconf,codeeurope.pl,droidconvn.com,developerweek.com
   - json validate --schema-file=.github/schema.json --document-file=contents.json
 after_success:
-  - ruby .github/convert.rb
   - node .github/crafter/job
+  - ruby .github/convert.rb
   - ./.github/deploy.sh
