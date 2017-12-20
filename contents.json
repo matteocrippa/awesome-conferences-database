@@ -832,7 +832,6 @@
       "country": "United States",
       "city": "San Francisco",
       "callforpaper": true,
-      "twitter": "@developerweek",
       "emojiflag": "🇺🇸",
       "isnew": false
     },
@@ -846,7 +845,6 @@
       "country": "United States",
       "city": "New York",
       "callforpaper": true,
-      "twitter": "@developerweek",
       "emojiflag": "🇺🇸",
       "isnew": false
     },
@@ -875,6 +873,9 @@
       "city": "Kyiv",
       "callforpaper": false,
       "twitter": "@CocoaHeadsUA",
+      "topics": [
+        "ios"
+      ],
       "emojiflag": "🇺🇦",
       "isnew": false
     },
@@ -889,6 +890,12 @@
       "city": "Warsaw",
       "callforpaper": true,
       "twitter": "@mceconf",
+      "topics": [
+        "android",
+        "ios",
+        "ui",
+        "ux"
+      ],
       "emojiflag": "🇵🇱",
       "isnew": false
     },
@@ -903,6 +910,9 @@
       "city": "Rīga",
       "callforpaper": true,
       "twitter": "@rigadevdays",
+      "topics": [
+        "android"
+      ],
       "emojiflag": "🇱🇻",
       "isnew": false
     }
