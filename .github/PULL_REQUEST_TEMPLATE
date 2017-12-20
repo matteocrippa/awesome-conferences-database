@@ -1,6 +1,24 @@
 <!-- Thanks for contributing to awesome-mobile-conferences 😊 -->
 
-<!-- Reminder: Please update contents.json instead of the README -->
+
+<!-- Use this a template for adding a new conference -->
+
+```js
+{
+	"title": "MobOs 2018",
+	"year": 2018,
+	"startdate": "2018/02/15",
+	"enddate": "2018/02/16",
+	"where": "Cluj Napoca",
+	"homepage": "http://romobos.com",
+	"country": "Romania",
+	"city": "Cluj",
+	"callforpaper": false,
+	"twitter": "@twitter"
+}
+```
+
+<!-- Reminder: Please update submission.json instead of the README -->
 
 <!-- Please fill out the short form below -->
 
