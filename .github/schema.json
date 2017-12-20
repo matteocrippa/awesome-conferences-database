@@ -81,19 +81,9 @@
 						"description": "Contains the twitter account of the conference.",
 						"type": "string"
 					},
-					"isnew": {
-						"title": "Conference is New",
-						"description": "Contains true if has been added recently",
-						"type": "boolean"
-					},
-					"emojiflag": {
-						"title": "Conference Country Emojiflag",
-						"description": "Contains the country emoji flag of the conference.",
-						"type": "string"
-					},
 					"topics": {
 						"title": "Conference Topics",
-						"description": "Contains the topic of the conference, you can pick within ios, android, ux.",
+						"description": "Contains the topic of the conference, you can pick within ios, android, ui, ux.",
 						"type": "array"
 					}
 
