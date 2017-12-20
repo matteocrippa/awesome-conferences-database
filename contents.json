@@ -931,7 +931,7 @@
         "android"
       ],
       "emojiflag": "🇺🇸",
-      "isnew": true
+      "isnew": false
     },
     {
       "title": "Chicago Roboto",
@@ -948,7 +948,7 @@
         "android"
       ],
       "emojiflag": "🇺🇸",
-      "isnew": true
+      "isnew": false
     },
     {
       "title": "Droidcon Tunisia",
@@ -965,7 +965,7 @@
         "android"
       ],
       "emojiflag": "🇹🇳",
-      "isnew": true
+      "isnew": false
     }
   ]
 }
