@@ -69,9 +69,9 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 02 - 05| [Codemobile](http://www.codemobile.co.uk/)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=University+of+Chester%2C+Parkgate+Road%2C+Chester%2C+UK)| Chester | --- |
-| 05 - 06| [droidcon Italy 2018](http://it.droidcon.com/2018/)|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| Torino | --- |
 | 07| [Droidcon Vietnam](http://droidconvn.com)|🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| Ho Chi Minh City | 📢 |
 | 16 - 17| [App Builders 2018](https://appbuilders.ch)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| Lugano | 📢 |
+| 19 - 20| [droidcon Italy 2018](http://it.droidcon.com/2018/)|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| Torino | --- |
 
 ## May
 | When | Name | Country | City | CfP |
