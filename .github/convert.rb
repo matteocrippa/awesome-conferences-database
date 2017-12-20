@@ -57,7 +57,7 @@ def output_single_conf(p)
   o << "| #{p['city']} "
   o << "|"
   if p['callforpaper'] == true
-    o << " 📢 "
+    o << " 🎤 "
   else
     o << " --- "
   end
@@ -166,7 +166,7 @@ def write_readme(j, jj, filename, filenamePast)
   output << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
   output << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   output << "\n\n"
-  output << "- 📢  > Call for Paper is open"
+  output << "- 🎤  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
 
