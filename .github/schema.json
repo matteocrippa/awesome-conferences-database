@@ -87,7 +87,7 @@
 						"type": "array",
                         "items": {
                           "type": "string",
-                          "enum": ["ios", "android", "ui", "ux"]
+                          "enum": ["ios", "android", "ui", "ux", "security"]
                         }
 					}
 
