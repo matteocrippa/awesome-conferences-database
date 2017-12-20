@@ -873,6 +873,19 @@
       "callforpaper": true,
       "twitter": "@ChicagoGDG",
       "topics": [ "android" ]
+    },
+    {
+      "title": "Chicago Roboto",
+      "year": 2018,
+      "startdate": "2018/04/12",
+      "enddate": "2018/04/13",
+      "where": "2, 247 E Ontario St, Chicago, IL 60611, USA",
+      "homepage": "http://chicagoroboto.com",
+      "country": "United States",
+      "city": "Chicago",
+      "callforpaper": true,
+      "twitter": "@chicagoroboto",
+      "topics": [ "android" ]
     }
   ]
 }
