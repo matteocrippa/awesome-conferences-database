@@ -84,7 +84,11 @@
 					"topics": {
 						"title": "Conference Topics",
 						"description": "Contains the topic of the conference, you can pick within ios, android, ui, ux.",
-						"type": "array"
+						"type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": ["ios", "android", "ui", "ux"]
+                        }
 					}
 
 				},
