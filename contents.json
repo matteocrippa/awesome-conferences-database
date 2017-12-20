@@ -915,6 +915,57 @@
       ],
       "emojiflag": "🇱🇻",
       "isnew": false
+    },
+    {
+      "title": "Windy City Devfest 2018",
+      "year": 2018,
+      "startdate": "2018/01/12",
+      "enddate": "2018/01/12",
+      "where": "1000 West Fulton Street & 320 North Morgan Street, Chicago, IL 60607, United States",
+      "homepage": "https://www.eventbrite.com/e/windy-city-devfest-2018-tickets-39243027953",
+      "country": "United States",
+      "city": "Chicago",
+      "callforpaper": true,
+      "twitter": "@ChicagoGDG",
+      "topics": [
+        "android"
+      ],
+      "emojiflag": "🇺🇸",
+      "isnew": true
+    },
+    {
+      "title": "Chicago Roboto",
+      "year": 2018,
+      "startdate": "2018/04/12",
+      "enddate": "2018/04/13",
+      "where": "2, 247 E Ontario St, Chicago, IL 60611, USA",
+      "homepage": "http://chicagoroboto.com",
+      "country": "United States",
+      "city": "Chicago",
+      "callforpaper": true,
+      "twitter": "@chicagoroboto",
+      "topics": [
+        "android"
+      ],
+      "emojiflag": "🇺🇸",
+      "isnew": true
+    },
+    {
+      "title": "Droidcon Tunisia",
+      "year": 2018,
+      "startdate": "2018/03/10",
+      "enddate": "2018/03/11",
+      "where": "Hammamet, Tunisia",
+      "homepage": "https://www.facebook.com/events/152593448588363/",
+      "country": "Tunisia",
+      "city": "Hammamet",
+      "callforpaper": true,
+      "twitter": "@chicagoroboto",
+      "topics": [
+        "android"
+      ],
+      "emojiflag": "🇹🇳",
+      "isnew": true
     }
   ]
 }
