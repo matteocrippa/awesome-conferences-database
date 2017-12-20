@@ -564,7 +564,7 @@
       "homepage": "https://addconf.com",
       "country": "Spain",
       "city": "Barcelona",
-      "callforpaper": true,
+      "callforpaper": false,
       "emojiflag": "🇪🇸",
       "isnew": false
     },
