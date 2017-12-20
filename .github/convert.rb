@@ -3,7 +3,7 @@ require('countries')
 
 README = 'README.md'
 PAST = 'PAST.md'
-CONTENTS = 'contents.json'
+CONTENTS = '.json'
 
 def get_json()
     require 'json'
@@ -137,11 +137,6 @@ def output_header(j)
   o << "## About\n"
   o << "👋 Welcome to **Awesome Mobile Conference** 👋 \n\n"
   o << "A ❤️ curated and 👬👫👭 collaborative list of **#{num_projects}** upcoming 📲  mobile conferences around the world 🌎.\n\n"
-  o << "## 📱 Mobile Apps\n\n"
-  o << "We developed also two mobile apps to stay always updated, thanks to 💌 push notifications, feel free to download them from 🍏 iOS and 🤖 Play store, link below:\n\n"
-  o << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
-  o << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
-  o << "\n\n"
   o
 end
 
@@ -166,6 +161,11 @@ def write_readme(j, jj, filename, filenamePast)
   output << "\n\n## 🕰 Past Conferences"
   output << "\n\n[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)"
   output << "\n\n\n## 🔰 Legenda\n\n"
+  output << "## 📱 Mobile Apps\n\n"
+  output << "We developed also two mobile apps to stay always updated, thanks to 💌 push notifications, feel free to download them from 🍏 iOS and 🤖 Play store, link below:\n\n"
+  output << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
+  output << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
+  output << "\n\n"
   output << "- 📢  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
