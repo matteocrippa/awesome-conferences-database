@@ -3,7 +3,7 @@ require('countries')
 
 README = 'README.md'
 PAST = 'PAST.md'
-CONTENTS = '.json'
+CONTENTS = 'contents.json'
 
 def get_json()
     require 'json'
