@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-68-orange.svg) ![](https://img.shields.io/badge/last_update-December_19,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-68-orange.svg) ![](https://img.shields.io/badge/last_update-December_20,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -93,7 +93,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 ## July
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-| 04 - 06| [ADDC - App Design & Development Conference](https://addconf.com)|🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| Barcelona | 📢 |
+| 04 - 06| [ADDC - App Design & Development Conference](https://addconf.com)|🇪🇸 [Spain](https://www.google.com/maps/search/?api=1&query=Avinguda+Diagonal%2C+547%2C+08029+Barcelona%2C+Spain)| Barcelona | --- |
 
 ## August
 | When | Name | Country | City | CfP |
