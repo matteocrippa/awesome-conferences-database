@@ -30,7 +30,8 @@ When adding new conferences, please adhere to the following guidelines:
 	"homepage": "http://romobos.com",
 	"country": "Romania",
 	"city": "Cluj",
-	"callforpaper": false
+	"callforpaper": false,
+	"twitter": "@twitter"
 }
 ```
 
