@@ -27,6 +27,7 @@
 	"country": "Romania",
 	"city": "Cluj",
 	"callforpaper": false,
-	"twitter": "@twitter"
+	"twitter": "@twitter",
+    "topics": [ "android", "ios", "ui", "ux" ]
 }
 ```
