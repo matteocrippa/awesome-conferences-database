@@ -965,23 +965,6 @@
       ],
       "emojiflag": "🇹🇳",
       "isnew": false
-      },
-      {
-        "title": "Android Makers FR",
-        "year": 2018,
-        "startdate": "2018/04/23",
-        "enddate": "2018/04/24",
-        "where": "Le Beffroi 2 Place Emile Cresp, Montrouge",
-        "homepage": "http://androidmakers.fr/",
-        "country": "France",
-        "city": "Paris",
-        "callforpaper": true,
-        "twitter": "@AndroidMakersFR",
-        "topics": [
-          "android"
-        ],
-        "emojiflag": "🇫🇷"
-        "isnew": false
       }
   ]
 }
