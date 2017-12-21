@@ -28,6 +28,7 @@ const json = jsonfile.readFileSync(submissionFile);
 
 // last repo found
 var lastConference = "";
+var lastConferenceDate = "";
 
 // new conferences
 var newConferences = [];
@@ -45,7 +46,10 @@ json.conferences.forEach(function(item) {
 
     //console.log(item);
     if(startCounting === true) {
+
         lastConference = item.homepage;
+        lastConferenceDate = item.startDate;
+
         newConferences.push(item);
         // set this conference as new
         item.isnew = true;
@@ -55,7 +59,7 @@ json.conferences.forEach(function(item) {
         item.isnew = false;
     }
 
-    if(item.homepage === lastContent.last) {
+    if(item.homepage === lastContent.last && item.startDate === lastContent.date) {
         startCounting = true;
     }
 });
@@ -99,6 +103,8 @@ if(newConferences.length > 0) {
 
     // add last
     lastContent.last = lastConference;
+    lastContent.date = lastConferenceDate;
+
     // write file
     jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
 }
