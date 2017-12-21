@@ -982,6 +982,24 @@
         "android"
       ],
       "emojiflag": "🇫🇷",
+      "isnew": false
+    },
+    {
+      "title": "Mobius",
+      "year": 2018,
+      "startdate": "2018/04/20",
+      "enddate": "2018/04/21",
+      "where": "St Petersburg, Russia",
+      "homepage": "https://mobiusconf.com/en/",
+      "country": "Russia",
+      "city": "St Petersburg ",
+      "callforpaper": true,
+      "twitter": "@MobiusConf",
+      "topics": [
+        "android",
+        "ios"
+      ],
+      "emojiflag": "🇷🇺",
       "isnew": true
     }
   ]

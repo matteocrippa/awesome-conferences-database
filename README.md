@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-72-orange.svg) ![](https://img.shields.io/badge/last_update-December_21,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-73-orange.svg) ![](https://img.shields.io/badge/last_update-December_21,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **72** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **73** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -69,6 +69,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **72** upcoming 📲  mo
 | 12 - 13| [Chicago Roboto](http://chicagoroboto.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=2%2C+247+E+Ontario+St%2C+Chicago%2C+IL+60611%2C+USA)| Chicago | 🎤 |
 | 16 - 17| [App Builders 2018](https://appbuilders.ch)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| Lugano | 🎤 |
 | 19 - 20| [droidcon Italy 2018](http://it.droidcon.com/2018/)|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| Torino | --- |
+| 20 - 21| [Mobius](https://mobiusconf.com/en/)|🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=St+Petersburg%2C+Russia)| St Petersburg  | 🎤 |
 | 23 - 24| [Android Makers FR](http://androidmakers.fr/)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Le+Beffroi+2+Place+Emile+Cresp%2C+Montrouge)| Paris | 🎤 |
 
 ## May
