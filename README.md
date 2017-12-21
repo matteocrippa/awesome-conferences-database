@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-71-orange.svg) ![](https://img.shields.io/badge/last_update-December_20,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-71-orange.svg) ![](https://img.shields.io/badge/last_update-December_21,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -111,13 +111,13 @@ A ❤️ curated and 👬👫👭 collaborative list of **71** upcoming 📲  mo
 [Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)
 
 
-## 🔰 Legenda
-
 ## 📱 Mobile Apps
 
 We developed also two mobile apps to stay always updated, thanks to 💌 push notifications, feel free to download them from 🍏 iOS and 🤖 Play store, link below:
 
 [![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](https://play.google.com/store/apps/details?id=conference.mobile.awesome.boostco.de.amc)[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](https://itunes.apple.com/us/app/awesome-mobile-conferences/id1289255473?ls=1&mt=8)
+
+## 🔰 Legenda
 
 - 🎤  > Call for Paper is open
 
