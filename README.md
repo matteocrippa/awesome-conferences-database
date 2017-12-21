@@ -34,7 +34,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **71** upcoming 📲  mo
 ## January
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-| 12| [Windy City Devfest 2018](https://www.eventbrite.com/e/windy-city-devfest-2018-tickets-39243027953)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+West+Fulton+Street+%26+320+North+Morgan+Street%2C+Chicago%2C+IL+60607%2C+United+States)| Chicago | 🎤 |
+| 12| [Windy City Devfest 2018](https://www.eventbrite.com/e/windy-city-devfest-2018-tickets-39243027953)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+West+Fulton+Street+320+North+Morgan+Street%2C+Chicago%2C+IL+60607%2C+United+States)| Chicago | 🎤 |
 | 23 - 24| [DartConf LA](https://events.dartlang.org/2018/dartconf/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=340+Main+St%2C+Venice%2C+CA+90291%2C+USA)| Los Angeles | --- |
 | 29| [dotSwift](https://www.dotswift.io/)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| Paris | 🎤 |
 
