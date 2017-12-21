@@ -910,13 +910,10 @@
       "country": "France",
       "city": "Paris",
       "callforpaper": true,
-      "emojiflag": "🇫🇷"
       "twitter": "@AndroidMakersFR",
       "topics": [
         "android"
-        ],
-      "emojiflag": "🇫🇷"
-      "isnew": false
+        ]
     }
   ]
 }
