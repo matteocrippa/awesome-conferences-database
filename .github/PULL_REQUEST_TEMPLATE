@@ -1,6 +1,6 @@
 <!-- Thanks for contributing to awesome-mobile-conferences 😊 -->
 
-<!-- Reminder: Please update submission.json instead of the README -->
+<!-- Reminder: Please update submission.json instead of the README or content.json -->
 
 <!-- Please fill out the short form below -->
 
@@ -11,23 +11,5 @@
 - [ ] Conference has start/end date (if one day only conference write the same date)
 - [ ] It is an upcoming conference (no past conferences)
 - [ ] Check address using [Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geocoder/) to get clean address
-- [ ] Updated **submission.json** instead of README or content.json
+- [ ] Add your entry only to **submission.json** ( no README or content.json )
 - [ ] Put always your entry at the bottom of the array
-
-<!-- Use this a template for adding a new conference -->
-
-```js
-{
-	"title": "MobOs 2018",
-	"year": 2018,
-	"startdate": "2018/02/15",
-	"enddate": "2018/02/16",
-	"where": "Cluj Napoca",
-	"homepage": "http://romobos.com",
-	"country": "Romania",
-	"city": "Cluj",
-	"callforpaper": false,
-	"twitter": "@twitter",
-    "topics": [ "android", "ios", "ui", "ux" ]
-}
-```
