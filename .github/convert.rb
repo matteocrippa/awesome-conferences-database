@@ -160,12 +160,12 @@ def write_readme(j, jj, filename, filenamePast)
   output << output_content(j, true)
   output << "\n\n## 🕰 Past Conferences"
   output << "\n\n[Browse old conferences](https://github.com/amobconf/awesome-mobile-conferences/blob/master/PAST.md)"
-  output << "\n\n\n## 🔰 Legenda\n\n"
-  output << "## 📱 Mobile Apps\n\n"
+  output << "\n\n\n## 📱 Mobile Apps\n\n"
   output << "We developed also two mobile apps to stay always updated, thanks to 💌 push notifications, feel free to download them from 🍏 iOS and 🤖 Play store, link below:\n\n"
   output << "[![Download on the Play Store](https://raw.githubusercontent.com/matteocrippa/awesome-mobile-conferences-android/master/.github/google-play-badge.png)](#{j['android_app_link']})"
   output << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   output << "\n\n"
+  output << "## 🔰 Legenda\n\n"
   output << "- 🎤  > Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
