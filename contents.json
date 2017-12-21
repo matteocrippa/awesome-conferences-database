@@ -960,12 +960,11 @@
       "country": "Tunisia",
       "city": "Hammamet",
       "callforpaper": true,
-      "twitter": "@chicagoroboto",
       "topics": [
         "android"
       ],
       "emojiflag": "🇹🇳",
       "isnew": false
-    }
+      }
   ]
 }
