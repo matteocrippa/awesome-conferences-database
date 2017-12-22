@@ -120,7 +120,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 
 ## 🔰 Legenda
 
-- 🎤  > Call for Paper is open
+- 🎤 Call for Paper is open
 
 ## ✍️ Contributing
 
