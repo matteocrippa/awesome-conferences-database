@@ -166,7 +166,7 @@ def write_readme(j, jj, filename, filenamePast)
   output << "[![Download on the App Store](https://github.com/amobconf/awesome-mobile-conferences/blob/master/.github/appstore.png?raw=true)](#{j['ios_app_link']})"
   output << "\n\n"
   output << "## 🔰 Legenda\n\n"
-  output << "- 🎤  > Call for Paper is open"
+  output << "- 🎤 Call for Paper is open"
   output << "\n\n## ✍️ Contributing\n\n\n"
   output << contributing
 
