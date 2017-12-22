@@ -4,6 +4,7 @@
 ## September
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
+| 22 - 23| [FrenchKit](http://frenchkit.fr)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| Paris | --- |
 | 25 - 26| [.droidconNYC 2017](http://droidcon.nyc)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Convene+%2846th+btwn+6th+%26+7th%29%2C+NYC)| New York | --- |
 
 ## October
