@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-73-orange.svg) ![](https://img.shields.io/badge/last_update-December_21,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-73-orange.svg) ![](https://img.shields.io/badge/last_update-December_22,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -103,7 +103,6 @@ A ❤️ curated and 👬👫👭 collaborative list of **73** upcoming 📲  mo
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 03 - 06| [iOSDevUK 8](https://www.iosdevuk.com)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth)| Aberystwyth | 🎤 |
-| 22 - 23| [FrenchKit](http://frenchkit.fr)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2-4+Impasse+Lamier%2C+75011+Paris%2C+France)| Paris | --- |
 [back to top](#readme) 
 
 
