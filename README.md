@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-73-orange.svg) ![](https://img.shields.io/badge/last_update-December_22,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-December_22,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **73** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -78,6 +78,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **73** upcoming 📲  mo
 | 01 - 02| [F8 2018](https://www.f8.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Jose%2C+CA)| San Jose | --- |
 | 13 - 16| [UIKonf 2018](http://www.uikonf.com)|🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=Holzmarktstra%C3%9Fe+33%2C+10243+Berlin%2C+Germany)| Berlin | --- |
 | 16 - 18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)|🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| Wien | --- |
+| 16| [DevTalks Cluj](http://www.devtalks.ro/cluj/)|🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=cluj)| Cluj | 🎤 |
 | 18 - 20| [Mobile Beach Conference](http://mobilebeach.rocks)|🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%BB%D1%8F%D0%B6+%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%96%D1%8F%2C+Odesa%2C+Odessa+Oblast%2C+Ukraine%2C+65000)| Odessa | 🎤 |
 | 29 - 31| [Riga Dev Days](https://rigadevdays.lv)|🇱🇻 [Latvia](https://www.google.com/maps/search/?api=1&query=13.+janv%C4%81ra+iela+8%2C+Latgales+priek%C5%A1pils%C4%93ta%2C+R%C4%ABga%2C+LV-1050%2C+Latvia)| Rīga | 🎤 |
 
@@ -85,6 +86,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **73** upcoming 📲  mo
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 05 - 06| [MCE](https://2018.mceconf.com)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Kultury+i+Nauki%2C+plac+Defilad+1%2C+00-901+Warszawa%2C+Poland)| Warsaw | 🎤 |
+| 08| [DevTalks Bucharest](http://www.devtalks.ro/bucharest/)|🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=Bucharest)| Bucharest | 🎤 |
 | 15| [mDevCamp 2018](https://mdevcamp.eu/)|🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| Prague | --- |
 | 18 - 20| [GOTO Amsterdam 2018](https://gotoams.nl)|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| Amsterdam | --- |
 | 18 - 20| [Developer Week NYC](http://www.developerweek.com/NYC/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=72+Noble+St%2C+Brooklyn%2C+NY+11222%2C+USA)| New York | 🎤 |

@@ -1001,6 +1001,42 @@
       ],
       "emojiflag": "🇷🇺",
       "isnew": false
+    },
+    {
+      "title": "DevTalks Cluj",
+      "year": 2018,
+      "startdate": "2018/05/16",
+      "enddate": "2018/05/16",
+      "where": "cluj",
+      "homepage": "http://www.devtalks.ro/cluj/",
+      "country": "Romania",
+      "city": "Cluj",
+      "callforpaper": true,
+      "twitter": "@devtalksro",
+      "topics": [
+        "android",
+        "ios"
+      ],
+      "emojiflag": "🇷🇴",
+      "isnew": false
+    },
+    {
+      "title": "DevTalks Bucharest",
+      "year": 2018,
+      "startdate": "2018/06/08",
+      "enddate": "2018/06/08",
+      "where": "Bucharest",
+      "homepage": "http://www.devtalks.ro/bucharest/",
+      "country": "Romania",
+      "city": "Bucharest",
+      "callforpaper": true,
+      "twitter": "@devtalksro",
+      "topics": [
+        "android",
+        "ios"
+      ],
+      "emojiflag": "🇷🇴",
+      "isnew": false
     }
   ]
 }
