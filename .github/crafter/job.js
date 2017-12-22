@@ -23,6 +23,8 @@ const jsonFile = 'contents.json';
 // get file content
 const lastContent = jsonfile.readFileSync(lastFile);
 
+console.log(lastContent);
+
 // read json file
 const json = jsonfile.readFileSync(submissionFile);
 
@@ -59,7 +61,7 @@ json.conferences.forEach(function(item) {
         item.isnew = false;
     }
 
-    if(item.homepage === lastContent.url && item.startDate === lastContent.date) {
+    if(item.homepage == lastContent.url && item.startDate == lastContent.date) {
         startCounting = true;
     }
 });
