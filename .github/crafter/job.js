@@ -59,7 +59,7 @@ json.conferences.forEach(function(item) {
         item.isnew = false;
     }
 
-    if(item.homepage === lastContent.last && item.startDate === lastContent.date) {
+    if(item.homepage === lastContent.url && item.startDate === lastContent.date) {
         startCounting = true;
     }
 });
