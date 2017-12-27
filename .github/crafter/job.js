@@ -79,6 +79,7 @@ if(newConferences.length > 0) {
         newConferences.forEach(function(conf){
             confNames = confNames + ", "+ conf.title;
         });
+        confNames.replace(", ", "");
         message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ confNames +'), check them out!';
     }
 
