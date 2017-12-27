@@ -50,7 +50,7 @@ json.conferences.forEach(function(item) {
     if(startCounting === true) {
 
         lastConference = item.homepage;
-        lastConferenceDate = item.startDate;
+        lastConferenceDate = item.startdate;
 
         newConferences.push(item);
         // set this conference as new
@@ -73,14 +73,14 @@ if(newConferences.length > 0) {
     var message = '';
 
     if(newConferences.length === 1) {
-        message = '🎫 ' + newConferences.length + ' new mobile conference ('+ newConferences[0].title +'), check it out!';
+        message = '🎫 '+ newConferences[0].title +') has just been added, check out all the details!';
     } else {
         var confNames = "";
         newConferences.forEach(function(conf){
             confNames = confNames + ", "+ conf.title;
         });
-        confNames.replace(", ", "");
-        message = '🎫 ' + newConferences.length + ' new mobile conferences ('+ confNames +'), check them out!';
+        confNames = confNames.replace(", ", "");
+        message = '🎫 ' + newConferences.length + ' new conferences added ('+ confNames +'), check them out!';
     }
 
     // send push
@@ -105,8 +105,8 @@ if(newConferences.length > 0) {
     console.log('OneSignal Message sent: ' + message);
 
     // add last
-    lastContent.last = lastConference;
-    lastContent.date = lastConferenceDate;
+    lastContent.homepage = lastConference;
+    lastContent.startdate = lastConferenceDate;
 
     // write file
     jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
