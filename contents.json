@@ -564,7 +564,7 @@
       "homepage": "https://addconf.com",
       "country": "Spain",
       "city": "Barcelona",
-      "callforpaper": false,
+      "callforpaper": true,
       "emojiflag": "🇪🇸",
       "isnew": false
     },
@@ -973,7 +973,7 @@
       "startdate": "2018/04/23",
       "enddate": "2018/04/24",
       "where": "Le Beffroi 2 Place Emile Cresp, Montrouge",
-      "homepage": "http://androidmakers.fr/",
+      "homepage": "https://androidmakers.fr/",
       "country": "France",
       "city": "Paris",
       "callforpaper": true,
