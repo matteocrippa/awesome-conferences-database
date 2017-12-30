@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-December_27,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-December_30,_2017-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -21,11 +21,6 @@ A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mo
 
 ## 📌 Upcoming Conferences
 ### 2017
-
-## December
-| When | Name | Country | City | CfP |
-| --- | --- | --- | --- | --- |
-| 28| [Droidcon Tel Aviv 2017](http://il.droidcon.com/2017/)|🇮🇱 [Israel](https://www.google.com/maps/search/?api=1&query=Sprinzak+2%2C+Tel+Aviv)| Tel Aviv | --- |
 [back to top](#readme) 
 
 

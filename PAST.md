@@ -51,6 +51,7 @@
 | 09| [GDG DevFest Poland](https://devfest.pl)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=al.+Poniatowskiego+1%2C+03-901+Warsaw%2C+Poland)| Warsaw | --- |
 | 13| [CodeEurope 2017 - Wroclaw](https://www.codeeurope.pl/en)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=50-001+Wroc%C5%82aw%2C+Poland)| Wroclaw | --- |
 | 16| [CocoaHeads Kyiv](https://cocoaheadsukraine.ticketforevent.com)|🇺🇦 [Ukraine](https://www.google.com/maps/search/?api=1&query=%D0%B2%D1%83%D0%BB.+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C+%D0%B1%D1%83%D0%B4.33%2C+Kyiv%2C+Kyiv+city%2C+Ukraine%2C+01601)| Kyiv | --- |
+| 28| [Droidcon Tel Aviv 2017](http://il.droidcon.com/2017/)|🇮🇱 [Israel](https://www.google.com/maps/search/?api=1&query=Sprinzak+2%2C+Tel+Aviv)| Tel Aviv | --- |
 [back to top](#readme) 
 
 
