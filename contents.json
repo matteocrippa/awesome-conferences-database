@@ -642,7 +642,7 @@
       "homepage": "https://mdevcamp.eu/",
       "country": "Czech Republic",
       "city": "Prague",
-      "callforpaper": false,
+      "callforpaper": true,
       "emojiflag": "🇨🇿",
       "isnew": false
     },
