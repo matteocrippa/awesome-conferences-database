@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-December_27,_2017-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-January_03,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -21,11 +21,6 @@ A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mo
 
 ## 📌 Upcoming Conferences
 ### 2017
-
-## December
-| When | Name | Country | City | CfP |
-| --- | --- | --- | --- | --- |
-| 28| [Droidcon Tel Aviv 2017](http://il.droidcon.com/2017/)|🇮🇱 [Israel](https://www.google.com/maps/search/?api=1&query=Sprinzak+2%2C+Tel+Aviv)| Tel Aviv | --- |
 [back to top](#readme) 
 
 
@@ -87,7 +82,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mo
 | --- | --- | --- | --- | --- |
 | 05 - 06| [MCE](https://2018.mceconf.com)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Kultury+i+Nauki%2C+plac+Defilad+1%2C+00-901+Warszawa%2C+Poland)| Warsaw | 🎤 |
 | 08| [DevTalks Bucharest](http://www.devtalks.ro/bucharest/)|🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=Bucharest)| Bucharest | 🎤 |
-| 15| [mDevCamp 2018](https://mdevcamp.eu/)|🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| Prague | --- |
+| 15| [mDevCamp 2018](https://mdevcamp.eu/)|🇨🇿 [Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague%2C+Czech+Republic)| Prague | 🎤 |
 | 18 - 20| [GOTO Amsterdam 2018](https://gotoams.nl)|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| Amsterdam | --- |
 | 18 - 20| [Developer Week NYC](http://www.developerweek.com/NYC/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=72+Noble+St%2C+Brooklyn%2C+NY+11222%2C+USA)| New York | 🎤 |
 
