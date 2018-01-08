@@ -955,6 +955,21 @@
       "topics": [
         "android", "ios"
       ]
+    },
+    {
+      "title": "Mobiconf 2018",
+      "year": 2018,
+      "startdate": "2018/10/04",
+      "enddate": "2018/10/05",
+      "where": "Kraków",
+      "homepage": "https://2018.mobiconf.org",
+      "country": "Poland",
+      "city": "Kraków",
+      "callforpaper": false,
+      "twitter": "@mobiconf",
+      "topics": [
+        "android", "ios"
+      ]
     }
   ]
 }
