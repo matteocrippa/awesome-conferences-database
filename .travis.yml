@@ -8,7 +8,7 @@ before_script:
   - gem install awesome_bot
   - sudo pip install json-spec
 script:
-  - awesome_bot submission.json -w skillsmatter,cfict,swiftbynorthwest,it.droidcon,gotoams.nl,addconf,codeeurope.pl,droidconvn.com,developerweek.com,facebook.com,eventbrite.com,mobiusconf.com
+  - awesome_bot submission.json -w skillsmatter,cfict,swiftbynorthwest,it.droidcon,gotoams.nl,addconf,codeeurope.pl,droidconvn.com,developerweek.com,facebook.com,eventbrite.com,mobiusconf.com,2018.mobiconf.org
   - json validate --schema-file=.github/schema.json --document-file=submission.json
 after_success:
   - node .github/crafter/job
