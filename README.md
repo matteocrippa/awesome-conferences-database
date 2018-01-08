@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-75-orange.svg) ![](https://img.shields.io/badge/last_update-January_03,_2018-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-76-orange.svg) ![](https://img.shields.io/badge/last_update-January_08,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **76** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -100,6 +100,11 @@ A ❤️ curated and 👬👫👭 collaborative list of **75** upcoming 📲  mo
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 03 - 06| [iOSDevUK 8](https://www.iosdevuk.com)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=Aberystwyth)| Aberystwyth | 🎤 |
+
+## October
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
+| 04 - 05| [Mobiconf 2018](https://2018.mobiconf.org)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| Kraków | --- |
 [back to top](#readme) 
 
 
