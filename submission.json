@@ -980,12 +980,26 @@
       "homepage": "https://devoxx.fr",
       "country": "France",
       "city": "Paris",
-      "callforpaper": true
+      "callforpaper": true,
       "twitter": "@DevoxxFR",
       "topics": [
         "android", "ios"
       ]
-
+    },
+    {
+      "title": "Devoxx UK",
+      "year": 2018,
+      "startdate": "2018/05/09",
+      "enddate": "2018/05/11",
+      "where": "52 Upper St, London N1 0QH, UK",
+      "homepage": "https://www.devoxx.co.uk",
+      "country": "United Kingdom",
+      "city": "London",
+      "callforpaper": true,
+      "twitter": "@DevoxxUK",
+      "topics": [
+        "android", "ios"
+      ]
     }
   ]
 }
