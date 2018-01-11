@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-76-orange.svg) ![](https://img.shields.io/badge/last_update-January_08,_2018-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-80-orange.svg) ![](https://img.shields.io/badge/last_update-January_11,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **76** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **80** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -63,14 +63,17 @@ A ❤️ curated and 👬👫👭 collaborative list of **76** upcoming 📲  mo
 | 07| [Droidcon Vietnam](http://droidconvn.com)|🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| Ho Chi Minh City | 🎤 |
 | 12 - 13| [Chicago Roboto](http://chicagoroboto.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=2%2C+247+E+Ontario+St%2C+Chicago%2C+IL+60611%2C+USA)| Chicago | 🎤 |
 | 16 - 17| [App Builders 2018](https://appbuilders.ch)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| Lugano | 🎤 |
+| 18 - 20| [Devoxx France](https://devoxx.fr)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2+Place+de+la+Porte+Maillot%2C+75017+Paris%2C+France)| Paris | 🎤 |
 | 19 - 20| [droidcon Italy 2018](http://it.droidcon.com/2018/)|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| Torino | 🎤 |
 | 20 - 21| [Mobius](https://mobiusconf.com/en/)|🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=St+Petersburg%2C+Russia)| St Petersburg  | 🎤 |
 | 23 - 24| [Android Makers FR](https://androidmakers.fr/)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Le+Beffroi+2+Place+Emile+Cresp%2C+Montrouge)| Paris | 🎤 |
+| 25 - 27| [Goto Chicago](https://gotochgo.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Center+Blvd.+5%2C+2300+K%C3%B8benhavn+S%2C+Denmark)| Chicago | --- |
 
 ## May
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 01 - 02| [F8 2018](https://www.f8.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=San+Jose%2C+CA)| San Jose | --- |
+| 09 - 11| [Devoxx UK](https://www.devoxx.co.uk)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=52+Upper+St%2C+London+N1+0QH%2C+UK)| London | 🎤 |
 | 13 - 16| [UIKonf 2018](http://www.uikonf.com)|🇩🇪 [Germany](https://www.google.com/maps/search/?api=1&query=Holzmarktstra%C3%9Fe+33%2C+10243+Berlin%2C+Germany)| Berlin | --- |
 | 16 - 18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)|🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| Wien | --- |
 | 16| [DevTalks Cluj](http://www.devtalks.ro/cluj/)|🇷🇴 [Romania](https://www.google.com/maps/search/?api=1&query=cluj)| Cluj | 🎤 |
@@ -105,6 +108,11 @@ A ❤️ curated and 👬👫👭 collaborative list of **76** upcoming 📲  mo
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
 | 04 - 05| [Mobiconf 2018](https://2018.mobiconf.org)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| Kraków | --- |
+
+## November
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
+| 19 - 23| [Goto Cophenhagen](https://gotocph.com)|🇩🇰 [Denmark](https://www.google.com/maps/search/?api=1&query=Center+Blvd.+5%2C+2300+K%C3%B8benhavn+S%2C+Denmark)| Cophenhagen | --- |
 [back to top](#readme) 
 
 
