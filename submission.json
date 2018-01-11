@@ -1024,6 +1024,21 @@
       "city": "Chicago",
       "callforpaper": false,
       "twitter": "@gotochgo"
+    },
+    {
+      "title": "NSBudapest",
+      "year": 2018,
+      "startdate": "2018/01/25",
+      "enddate": "2018/01/25",
+      "where": "Budapest, Károly krt. 6, 1052 Hungary",
+      "homepage": "https://www.meetup.com/NSBudapest/events/245939002/",
+      "country": "Hungary",
+      "city": "Budapest",
+      "callforpaper": false,
+      "twitter": "@nsbudapest",
+      "topics": [
+        "ios"
+      ]
     }
   ]
 }
