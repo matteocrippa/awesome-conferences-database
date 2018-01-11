@@ -970,6 +970,22 @@
       "topics": [
         "android", "ios"
       ]
+    },
+    {
+      "title": "Devoxx France",
+      "year": 2018,
+      "startdate": "2018/04/18",
+      "enddate": "2018/04/20",
+      "where": "2 Place de la Porte Maillot, 75017 Paris, France",
+      "homepage": "https://devoxx.fr",
+      "country": "France",
+      "city": "Paris",
+      "callforpaper": true
+      "twitter": "@DevoxxFR",
+      "topics": [
+        "android", "ios"
+      ]
+
     }
   ]
 }
