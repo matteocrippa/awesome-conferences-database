@@ -1000,6 +1000,30 @@
       "topics": [
         "android", "ios"
       ]
+    },
+    {
+      "title": "Goto Cophenhagen",
+      "year": 2018,
+      "startdate": "2018/11/19",
+      "enddate": "2018/11/23",
+      "where": "Center Blvd. 5, 2300 København S, Denmark",
+      "homepage": "https://gotocph.com",
+      "country": "Denmark",
+      "city": "Cophenhagen",
+      "callforpaper": false,
+      "twitter": "@gotocph"
+    },
+    {
+      "title": "Goto Chicago",
+      "year": 2018,
+      "startdate": "2018/04/25",
+      "enddate": "2018/04/27",
+      "where": "Center Blvd. 5, 2300 København S, Denmark",
+      "homepage": "https://gotochgo.com",
+      "country": "United States",
+      "city": "Chicago",
+      "callforpaper": false,
+      "twitter": "@gotochgo"
     }
   ]
 }
