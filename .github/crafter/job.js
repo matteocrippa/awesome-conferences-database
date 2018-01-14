@@ -91,7 +91,7 @@ if(newConferences.length > 0) {
 
     newConferences.forEach(function(conf) {
         // prepare message
-        const twitterMessage =  conf.emojiflag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.startdate +' and '+ conf.enddate +' in '+ conf.city +' 🎫 #awesomemobileconference';
+        const twitterMessage =  conf.emojiflag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.startdate +' and '+ conf.enddate +' in '+ conf.city +' - '+ conf.homepage +' 🎫 #awesomemobileconference';
         // send twitter
         clientTwitter.post('statuses/update', { status: twitterMessage }, function(error, tweet, response) {
             if (!error) {
