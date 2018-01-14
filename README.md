@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-81-orange.svg) ![](https://img.shields.io/badge/last_update-January_11,_2018-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-81-orange.svg) ![](https://img.shields.io/badge/last_update-January_14,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
@@ -29,7 +29,6 @@ A ❤️ curated and 👬👫👭 collaborative list of **81** upcoming 📲  mo
 ## January
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-| 12| [Windy City Devfest 2018](https://www.eventbrite.com/e/windy-city-devfest-2018-tickets-39243027953)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+West+Fulton+Street+320+North+Morgan+Street%2C+Chicago%2C+IL+60607%2C+United+States)| Chicago | 🎤 |
 | 23 - 24| [DartConf LA](https://events.dartlang.org/2018/dartconf/)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=340+Main+St%2C+Venice%2C+CA+90291%2C+USA)| Los Angeles | --- |
 | 25| [NSBudapest](https://www.meetup.com/NSBudapest/events/245939002/)|🇭🇺 [Hungary](https://www.google.com/maps/search/?api=1&query=Budapest%2C+K%C3%A1roly+krt.+6%2C+1052+Hungary)| Budapest | --- |
 | 29| [dotSwift](https://www.dotswift.io/)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=Th%C3%A9%C3%A2tre+de+Paris%2C+15+Rue+Blanche%2C+75009+Paris)| Paris | 🎤 |
