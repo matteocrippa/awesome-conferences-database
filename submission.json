@@ -1039,6 +1039,21 @@
       "topics": [
         "ios"
       ]
+    },
+    {
+      "title": "Learn Swift Milan - January 2018",
+      "year": 2018,
+      "startdate": "2018/01/23",
+      "enddate": "2018/01/23",
+      "where": "Corso Como 15, 20154 Milano, Italy",
+      "homepage": "https://www.eventbrite.com/e/biglietti-learn-swift-milan-january-2018-42209661233?aff=awesomemobileconfgithub",
+      "country": "Italy",
+      "city": "Milan",
+      "callforpaper": false,
+      "twitter": "@learnswiftmilan",
+      "topics": [
+        "ios"
+      ]
     }
   ]
 }
