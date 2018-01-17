@@ -56,5 +56,10 @@
 
 
 ### 2018
+
+## January
+| When | Name | Country | City | CfP |
+| --- | --- | --- | --- | --- |
+| 12| [Windy City Devfest 2018](https://www.eventbrite.com/e/windy-city-devfest-2018-tickets-39243027953)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+West+Fulton+Street+320+North+Morgan+Street%2C+Chicago%2C+IL+60607%2C+United+States)| Chicago | 🎤 |
 [back to top](#readme) 
 
