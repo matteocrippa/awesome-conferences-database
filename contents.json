@@ -1152,6 +1152,24 @@
         "ios"
       ],
       "emojiflag": "🇮🇹",
+      "isnew": false
+    },
+    {
+      "title": "KotlinConf",
+      "year": 2018,
+      "startdate": "2018/10/03",
+      "enddate": "2018/10/05",
+      "where": "Amsterdam",
+      "homepage": "https://kotlinconf.com",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "callforpaper": false,
+      "twitter": "@kotlinconf",
+      "topics": [
+        "kotlin",
+        "android"
+      ],
+      "emojiflag": "🇳🇱",
       "isnew": true
     }
   ]
