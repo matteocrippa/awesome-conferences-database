@@ -1041,20 +1041,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "title": "KotlinConf",
-      "year": 2018,
-      "startdate": "2018/10/3",
-      "enddate": "2018/10/5",
-      "where": "Amsterdam",
-      "homepage": "https://kotlinconf.com",
-      "country": "Netherlands",
-      "city": "Amsterdam",
-      "callforpaper": false,
-      "twitter": "@kotlinconf",
-      "topics": [
-        "kotlin", "android"
-=======
       "title": "Learn Swift Milan - January 2018",
       "year": 2018,
       "startdate": "2018/01/23",
@@ -1067,7 +1053,21 @@
       "twitter": "@learnswiftmilan",
       "topics": [
         "ios"
->>>>>>> 334fac192e913b690a49d1b7b824fcc65bd62508
+      ]
+    },
+    {
+      "title": "KotlinConf",
+      "year": 2018,
+      "startdate": "2018/10/3",
+      "enddate": "2018/10/5",
+      "where": "Amsterdam",
+      "homepage": "https://kotlinconf.com",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "callforpaper": false,
+      "twitter": "@kotlinconf",
+      "topics": [
+        "kotlin", "android"
       ]
     }
   ]
