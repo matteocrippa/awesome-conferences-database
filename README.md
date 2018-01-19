@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-82-orange.svg) ![](https://img.shields.io/badge/last_update-January_19,_2018-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-83-orange.svg) ![](https://img.shields.io/badge/last_update-January_19,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **82** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **83** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -62,7 +62,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **82** upcoming 📲  mo
 | 02 - 05| [Codemobile](http://www.codemobile.co.uk/)|🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=University+of+Chester%2C+Parkgate+Road%2C+Chester%2C+UK)| Chester | --- |
 | 07| [Droidcon Vietnam](http://droidconvn.com)|🇻🇳 [Vietnam](https://www.google.com/maps/search/?api=1&query=702+Nguyen+Van+Linh%2C+District+7%2C+T%C3%A2n+Phong%2C+Ho+Chi+Minh+City%2C+H%E1%BB%93+Ch%C3%AD+Minh%2C+Vietnam)| Ho Chi Minh City | 🎤 |
 | 12 - 13| [Chicago Roboto](http://chicagoroboto.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=2%2C+247+E+Ontario+St%2C+Chicago%2C+IL+60611%2C+USA)| Chicago | 🎤 |
-| 16 - 17| [App Builders 2018](https://appbuilders.ch)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| Lugano | 🎤 |
+| 16 - 17| [App Builders 2018](https://appbuilders.ch)|🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| Lugano | --- |
 | 18 - 20| [Devoxx France](https://devoxx.fr)|🇫🇷 [France](https://www.google.com/maps/search/?api=1&query=2+Place+de+la+Porte+Maillot%2C+75017+Paris%2C+France)| Paris | 🎤 |
 | 19 - 20| [droidcon Italy 2018](http://it.droidcon.com/2018/)|🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| Torino | 🎤 |
 | 20 - 21| [Mobius](https://mobiusconf.com/en/)|🇷🇺 [Russia](https://www.google.com/maps/search/?api=1&query=St+Petersburg%2C+Russia)| St Petersburg  | 🎤 |
@@ -109,6 +109,7 @@ A ❤️ curated and 👬👫👭 collaborative list of **82** upcoming 📲  mo
 | --- | --- | --- | --- | --- |
 | 03 - 05| [KotlinConf](https://kotlinconf.com)|🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Amsterdam)| Amsterdam | --- |
 | 04 - 05| [Mobiconf 2018](https://2018.mobiconf.org)|🇵🇱 [Poland](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w)| Kraków | --- |
+| 18 - 20| [Swift By Northwest](https://swiftbynorthwest.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=8439+NE+Columbia+Blvd%2C+Portland%2C+OR+97220%2C+USA)| Portland | --- |
 
 ## November
 | When | Name | Country | City | CfP |
