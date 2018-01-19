@@ -90,10 +90,8 @@
 						"title": "Conference Category",
 						"description": "Contains the category of the conference.",
 						"type": "string",
-						"items": {
-							"type": "string",
-							"enum": ["mobile", "ui", "ux", "frontend", "backend", "marketing"]
-						}
+						"enum": ["mobile", "ui", "ux", "frontend", "backend", "marketing"]
+
 					}
 
 				},
