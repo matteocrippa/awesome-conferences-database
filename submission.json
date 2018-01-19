@@ -1248,7 +1248,9 @@
     {
       "title": "Swift By Northwest",
       "year": 2018,
-      "category": "mobile",
+      "category": [
+        "mobile"
+      ],
       "startdate": "2018/10/18",
       "enddate": "2018/10/20",
       "where": "8439 NE Columbia Blvd, Portland, OR 97220, USA",
