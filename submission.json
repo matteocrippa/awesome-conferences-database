@@ -127,7 +127,7 @@
       "homepage": "https://appbuilders.ch",
       "country": "Switzerland",
       "city": "Lugano",
-      "callforpaper": true
+      "callforpaper": false
     },
     {
       "title": "droidcon London 2017",
@@ -1075,6 +1075,22 @@
       "topics": [
         "kotlin",
         "android"
+      ]
+    },
+    {
+      "title": "Swift By Northwest",
+      "year": 2018,
+"category": "mobile",
+      "startdate": "2018/10/18",
+      "enddate": "2018/10/20",
+      "where": "8439 NE Columbia Blvd, Portland, OR 97220, USA",
+      "homepage": "https://swiftbynorthwest.com",
+      "country": "United States",
+      "callforpaper": false,
+      "city": "Portland",
+      "twitter": "@SwiftxNW",
+      "topics": [
+        "ios"
       ]
     }
   ]
