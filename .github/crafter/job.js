@@ -3,6 +3,7 @@ const OneSignal = require('node-onesignal').default;
 const {flag, code, name} = require('country-emoji');
 const jsonfile = require('jsonfile');
 const Twitter = require('twitter');
+const hasha = require('hasha');
 
 // setup twitter
 const clientTwitter = new Twitter({
@@ -38,6 +39,9 @@ var newConferences = [];
 // loop
 var startCounting = false;
 json.conferences.forEach(function(item) {
+
+    // generate id
+    item.id = hasha(item.homepage+item.startdate);
 
     // convert flags
     item.emojiflag = flag(item.country);
