@@ -154,7 +154,7 @@
       "homepage": "https://appbuilders.ch",
       "country": "Switzerland",
       "city": "Lugano",
-      "callforpaper": true,
+      "callforpaper": false,
       "id": "eec4f6beee806db1f423a0b7f91bb32c5b94e5871fb3888e6f01131fac2061cf25e6002da02a6dca1d289549b519ae23f9a439a243d6aac69ff9a5bf022796d4",
       "emojiflag": "🇨🇭",
       "isnew": false
@@ -1322,6 +1322,25 @@
       "id": "9019f68d8c110322a650ee1430389308ba23cbfd63342a447f961f9f4f51f1663ada6abefd07a63482df1d7c8044d431e61e5c1c9210b52e5a4871b87c962748",
       "emojiflag": "🇳🇱",
       "isnew": false
+    },
+    {
+      "title": "Swift By Northwest",
+      "year": 2018,
+      "category": "mobile",
+      "startdate": "2018/10/18",
+      "enddate": "2018/10/20",
+      "where": "8439 NE Columbia Blvd, Portland, OR 97220, USA",
+      "homepage": "https://swiftbynorthwest.com",
+      "country": "United States",
+      "callforpaper": false,
+      "city": "Portland",
+      "twitter": "@SwiftxNW",
+      "topics": [
+        "ios"
+      ],
+      "id": "083a7c333f2d74018026c0f0b3cf26ae818eec6cc341873f2225fdcd51ada53e720e89548345e80e5ac7e81a6fa4b35a942f616fd207aaeffbb27dd75eeaa79a",
+      "emojiflag": "🇺🇸",
+      "isnew": true
     }
   ]
 }
