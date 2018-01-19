@@ -8,12 +8,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-83-orange.svg) ![](https://img.shields.io/badge/last_update-January_19,_2018-green.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/conferences-82-orange.svg) ![](https://img.shields.io/badge/last_update-January_19,_2018-green.svg)
 
 ## About
 👋 Welcome to **Awesome Mobile Conference** 👋 
 
-A ❤️ curated and 👬👫👭 collaborative list of **83** upcoming 📲  mobile conferences around the world 🌎.
+A ❤️ curated and 👬👫👭 collaborative list of **82** upcoming 📲  mobile conferences around the world 🌎.
 
 
 
@@ -37,7 +37,6 @@ A ❤️ curated and 👬👫👭 collaborative list of **83** upcoming 📲  mo
 ## February
 | When | Name | Country | City | CfP |
 | --- | --- | --- | --- | --- |
-| 03 - 08| [DeveloperWeek 2018](http://www.developerweek.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+Street%2C+Oakland%2C+CA+94607)| Oakland | --- |
 | 03 - 07| [Developer Week SF](http://www.developerweek.com)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=550+10th+St%2C+Oakland%2C+CA+94607%2C+USA)| San Francisco | 🎤 |
 | 08 - 09| [DroidKaigi](https://droidkaigi.jp/2018/en/)|🇯🇵 [Japan](https://www.google.com/maps/search/?api=1&query=Bellesalle+Shinjuku+Grand+Conference+Center%2C+Shinjuku+City%2C+Tokyo+160-0023)| Tokyo | 🎤 |
 | 10| [DevFestMN](https://devfest.mn)|🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1000+Lasalle+Ave%2C+Minneapolis%2C+MN+55403%2C+USA)| Minneapolis | 🎤 |
