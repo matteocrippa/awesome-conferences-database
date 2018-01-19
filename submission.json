@@ -12,6 +12,7 @@
     {
       "title": "try! Swift Banagalore",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/17",
       "enddate": "2017/11/18",
       "where": "30, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
@@ -23,6 +24,7 @@
     {
       "title": "Mobile Era 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/05",
       "enddate": "2017/10/06",
       "where": "Bryggetorget 3, 0125, Oslo",
@@ -34,6 +36,7 @@
     {
       "title": "Pragma Conference",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/11",
       "enddate": "2017/10/13",
       "where": "Via Baldassarre Longhena 42, Verona, Italy",
@@ -45,6 +48,7 @@
     {
       "title": "DevFest Baltics 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/17",
       "enddate": "2017/11/17",
       "where": "Ķīpsalas iela, Rīga, LV-1048, Latvija",
@@ -56,6 +60,7 @@
     {
       "title": "Mobilization 7",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/21",
       "enddate": "2017/10/21",
       "where": "Hala Expo al. Politechniki 4 Łódź",
@@ -67,6 +72,7 @@
     {
       "title": "KotlinConf",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/02",
       "enddate": "2017/11/03",
       "where": "Pier 27, The Embarcadero, San Francisco, CA 94111",
@@ -78,6 +84,7 @@
     {
       "title": "Goto Cophenhagen",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/01",
       "enddate": "2017/10/03",
       "where": "Bella Center, 2300 København S, Denmark",
@@ -89,6 +96,7 @@
     {
       "title": "iOSCon 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/22",
       "enddate": "2018/03/23",
       "where": "10 South Pl, London EC2M 7EB, UK",
@@ -100,6 +108,7 @@
     {
       "title": "Swift Alps 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/23",
       "enddate": "2017/11/24",
       "where": "Crans-Montana, Switzerland",
@@ -111,6 +120,7 @@
     {
       "title": "App Builders 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/16",
       "enddate": "2018/04/17",
       "where": "Lugano, Switzerland",
@@ -122,6 +132,7 @@
     {
       "title": "droidcon London 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/26",
       "enddate": "2017/10/27",
       "where": "10 South Pl, London EC2M 7EB, UK",
@@ -133,6 +144,7 @@
     {
       "title": "Mobiconf 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/05",
       "enddate": "2017/10/06",
       "where": "Dobrego Pasterza 128, 30-962 Kraków, Poland",
@@ -144,6 +156,7 @@
     {
       "title": "Devoxx 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/06",
       "enddate": "2017/11/10",
       "where": "Kinepolis Antwerp, Groenendaallaan 394, 2030 Antwerp, Belgium",
@@ -155,6 +168,7 @@
     {
       "title": ".droidconSF",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/05",
       "enddate": "2017/11/06",
       "where": "Mission Bay Conference Center, San Francisco",
@@ -166,6 +180,7 @@
     {
       "title": "Mobius 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/11",
       "enddate": "2017/11/11",
       "where": "Radisson Slavyanskaya, Europe Square 2, Moscow",
@@ -177,6 +192,7 @@
     {
       "title": "GOTO Berlin 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/14",
       "enddate": "2017/11/15",
       "where": "bcc, Alexanderstraße 11, 10178 Berlin",
@@ -188,6 +204,7 @@
     {
       "title": "droidcon Beijing 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/17",
       "enddate": "2017/11/18",
       "where": "Beijing",
@@ -199,6 +216,7 @@
     {
       "title": "droidcon",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/01",
       "enddate": "2017/12/02",
       "where": "WPiA Jagiellonian University, ul. Krupnicza 33a, Kraków",
@@ -210,6 +228,7 @@
     {
       "title": "DroidKaigi",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/08",
       "enddate": "2018/02/09",
       "where": "Bellesalle Shinjuku Grand Conference Center, Shinjuku City, Tokyo 160-0023",
@@ -221,6 +240,7 @@
     {
       "title": "Droidcon Boston 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/26",
       "enddate": "2018/03/27",
       "where": "Calderwood Pavilion, 527 Tremont Street, Boston, MA 02116, United States",
@@ -232,6 +252,7 @@
     {
       "title": "RWDevCon 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/05",
       "enddate": "2018/03/07",
       "where": "The Westin Alexandria Hotel, VA",
@@ -243,6 +264,7 @@
     {
       "title": "iOS Conf SG 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/19",
       "enddate": "2017/10/20",
       "where": "Theatre for the Arts, Nanyang Polytechnic, Singapore",
@@ -254,6 +276,7 @@
     {
       "title": "UA Mobile",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/25",
       "enddate": "2017/11/25",
       "where": "Kyiv, Stolichne shose 103, Ramada Encore Kiev hotel",
@@ -265,6 +288,7 @@
     {
       "title": ".droidconNYC 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/09/25",
       "enddate": "2017/09/26",
       "where": "Convene (46th btwn 6th & 7th), NYC",
@@ -276,6 +300,7 @@
     {
       "title": "DevFest Florida 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/11",
       "enddate": "2017/11/11",
       "where": "Disney's Contemporary Resort, 4600 North World Dr., Orlando, FL 32830 United States",
@@ -287,6 +312,7 @@
     {
       "title": "Open Mobile Summit 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/29",
       "enddate": "2017/11/30",
       "where": "GRAND HYATT SAN FRANCISCO, SAN FRANCISCO, USA",
@@ -298,6 +324,7 @@
     {
       "title": "Øredev",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/7",
       "enddate": "2017/11/10",
       "where": "Öredev AB, Hans Michelsensgatan 10, 3rd floor, SE-211 20 Malmö, Sweden",
@@ -309,6 +336,7 @@
     {
       "title": "Swift By Northwest",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/27",
       "enddate": "2017/10/28",
       "where": "18118 International Blvd, Seattle, WA 98188",
@@ -320,6 +348,7 @@
     {
       "title": "dotSwift",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/01/29",
       "enddate": "2018/01/29",
       "where": "Théâtre de Paris, 15 Rue Blanche, 75009 Paris",
@@ -331,6 +360,7 @@
     {
       "title": "GOTO Amsterdam 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/06/18",
       "enddate": "2018/06/20",
       "where": "Beurs van Berlage, Damrak 243, 1012 ZJ Amsterdam",
@@ -342,6 +372,7 @@
     {
       "title": "MBLTdev 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/27",
       "enddate": "2017/10/27",
       "where": "Bersenevskaya Haberezhnaya, 6, Moskva, Russia, 119072",
@@ -353,6 +384,7 @@
     {
       "title": "Samsung Developer Conference 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/18",
       "enddate": "2017/10/19",
       "where": "747 Howard St, San Francisco, CA 94103, USA",
@@ -364,6 +396,7 @@
     {
       "title": "WeAreDevelopers 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/16",
       "enddate": "2018/05/18",
       "where": "Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
@@ -375,6 +408,7 @@
     {
       "title": "MODS 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/05",
       "enddate": "2017/10/06",
       "where": "National Science Symposium Complex, Sir CV Raman Avenue, Near Indian Institute Of Science, Malleswaram 18th Cross, Kodandarampura, Bengaluru, Karnataka 560012, India",
@@ -386,6 +420,7 @@
     {
       "title": "droidcon Italy 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/19",
       "enddate": "2018/04/20",
       "where": "Via Nizza, 280, 10126 Torino TO, Italy",
@@ -397,6 +432,7 @@
     {
       "title": "Mobile Trends Conference 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/01",
       "enddate": "2018/03/02",
       "where": "Kraków",
@@ -408,6 +444,7 @@
     {
       "title": "MobOs 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/15",
       "enddate": "2018/02/16",
       "where": "Cluj Napoca",
@@ -419,6 +456,7 @@
     {
       "title": "AppDevCon 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/15",
       "enddate": "2018/03/16",
       "where": "ArenA Boulevard 600, 1101 DS Amsterdam-Zuidoost, Netherlands",
@@ -430,6 +468,7 @@
     {
       "title": "360 iDev",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/08/26",
       "enddate": "2018/08/29",
       "where": "1750 Welton St, Denver, CO 80202, USA",
@@ -441,6 +480,7 @@
     {
       "title": "Forward Swift",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/12",
       "enddate": "2018/02/12",
       "where": "San Francisco",
@@ -452,6 +492,7 @@
     {
       "title": "SwiftFest",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/11/29",
       "enddate": "2017/11/30",
       "where": "527 Tremont St, Boston, MA 02116, USA",
@@ -463,6 +504,7 @@
     {
       "title": "ADDC - App Design & Development Conference",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/07/04",
       "enddate": "2018/07/06",
       "where": "Avinguda Diagonal, 547, 08029 Barcelona, Spain",
@@ -474,6 +516,7 @@
     {
       "title": "Swift Summit",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/10/30",
       "enddate": "2017/10/31",
       "where": "Palace of Fine Arts Theatre, 3301 Lyon Street San Francisco, CA 94123",
@@ -485,6 +528,7 @@
     {
       "title": "Codemobile",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/02",
       "enddate": "2018/04/05",
       "where": "University of Chester, Parkgate Road, Chester, UK",
@@ -496,6 +540,7 @@
     {
       "title": "FrenchKit",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/09/22",
       "enddate": "2017/09/23",
       "where": "2-4 Impasse Lamier, 75011 Paris, France",
@@ -507,6 +552,7 @@
     {
       "title": "Branchout",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/4",
       "enddate": "2017/12/5",
       "where": "950 Mason Street, San Francisco, California, United States",
@@ -518,6 +564,7 @@
     {
       "title": "try! Swift Tokyo 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/01",
       "enddate": "2018/03/02",
       "where": "Japan, 〒160-0023 東京都新宿区 西新宿8-17−１ 住友不動産新宿グランドタワー5F",
@@ -529,6 +576,7 @@
     {
       "title": "mDevCamp 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/06/15",
       "enddate": "2018/06/15",
       "where": "Prague, Czech Republic",
@@ -540,6 +588,7 @@
     {
       "title": "CodeEurope 2017 - Kraków",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/05",
       "enddate": "2017/12/05",
       "where": "Marii Konopnickiej 17, 30-302 Kraków, Poland",
@@ -551,6 +600,7 @@
     {
       "title": "CodeEurope 2017 - Warsaw",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/07",
       "enddate": "2017/12/07",
       "where": "aleja Poniatowskiego 1, 03-901 Warszawa, Poland",
@@ -562,6 +612,7 @@
     {
       "title": "CodeEurope 2017 - Wroclaw",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/13",
       "enddate": "2017/12/13",
       "where": "50-001 Wrocław, Poland",
@@ -573,6 +624,7 @@
     {
       "title": "GDG DevFest Poland",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/09",
       "enddate": "2017/12/09",
       "where": "al. Poniatowskiego 1, 03-901 Warsaw, Poland",
@@ -584,6 +636,7 @@
     {
       "title": "F8 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/01",
       "enddate": "2018/05/02",
       "where": "San Jose, CA",
@@ -595,6 +648,7 @@
     {
       "title": "Droidcon Tel Aviv 2017",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/28",
       "enddate": "2017/12/28",
       "where": "Sprinzak 2, Tel Aviv",
@@ -606,6 +660,7 @@
     {
       "title": "Teki Con",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/12",
       "enddate": "2018/03/14",
       "where": "1374 West Peachtree Street, Atlanta, GA 30309",
@@ -618,6 +673,7 @@
     {
       "title": "iOSDevUK 8",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/09/03",
       "enddate": "2018/09/06",
       "where": "Aberystwyth",
@@ -630,6 +686,7 @@
     {
       "title": "DevFestMN",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/10",
       "enddate": "2018/02/10",
       "where": "1000 Lasalle Ave, Minneapolis, MN 55403, USA",
@@ -642,6 +699,7 @@
     {
       "title": "Droidcon Vietnam",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/07",
       "enddate": "2018/04/07",
       "where": "702 Nguyen Van Linh, District 7, Tân Phong, Ho Chi Minh City, Hồ Chí Minh, Vietnam",
@@ -654,6 +712,7 @@
     {
       "title": "DevFest KC 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/17",
       "enddate": "2018/02/17",
       "where": "1228 Baltimore Ave, Kansas City, MO 64105, USA",
@@ -666,6 +725,7 @@
     {
       "title": "UIKonf 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/13",
       "enddate": "2018/05/16",
       "where": "Holzmarktstraße 33, 10243 Berlin, Germany",
@@ -678,6 +738,7 @@
     {
       "title": "Mobile Beach Conference",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/18",
       "enddate": "2018/05/20",
       "where": "Пляж Аркадія, Odesa, Odessa Oblast, Ukraine, 65000",
@@ -690,6 +751,7 @@
     {
       "title": "Developer Week SF",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/02/03",
       "enddate": "2018/02/07",
       "where": "550 10th St, Oakland, CA 94607, USA",
@@ -701,6 +763,7 @@
     {
       "title": "Developer Week NYC",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/06/18",
       "enddate": "2018/06/20",
       "where": "72 Noble St, Brooklyn, NY 11222, USA",
@@ -712,6 +775,7 @@
     {
       "title": "DartConf LA",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/01/23",
       "enddate": "2018/01/24",
       "where": "340 Main St, Venice, CA 90291, USA",
@@ -724,6 +788,7 @@
     {
       "title": "CocoaHeads Kyiv",
       "year": 2017,
+"category": "mobile",
       "startdate": "2017/12/16",
       "enddate": "2017/12/16",
       "where": "вул. Велика Житомирська, буд.33, Kyiv, Kyiv city, Ukraine, 01601",
@@ -739,6 +804,7 @@
     {
       "title": "MCE",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/06/05",
       "enddate": "2018/06/06",
       "where": "Pałac Kultury i Nauki, plac Defilad 1, 00-901 Warszawa, Poland",
@@ -757,6 +823,7 @@
     {
       "title": "Riga Dev Days",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/29",
       "enddate": "2018/05/31",
       "where": "13. janvāra iela 8, Latgales priekšpilsēta, Rīga, LV-1050, Latvia",
@@ -772,6 +839,7 @@
     {
       "title": "Windy City Devfest 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/01/12",
       "enddate": "2018/01/12",
       "where": "1000 West Fulton Street 320 North Morgan Street, Chicago, IL 60607, United States",
@@ -787,6 +855,7 @@
     {
       "title": "Chicago Roboto",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/12",
       "enddate": "2018/04/13",
       "where": "2, 247 E Ontario St, Chicago, IL 60611, USA",
@@ -802,6 +871,7 @@
     {
       "title": "Droidcon Tunisia",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/03/10",
       "enddate": "2018/03/11",
       "where": "Hammamet, Tunisia",
@@ -817,6 +887,7 @@
     {
       "title": "Android Makers FR",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/23",
       "enddate": "2018/04/24",
       "where": "Le Beffroi 2 Place Emile Cresp, Montrouge",
@@ -832,6 +903,7 @@
     {
       "title": "Mobius",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/20",
       "enddate": "2018/04/21",
       "where": "St Petersburg, Russia",
@@ -848,6 +920,7 @@
     {
       "title": "DevTalks Cluj",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/16",
       "enddate": "2018/05/16",
       "where": "cluj",
@@ -864,6 +937,7 @@
     {
       "title": "DevTalks Bucharest",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/06/08",
       "enddate": "2018/06/08",
       "where": "Bucharest",
@@ -880,6 +954,7 @@
     {
       "title": "Mobiconf 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/10/04",
       "enddate": "2018/10/05",
       "where": "Kraków",
@@ -896,6 +971,7 @@
     {
       "title": "Devoxx France",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/18",
       "enddate": "2018/04/20",
       "where": "2 Place de la Porte Maillot, 75017 Paris, France",
@@ -912,6 +988,7 @@
     {
       "title": "Devoxx UK",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/05/09",
       "enddate": "2018/05/11",
       "where": "52 Upper St, London N1 0QH, UK",
@@ -928,6 +1005,7 @@
     {
       "title": "Goto Cophenhagen",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/11/19",
       "enddate": "2018/11/23",
       "where": "Center Blvd. 5, 2300 København S, Denmark",
@@ -940,6 +1018,7 @@
     {
       "title": "Goto Chicago",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/04/25",
       "enddate": "2018/04/27",
       "where": "Center Blvd. 5, 2300 København S, Denmark",
@@ -952,6 +1031,7 @@
     {
       "title": "NSBudapest",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/01/25",
       "enddate": "2018/01/25",
       "where": "Budapest, Károly krt. 6, 1052 Hungary",
@@ -967,6 +1047,7 @@
     {
       "title": "Learn Swift Milan - January 2018",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/01/23",
       "enddate": "2018/01/23",
       "where": "Corso Como 15, 20154 Milano, Italy",
@@ -982,6 +1063,7 @@
     {
       "title": "KotlinConf",
       "year": 2018,
+"category": "mobile",
       "startdate": "2018/10/03",
       "enddate": "2018/10/05",
       "where": "Amsterdam",
