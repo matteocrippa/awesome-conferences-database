@@ -7,10 +7,10 @@ const hasha = require('hasha');
 
 // setup twitter
 const clientTwitter = new Twitter({
-    consumer_key: process.env.TWITTER_CONSUMER_KEY,
-    consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-    access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-    access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 });
 
 // setup onesignal
@@ -24,7 +24,7 @@ const jsonFile = 'contents.json';
 // get file content
 const lastContent = jsonfile.readFileSync(lastFile);
 
-console.log(lastContent);
+//console.log(lastContent);
 
 // read json file
 const json = jsonfile.readFileSync(submissionFile);
@@ -38,82 +38,82 @@ var newConferences = [];
 
 // loop
 var startCounting = false;
-json.conferences.forEach(function(item) {
+json.conferences.forEach(function (item) {
 
-    // generate id
-    item.id = hasha(item.homepage+item.startdate);
+  // generate id
+  item.id = hasha(item.homepage + item.startdate);
 
-    // convert flags
-    item.emojiflag = flag(item.country);
+  // convert flags
+  item.emojiflag = flag(item.country);
 
-    if(item.country === 'Vietnam') {
-      item.emojiflag = '🇻🇳';
-    }
+  if (item.country === 'Vietnam') {
+    item.emojiflag = '🇻🇳';
+  }
 
-    //console.log(item);
-    if(startCounting === true) {
+  //console.log(item);
+  if (startCounting === true) {
 
-        lastConference = item.homepage;
-        lastConferenceDate = item.startdate;
+    lastConference = item.homepage;
+    lastConferenceDate = item.startdate;
 
-        newConferences.push(item);
-        // set this conference as new
-        item.isnew = true;
+    newConferences.push(item);
+    // set this conference as new
+    item.isnew = true;
 
-    } else {
-        // set all the other conf as old
-        item.isnew = false;
-    }
+  } else {
+    // set all the other conf as old
+    item.isnew = false;
+  }
 
-    if(item.homepage == lastContent.homepage && item.startdate == lastContent.startdate) {
-        startCounting = true;
-    }
+  if (item.homepage == lastContent.homepage && item.startdate == lastContent.startdate) {
+    startCounting = true;
+  }
 });
 
 
 //console.log(totalNew);
 
-if(newConferences.length > 0) {
-    var message = '';
+if (newConferences.length > 0) {
+  var message = '';
 
-    if(newConferences.length === 1) {
-        message = '🎫 '+ newConferences[0].title +') has just been added, check out all the details!';
-    } else {
-        var confNames = "";
-        newConferences.forEach(function(conf){
-            confNames = confNames + ", "+ conf.title;
-        });
-        confNames = confNames.replace(", ", "");
-        message = '🎫 ' + newConferences.length + ' new conferences added ('+ confNames +'), check them out!';
-    }
-
-    // send push
-    client.sendNotification(message, {
-        included_segments: "Active Users"
+  if (newConferences.length === 1) {
+    message = '🎫 ' + newConferences[0].title + ') has just been added, check out all the details!';
+  } else {
+    var confNames = "";
+    newConferences.forEach(function (conf) {
+      confNames = confNames + ", " + conf.title;
     });
+    confNames = confNames.replace(", ", "");
+    message = '🎫 ' + newConferences.length + ' new conferences added (' + confNames + '), check them out!';
+  }
+
+  // send push
+  client.sendNotification(message, {
+    included_segments: "Active Users"
+  });
 
 
-    newConferences.forEach(function(conf) {
-        // prepare message
-        const twitterMessage =  conf.emojiflag+' ' + conf.title + ' ( '+ conf.twitter +' ) will be between '+ conf.startdate +' and '+ conf.enddate +' in '+ conf.city +' - '+ conf.homepage +' 🎫 #awesomemobileconference';
-        // send twitter
-        clientTwitter.post('statuses/update', { status: twitterMessage }, function(error, tweet, response) {
-            if (!error) {
-                console.log(tweet);
-            } else {
-                console.log(error);
-            }
-        });
+  newConferences.forEach(function (conf) {
+    // prepare message
+    const twitterMessage = conf.emojiflag + ' ' + conf.title + ' ( ' + conf.twitter + ' ) will be between ' + conf.startdate + ' and ' + conf.enddate + ' in ' + conf.city + ' - ' + conf.homepage + ' 🎫 #awesomeconference';
+    // send twitter
+    clientTwitter.post('statuses/update', {status: twitterMessage}, function (error, tweet, response) {
+      if (!error) {
+        console.log(tweet);
+      } else {
+        console.log(error);
+      }
     });
+  });
 
-    console.log('OneSignal Message sent: ' + message);
+  console.log('OneSignal Message sent: ' + message);
 
-    // add last
-    lastContent.homepage = lastConference;
-    lastContent.startdate = lastConferenceDate;
+  // add last
+  lastContent.homepage = lastConference;
+  lastContent.startdate = lastConferenceDate;
 
-    // write file
-    jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
+  // write file
+  jsonfile.writeFileSync(lastFile, lastContent, {spaces: 2, EOL: '\r\n'});
 }
 
 // save json

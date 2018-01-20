@@ -10,5 +10,4 @@ script:
   - json validate --schema-file=.github/schema.json --document-file=submission.json
 after_success:
   - node .github/crafter/job
-  - ruby .github/convert.rb
   - ./.github/deploy.sh
