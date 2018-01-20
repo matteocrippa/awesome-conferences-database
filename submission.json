@@ -1264,6 +1264,24 @@
       "topics": [
         "ios"
       ]
+    },
+    {
+      "title": "dockercon18",
+      "year": 2018,
+      "homepage": "https://2018.dockercon.com",
+      "where": "747 Howard St, San Francisco, CA 94103, USA",
+      "startdate": "2018/06/12",
+      "enddate": "2018/06/15",
+      "category": [
+        "devops"
+      ],
+      "topics": [
+        "docker",
+        "server"
+      ],
+      "callforpaper": false,
+      "city": "San Francisco",
+      "country": "United States"
     }
   ]
 }
