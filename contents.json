@@ -1513,6 +1513,27 @@
       "id": "083a7c333f2d74018026c0f0b3cf26ae818eec6cc341873f2225fdcd51ada53e720e89548345e80e5ac7e81a6fa4b35a942f616fd207aaeffbb27dd75eeaa79a",
       "emojiflag": "🇺🇸",
       "isnew": false
+    },
+    {
+      "title": "dockercon18",
+      "year": 2018,
+      "homepage": "https://2018.dockercon.com",
+      "where": "747 Howard St, San Francisco, CA 94103, USA",
+      "startdate": "2018/06/12",
+      "enddate": "2018/06/15",
+      "category": [
+        "devops"
+      ],
+      "topics": [
+        "docker",
+        "server"
+      ],
+      "callforpaper": false,
+      "city": "San Francisco",
+      "country": "United States",
+      "id": "0caa9d372acfa4c6fd73f8cda11c556da5ad83371364be6a4ca2316889d2614e924160156ff3834b0c7726bff2a4e2fd73b1fe4487480b5d0defddb337e2940d",
+      "emojiflag": "🇺🇸",
+      "isnew": true
     }
   ]
 }
