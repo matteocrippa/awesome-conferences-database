@@ -1533,6 +1533,34 @@
       "country": "United States",
       "id": "0caa9d372acfa4c6fd73f8cda11c556da5ad83371364be6a4ca2316889d2614e924160156ff3834b0c7726bff2a4e2fd73b1fe4487480b5d0defddb337e2940d",
       "emojiflag": "🇺🇸",
+      "isnew": false
+    },
+    {
+      "title": "T3chFest",
+      "year": 2018,
+      "homepage": "https://t3chfest.uc3m.es",
+      "where": "Calle de Butarque, 15, 28911 Leganés, Madrid, Spain",
+      "startdate": "2018/03/01",
+      "enddate": "2018/03/02",
+      "category": [
+        "backend",
+        "frontend",
+        "mobile",
+        "ui",
+        "ux",
+        "marketing"
+      ],
+      "topics": [
+        "mobile",
+        "ui",
+        "ux"
+      ],
+      "twitter": "@T3chFest",
+      "callforpaper": false,
+      "city": "Madrid",
+      "country": "Spain",
+      "id": "94d9d95b43c10f5b9305d8d15737ebeca1352f137fc216c476f7024f436a0375873a168a0057ac9709c76cafe36d3507e3575714fc1850dcb910b267421e4a0f",
+      "emojiflag": "🇪🇸",
       "isnew": true
     }
   ]
