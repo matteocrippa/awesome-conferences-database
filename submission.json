@@ -1282,6 +1282,31 @@
       "callforpaper": false,
       "city": "San Francisco",
       "country": "United States"
+    },
+    {
+      "title": "T3chFest",
+      "year": 2018,
+      "homepage": "https://t3chfest.uc3m.es",
+      "where": "Calle de Butarque, 15, 28911 Leganés, Madrid, Spain",
+      "startdate": "2018/03/01",
+      "enddate": "2018/03/02",
+      "category": [
+        "backend",
+        "frontend",
+        "mobile",
+        "ui",
+        "ux",
+        "marketing"
+      ],
+      "topics": [
+        "mobile",
+        "ui",
+        "ux"
+      ],
+      "twitter": "@T3chFest",
+      "callforpaper": false,
+      "city": "Madrid",
+      "country": "Spain"
     }
   ]
 }
